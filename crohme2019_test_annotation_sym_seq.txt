@@ -1,0 +1,1264 @@
+Train_2014\KME2G3_0_sub_74	\int \log 3 0 - e t + 1 1 d t
+Train_2014\KME2G3_10_sub_74	\int 0 \log 3 - e t + 1 1 d t
+Train_2014\KME2G3_11_sub_74	\int \log 3 0 e t + 1 - 1 d t
+Train_2014\KME2G3_12_sub_74	\int \log 3 0 - e t + 1 1 d t
+Train_2014\KME2G3_13_sub_74	\int \log 3 0 - e t + 1 1 d t
+Train_2014\KME2G3_14_sub_74	\int \log 3 0 e t + 1 - 1 d t
+Train_2014\KME2G3_15_sub_74	\int 0 \log 3 e t + 1 - 1 d t
+Train_2014\KME2G3_16_sub_74	\int \log 3 0 - e t + 1 1 d t
+Train_2014\KME2G3_17_sub_74	\int 0 \log 3 e t + 1 - 1 d t
+Train_2014\KME2G3_18_sub_74	\int 0 \log 3 1 - e t + 1 d t
+Train_2014\KME2G3_19_sub_74	\int 0 \log 3 1 - e t + 1 d t
+Train_2014\KME2G3_1_sub_74	\int 0 \log 3 1 - e t + 1 d t
+Train_2014\KME2G3_20_sub_74	\int 0 \log 3 - e t + 1 1 d t
+Train_2014\KME2G3_21_sub_74	\int \log 3 0 e t + 1 - 1 d t
+Train_2014\KME2G3_22_sub_74	\int 0 \log 3 1 - e t + 1 d t
+Train_2014\KME2G3_23_sub_74	\int 0 \log 3 1 - e t + 1 d t
+Train_2014\KME2G3_24_sub_74	\int \log 3 0 e t + 1 - 1 d t
+Train_2014\KME2G3_25_sub_74	\int \log 3 0 e t + 1 - 1 d t
+Train_2014\KME2G3_26_sub_74	\int 0 \log 3 - e t + 1 1 d t
+Train_2014\KME2G3_27_sub_74	\int \log 3 0 e t + 1 - 1 d t
+Train_2014\KME2G3_28_sub_74	\int \log 3 0 - e t + 1 1 d t
+Train_2014\KME2G3_29_sub_74	\int 0 \log 3 - e t + 1 1 d t
+Train_2014\KME2G3_2_sub_74	\int \log 3 0 e t + 1 - 1 d t
+Train_2014\KME2G3_30_sub_74	\int \log 3 0 e t + 1 - 1 d t
+Train_2014\KME2G3_3_sub_74	\int \log 3 0 1 - e t + 1 d t
+Train_2014\KME2G3_4_sub_74	\int 0 \log 3 e t + 1 - 1 d t
+Train_2014\KME2G3_5_sub_74	\int \log 3 0 - e t + 1 1 d t
+Train_2014\KME2G3_6_sub_74	\int \log 3 0 - e t + 1 1 d t
+Train_2014\KME2G3_7_sub_74	\int 0 \log 3 1 - e t + 1 d t
+Train_2014\KME2G3_8_sub_74	\int 0 \log 3 - e t + 1 1 d t
+Train_2014\KME2G3_9_sub_74	\int 0 \log 3 1 - e t + 1 d t
+Train_2014\KME2G3_0_sub_30	\sum 1 0 i = 2 n + 3 m i x
+Train_2014\KME2G3_10_sub_30	\sum 1 0 i = 2 n + 3 m i x
+Train_2014\KME2G3_11_sub_30	\sum i x 1 0 i = 2 n + 3 m
+Train_2014\KME2G3_12_sub_30	\sum 1 0 i = 2 n + 3 m i x
+Train_2014\KME2G3_13_sub_30	\sum 1 i = 2 n + 3 m i x 0
+Train_2014\KME2G3_14_sub_30	\sum i = 2 n + 3 m 1 0 i x
+Train_2014\KME2G3_15_sub_30	i = 2 n + 3 m \sum 1 0 i x
+Train_2014\KME2G3_16_sub_30	\sum i = 2 n + 3 m 1 0 i x
+Train_2014\KME2G3_17_sub_30	\sum 1 0 i = 2 n + 3 m i x
+Train_2014\KME2G3_18_sub_30	1 0 \sum = i 2 n + 3 m i x
+Train_2014\KME2G3_19_sub_30	i = 2 n + 3 m \sum 1 0 i x
+Train_2014\KME2G3_1_sub_30	i = 2 n + 3 m 1 0 \sum i x
+Train_2014\KME2G3_20_sub_30	\sum 1 0 i = 2 n + 3 m i x
+Train_2014\KME2G3_21_sub_30	\sum i = 2 n + 3 m 1 0 i x
+Train_2014\KME2G3_22_sub_30	\sum i = 2 n + 3 m i 1 0 x
+Train_2014\KME2G3_23_sub_30	\sum 1 0 i = n 2 + 3 m i x
+Train_2014\KME2G3_24_sub_30	\sum i = 2 n + 3 m 1 0 i x
+Train_2014\KME2G3_25_sub_30	\sum 1 0 i = 2 n + 3 m i x
+Train_2014\KME2G3_26_sub_30	\sum 1 0 i = 2 n + 3 m i x
+Train_2014\KME2G3_27_sub_30	\sum 1 0 i = 2 n + 3 m i x
+Train_2014\KME2G3_28_sub_30	\sum i = 2 n + 3 m 1 0 i x
+Train_2014\KME2G3_29_sub_30	\sum i = 2 n + 3 m 1 0 i x
+Train_2014\KME2G3_2_sub_30	i \sum 1 0 = 2 n + 3 m i x
+Train_2014\KME2G3_30_sub_30	\sum i = 2 n + 3 m 1 0 i x
+Train_2014\KME2G3_3_sub_30	\sum i = 2 + 3 m 1 0 i x n
+Train_2014\KME2G3_4_sub_30	\sum 1 0 i = 2 n + 3 m i x
+Train_2014\KME2G3_5_sub_30	\sum i = 2 n + 3 m 1 0 i x
+Train_2014\KME2G3_6_sub_30	\sum i = 2 n + 3 m 1 0 i x
+Train_2014\KME2G3_7_sub_30	\sum 1 0 i = 2 n + 3 m i x
+Train_2014\KME2G3_8_sub_30	\sum 1 0 i = 2 n + 3 m i x
+Train_2014\KME2G3_9_sub_30	\sum 1 0 i = 2 n + 3 m i x
+Train_2014\KME2G3_0_sub_35	\log 2 - 2 1 + \log 4 - 4 2
+Train_2014\KME2G3_10_sub_35	\log 2 2 - 1 + \log 4 4 - 2
+Train_2014\KME2G3_11_sub_35	\log 2 - 2 1 + \log 4 - 4 2
+Train_2014\KME2G3_12_sub_35	\log 2 - 2 1 + \log 4 - 4 2
+Train_2014\KME2G3_13_sub_35	\log 2 - 2 1 + \log 4 - 4 2
+Train_2014\KME2G3_14_sub_35	\log 2 2 - 1 + \log 4 4 - 2
+Train_2014\KME2G3_15_sub_35	\log 2 2 - 1 + \log 4 4 - 2
+Train_2014\KME2G3_16_sub_35	\log 2 - 2 1 + \log 4 4 - 2
+Train_2014\KME2G3_17_sub_35	\log 2 2 - 1 + \log 4 4 - 2
+Train_2014\KME2G3_18_sub_35	2 1 - 2 + 4 2 - 4 \log \log
+Train_2014\KME2G3_19_sub_35	\log 2 1 - 2 + \log 4 2 - 4
+Train_2014\KME2G3_1_sub_35	\log 2 2 - 1 + \log 4 4 - 2
+Train_2014\KME2G3_20_sub_35	\log 2 - 2 1 + \log 4 - 4 2
+Train_2014\KME2G3_21_sub_35	\log 2 2 - 1 + \log 4 4 - 2
+Train_2014\KME2G3_22_sub_35	2 1 - 2 + 4 2 - 4 \log \log
+Train_2014\KME2G3_23_sub_35	\log 2 1 - 2 + \log 4 2 - 4
+Train_2014\KME2G3_24_sub_35	\log 2 2 - 1 + \log 4 4 - 2
+Train_2014\KME2G3_25_sub_35	\log 2 2 - 1 + \log 4 4 - 2
+Train_2014\KME2G3_26_sub_35	\log 2 - 2 1 + \log 4 2 - 4
+Train_2014\KME2G3_27_sub_35	\log 2 2 - 1 + \log 4 - 4 2
+Train_2014\KME2G3_28_sub_35	\log 2 - 2 + \log 4 - 4 2 1
+Train_2014\KME2G3_29_sub_35	\log 2 - 2 1 + \log 4 - 4 2
+Train_2014\KME2G3_2_sub_35	\log 2 2 - 1 + \log 4 4 - 2
+Train_2014\KME2G3_30_sub_35	\log 2 2 - 1 + \log 4 4 - 2
+Train_2014\KME2G3_3_sub_35	\log 2 1 - 2 + \log 4 2 - 4
+Train_2014\KME2G3_4_sub_35	\log 2 2 - 1 + \log 4 4 - 2
+Train_2014\KME2G3_5_sub_35	\log 2 - 2 1 + \log 4 - 4 2
+Train_2014\KME2G3_6_sub_35	\log 2 - 2 1 + \log 4 - 4 2
+Train_2014\KME2G3_7_sub_35	\log 2 1 - 2 + \log 4 4 - 2
+Train_2014\KME2G3_8_sub_35	\log 2 - 2 1 + \log 4 - 4 2
+Train_2014\KME2G3_9_sub_35	\log 2 - 2 1 + \log 4 - 4 2
+Train_2014\KME2G3_0_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_10_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_11_sub_95	1 + \sqrt 2 + \sqrt 3 + \sqrt 4 \sqrt
+Train_2014\KME2G3_12_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_13_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_14_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_15_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_16_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_17_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_18_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_19_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_1_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_20_sub_95	\sqrt 4 3 + \sqrt + 2 \sqrt 1 + \sqrt
+Train_2014\KME2G3_21_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_22_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_23_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_24_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_25_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_26_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_27_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_28_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_29_sub_95	\sqrt 1 + \sqrt 2 \sqrt 3 + \sqrt 4 +
+Train_2014\KME2G3_2_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_30_sub_95	\sqrt 4 + 3 \sqrt + 2 \sqrt + 1 \sqrt
+Train_2014\KME2G3_3_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_4_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_5_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_6_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_7_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_8_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_9_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\KME2G3_0_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_10_sub_26	x 1 \times x 2 \times x 3 \times 4 = X x
+Train_2014\KME2G3_11_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_12_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_13_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_14_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_15_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_16_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_17_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_18_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_19_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_1_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_20_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_21_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_22_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_23_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_24_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_25_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_26_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_27_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_28_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_29_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_2_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_30_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_3_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_4_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_5_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_6_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_7_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_8_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_9_sub_26	x 1 \times x 2 \times x 3 \times x 4 = X
+Train_2014\KME2G3_0_sub_81	\pi \int c d g ( y ) \{ \} 2 d y
+Train_2014\KME2G3_10_sub_81	\pi \int d c \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_11_sub_81	\pi \int c d \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_12_sub_81	\pi \int c d \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_13_sub_81	\pi \int c d \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_14_sub_81	\pi \int c d \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_15_sub_81	\pi \int c d \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_16_sub_81	\pi \int d c \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_17_sub_81	\pi \int d c \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_18_sub_81	\pi \int d c \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_19_sub_81	\pi \int d c \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_1_sub_81	\pi \int d c \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_20_sub_81	\pi \int d c \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_21_sub_81	\pi \int c d \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_22_sub_81	\pi \int d c \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_23_sub_81	\pi \int d \{ g ( y ) \} 2 d y c
+Train_2014\KME2G3_24_sub_81	\pi \int c d \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_25_sub_81	\pi \int c d \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_26_sub_81	\pi \int d c \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_27_sub_81	\pi \int c d \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_28_sub_81	\pi \int c d \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_29_sub_81	\pi \int c d \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_2_sub_81	\pi \int c d \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_30_sub_81	\pi \int c d \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_3_sub_81	\pi \int c d \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_4_sub_81	\pi \int d c \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_5_sub_81	\pi \int c d \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_6_sub_81	\pi \int c d \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_7_sub_81	\pi \int c d \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_8_sub_81	\pi \int d c \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_9_sub_81	\pi \int c d \{ g ( y ) \} 2 d y
+Train_2014\KME2G3_0_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_10_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_11_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_12_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_13_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_14_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_15_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_16_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_17_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_18_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_19_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_1_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_20_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_21_sub_22	x x x + y y y + z z z - x y - z -
+Train_2014\KME2G3_22_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_23_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_24_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_25_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_26_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_27_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_28_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_29_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_2_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_30_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_3_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_4_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_5_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_6_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_7_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_8_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_9_sub_22	x x x + y y y + z z z - x - y - z
+Train_2014\KME2G3_0_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_10_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_11_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_12_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_13_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_14_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_15_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_16_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_17_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_18_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_19_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_1_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_20_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_21_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_22_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_23_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_24_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_25_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_26_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_27_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_28_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_29_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_2_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_30_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_3_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_4_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_5_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_6_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_7_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_8_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_9_sub_28	z 1 2 + 1 z - z 2 2 + 2 z
+Train_2014\KME2G3_0_sub_65	[ - 3 2 x - 2 3 ] 0 1
+Train_2014\KME2G3_10_sub_65	[ 3 - 2 x 2 - 3 ] 1 0
+Train_2014\KME2G3_11_sub_65	[ - 3 2 x - 2 3 ] 0 1
+Train_2014\KME2G3_12_sub_65	[ - 3 2 x - 2 3 ] 1 0
+Train_2014\KME2G3_13_sub_65	[ - 3 2 x - 2 3 ] 0 1
+Train_2014\KME2G3_14_sub_65	[ 3 - 2 x 2 - 3 ] 0 1
+Train_2014\KME2G3_15_sub_65	[ 3 - 2 x 2 - 3 ] 0 1
+Train_2014\KME2G3_16_sub_65	3 - 2 x 2 - 3 [ ] 1 0
+Train_2014\KME2G3_17_sub_65	[ 3 - 2 x 2 - 3 ] 1 0
+Train_2014\KME2G3_18_sub_65	[ 2 - 3 x 3 - 2 ] 1 0
+Train_2014\KME2G3_19_sub_65	[ 2 - 3 x 3 - 2 ] 1 0
+Train_2014\KME2G3_1_sub_65	[ 2 - 3 x 2 - 3 ] 1 0
+Train_2014\KME2G3_20_sub_65	[ - 3 2 x - 2 3 ] 1 0
+Train_2014\KME2G3_21_sub_65	[ 3 - 2 x 2 - 3 ] 0 1
+Train_2014\KME2G3_22_sub_65	[ 2 - 3 x 3 - 2 ] 1 0
+Train_2014\KME2G3_24_sub_65	[ 3 - 2 x 2 - 3 ] 1 0
+Train_2014\KME2G3_25_sub_65	[ 3 - 2 x 2 - 3 ] 0 1
+Train_2014\KME2G3_26_sub_65	[ 2 - 3 x 3 - 2 ] 1 0
+Train_2014\KME2G3_27_sub_65	[ 3 - 2 x 2 - 3 ] 0 1
+Train_2014\KME2G3_28_sub_65	[ - 3 2 x - 2 3 ] 0 1
+Train_2014\KME2G3_29_sub_65	[ - 3 2 x - 2 3 ] 0 1
+Train_2014\KME2G3_2_sub_65	[ 3 - 2 x 2 - 3 ] 1 0
+Train_2014\KME2G3_30_sub_65	[ 3 - 2 x 2 - 3 ] 0 1
+Train_2014\KME2G3_3_sub_65	[ 2 - 3 x 3 - 2 ] 0 1
+Train_2014\KME2G3_4_sub_65	[ 3 - 2 x 2 - 3 ] 1 0
+Train_2014\KME2G3_5_sub_65	[ - 3 2 x - 2 3 ] 0 1
+Train_2014\KME2G3_6_sub_65	[ - 3 2 x - 2 3 ] 0 1
+Train_2014\KME2G3_7_sub_65	[ 2 - 3 x 3 - 2 ] 1 0
+Train_2014\KME2G3_8_sub_65	[ - 3 2 x - 2 3 ] 1 0
+Train_2014\KME2G3_9_sub_65	[ - 3 2 x 3 - 2 ] 1 0
+Train_2014\KME2G3_0_sub_38	- - 2 n - 1 3 m - 2 n \times 9 n 9 m 2 -
+Train_2014\KME2G3_10_sub_38	2 - 3 m - 2 9 \times n - 9 m - 2 n - 1 n
+Train_2014\KME2G3_11_sub_38	2 - 3 m - 2 n \times 9 n - 9 m - 2 n - 1
+Train_2014\KME2G3_12_sub_38	- 2 3 m - 2 n \times 9 n - m - 2 n - 1 9
+Train_2014\KME2G3_13_sub_38	2 - 3 m - 2 n \times 9 n - 9 m - 2 n - 1
+Train_2014\KME2G3_14_sub_38	2 n - 1 - 3 m - 2 n \times 9 n - 9 m - 2
+Train_2014\KME2G3_15_sub_38	2 n - 1 - 3 m - 2 n \times 9 n - 9 m - 2
+Train_2014\KME2G3_16_sub_38	2 n - 1 - 3 m - 2 n \times 9 n - 9 m - 2
+Train_2014\KME2G3_17_sub_38	2 - 3 m - 2 n \times 9 n - 9 m - 2 n - 1
+Train_2014\KME2G3_18_sub_38	2 - 3 m - 2 n \times 9 n - 9 m - 2 n - 1
+Train_2014\KME2G3_19_sub_38	2 - 3 m - 2 n \times 9 n - 9 m - 2 n - 1
+Train_2014\KME2G3_1_sub_38	2 - 3 m - 2 n \times 9 n - 9 m - 2 n - 1
+Train_2014\KME2G3_20_sub_38	- 2 2 n - 1 3 m - 2 n \times 9 n - 9 m -
+Train_2014\KME2G3_21_sub_38	2 n - 1 - 3 m - 2 n \times 9 n - 9 m - 2
+Train_2014\KME2G3_22_sub_38	2 - 3 m - 2 n \times 9 n - 9 m - 2 n - 1
+Train_2014\KME2G3_23_sub_38	2 - 3 m - 2 n \times 9 n - 9 m - 2 n - 1
+Train_2014\KME2G3_24_sub_38	2 n - 1 - 3 m - 2 n \times 9 n - 9 m - 2
+Train_2014\KME2G3_25_sub_38	2 - 3 m - 2 n \times 9 n - 9 m - 2 n - 1
+Train_2014\KME2G3_26_sub_38	2 - 3 m - 2 n \times 9 n - 9 m - 2 n - 1
+Train_2014\KME2G3_28_sub_38	- 2 - 2 n - 1 3 m - 2 n \times 9 n - 9 m
+Train_2014\KME2G3_29_sub_38	- - 2 n - 1 3 m - 2 n \times 9 n - 9 m 2
+Train_2014\KME2G3_2_sub_38	2 n - 1 - 3 m - 2 n \times 9 n - 9 m - 2
+Train_2014\KME2G3_30_sub_38	2 n - 1 - 3 m - 2 n \times 9 n - 9 m - 2
+Train_2014\KME2G3_3_sub_38	2 - 3 m - 2 n \times 9 n - 9 m - 2 n - 1
+Train_2014\KME2G3_4_sub_38	2 n - 1 - 3 m - 2 n \times 9 n - 9 m - 2
+Train_2014\KME2G3_5_sub_38	- 2 3 m - 2 n \times 9 n - 9 m - 2 n - 1
+Train_2014\KME2G3_6_sub_38	- - 2 n - 1 3 m - 2 n \times 9 n - 9 m 2
+Train_2014\KME2G3_7_sub_38	2 - 3 m - 2 n \times 9 n - 9 m - 2 n - 1
+Train_2014\KME2G3_8_sub_38	2 3 m - 2 n \times 9 n - 9 m - 2 n - 1 -
+Train_2014\KME2G3_9_sub_38	2 - 3 m - 2 n \times 9 n - 9 m - 2 n - 1
+Train_2014\KME2G3_0_sub_96	[ b x \{ ( - b a ) x + 1 \} ] - x 1
+Train_2014\KME2G3_12_sub_96	[ b x \{ ( - b a ) x + 1 \} ] - x 1
+Train_2014\KME2G3_13_sub_96	[ b \{ ( - b a ) x + 1 \} ] - x 1 x
+Train_2014\KME2G3_14_sub_96	[ b x \{ ( b - a ) x + 1 \} ] x - 1
+Train_2014\KME2G3_15_sub_96	[ b x \{ ( b - a ) x + 1 \} ] x - 1
+Train_2014\KME2G3_16_sub_96	b x \{ ( b - a ) x + 1 \} ] [ x - 1
+Train_2014\KME2G3_17_sub_96	[ b x \{ ( b - a ) x + 1 \} ] x - 1
+Train_2014\KME2G3_18_sub_96	[ b x \{ ( a - b ) x + 1 \} ] 1 - x
+Train_2014\KME2G3_19_sub_96	[ b x \{ a - b ) x + 1 \} ] 1 - x (
+Train_2014\KME2G3_1_sub_96	[ b x \{ ( a - b ) x + 1 \} ] x - 1
+Train_2014\KME2G3_20_sub_96	[ b x \{ - b a ( ) x + 1 \} ] - x 1
+Train_2014\KME2G3_21_sub_96	[ b x \{ ( b - a ) x + 1 \} ] x - 1
+Train_2014\KME2G3_22_sub_96	[ b x \{ ( a - b ) x + 1 \} ] 1 - x
+Train_2014\KME2G3_23_sub_96	[ b x \{ ( a - b ) x + 1 \} ] 1 - x
+Train_2014\KME2G3_24_sub_96	[ b x \{ ( b - a ) x + 1 \} ] x - 1
+Train_2014\KME2G3_25_sub_96	[ b x \{ ( b - a ) x + 1 \} ] x - 1
+Train_2014\KME2G3_26_sub_96	[ b x \{ a - b ) ( x + 1 \} ] 1 - x
+Train_2014\KME2G3_27_sub_96	[ b x \{ ( b - a ) x + 1 \} ] x - 1
+Train_2014\KME2G3_28_sub_96	[ b x \{ ( - b a ) x + 1 \} ] - x 1
+Train_2014\KME2G3_29_sub_96	[ b x \{ ( - b a ) x + 1 \} ] - x 1
+Train_2014\KME2G3_2_sub_96	[ b x \{ ( b - a ) x + 1 \} ] x - 1
+Train_2014\KME2G3_30_sub_96	[ b x \{ ( b - a ) x + 1 \} ] x - 1
+Train_2014\KME2G3_3_sub_96	[ b x \{ ( a - b ) x + 1 \} ] 1 - x
+Train_2014\KME2G3_4_sub_96	[ b x \{ ( b - a ) x + 1 \} ] x - 1
+Train_2014\KME2G3_5_sub_96	[ b x \{ ( - b a ) x + 1 \} ] - x 1
+Train_2014\KME2G3_6_sub_96	[ b x \{ ( - b a ) x + 1 \} ] - x 1
+Train_2014\KME2G3_7_sub_96	[ b x \{ ( a - b ) x + 1 \} ] 1 - x
+Train_2014\KME2G3_8_sub_96	[ b x \{ ( - b a ) x + 1 \} ] - x 1
+Train_2014\KME2G3_9_sub_96	[ b x \{ ( a - b ) x + 1 \} ] - x 1
+Train_2014\TrainData2_0_sub_15	( x 3 - x 2 - x ) 2 ( x - 7 )
+Train_2014\TrainData2_10_sub_15	( x 3 - x 2 - x ) ( 2 x - 7 )
+Train_2014\TrainData2_11_sub_15	( x 3 - x 2 - x ) ( 2 x - 7 )
+Train_2014\TrainData2_12_sub_15	( x 3 - x 2 - x ) ( 2 x - 7 )
+Train_2014\TrainData2_13_sub_15	x 3 - x 2 - x ( ) ( 2 x - 7 )
+Train_2014\TrainData2_14_sub_15	x 3 - x 2 - x ) ( ( 2 x - 7 )
+Train_2014\TrainData2_15_sub_15	( x 3 - x 2 - x ) ( 2 x - 7 )
+Train_2014\TrainData2_16_sub_15	( x 3 - x 2 - x ) ( 2 x - 7 )
+Train_2014\TrainData2_17_sub_15	( x 3 - x 2 - x ) ( 2 x - 7 )
+Train_2014\TrainData2_18_sub_15	x 3 - x 2 - x ( ) ( 2 x - 7 )
+Train_2014\TrainData2_19_sub_15	( x 3 - x 2 - x ) ( 2 x - 7 )
+Train_2014\TrainData2_1_sub_15	( x 3 - x 2 - x ) ( 2 x - 7 )
+Train_2014\TrainData2_20_sub_15	( x 3 - x 2 - x ) ( 2 x - 7 )
+Train_2014\TrainData2_21_sub_15	( x 3 - x 2 - x ) ( 2 x - 7 )
+Train_2014\TrainData2_22_sub_15	( x 3 - x 2 - x ) ( 2 x - 7 )
+Train_2014\TrainData2_23_sub_15	( x 3 - x 2 - x ) ( 2 x - 7 )
+Train_2014\TrainData2_24_sub_15	( x 3 - x 2 - x ) ( 2 x - 7 )
+Train_2014\TrainData2_25_sub_15	( x 3 - x 2 - x ) ( 2 x - 7 )
+Train_2014\TrainData2_26_sub_15	x 3 - x 2 - x ) ( ( 2 x - 7 )
+Train_2014\TrainData2_2_sub_15	( x 3 - x 2 - x ) ( 2 x - 7 )
+Train_2014\TrainData2_3_sub_15	( x 3 - x 2 - x ) ( 2 x - 7 )
+Train_2014\TrainData2_4_sub_15	( x 3 - x 2 - x ) ( 2 x - 7 )
+Train_2014\TrainData2_5_sub_15	( x 3 - x 2 - x ) ( 2 x - 7 )
+Train_2014\TrainData2_6_sub_15	( x 3 - x 2 - x ) ( 2 x - 7 )
+Train_2014\TrainData2_7_sub_15	( x 3 - x 2 - x ) ( 2 x - 7 )
+Train_2014\TrainData2_8_sub_15	( x 3 - x 2 - x ) ( 2 x - 7 )
+Train_2014\TrainData2_9_sub_15	( x 3 - x 2 - x ) ( x - 7 ) 2
+Train_2014\TrainData2_0_sub_9	b 2 - 4 a c \sqrt
+Train_2014\TrainData2_10_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_11_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_12_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_13_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_14_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_15_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_16_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_17_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_18_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_19_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_1_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_20_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_21_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_22_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_23_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_24_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_25_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_26_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_2_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_3_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_4_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_5_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_6_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_7_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_8_sub_9	\sqrt b 2 - 4 a c
+Train_2014\TrainData2_9_sub_9	b 2 - 4 a c \sqrt
+Train_2014\TrainData2_0_sub_13	- x + y + z \sin \theta + \cos \theta + \tan \theta
+Train_2014\TrainData2_10_sub_13	- \sin \theta + \cos \theta + \tan \theta x + y + z
+Train_2014\TrainData2_11_sub_13	\sin \theta + \cos \theta + \tan \theta - x + y + z
+Train_2014\TrainData2_12_sub_13	x + y + z - \sin \theta + \cos \theta + \tan \theta
+Train_2014\TrainData2_13_sub_13	x + y + z - \sin \theta + \cos \theta + \tan \theta
+Train_2014\TrainData2_14_sub_13	\sin \theta + \cos \theta + \tan \theta - x + y + z
+Train_2014\TrainData2_15_sub_13	\sin \theta + \cos \theta + \tan \theta - x + y + z
+Train_2014\TrainData2_16_sub_13	\sin \theta + \cos \theta + \tan \theta - x + y + z
+Train_2014\TrainData2_17_sub_13	\sin \theta + \cos \theta + \tan \theta - x + y + z
+Train_2014\TrainData2_18_sub_13	\sin \theta + \cos \theta + \tan \theta - x + y + z
+Train_2014\TrainData2_19_sub_13	x + y + z - \sin \theta + \cos \theta + \tan \theta
+Train_2014\TrainData2_1_sub_13	\sin \theta + \cos \theta + \tan \theta - x + y + z
+Train_2014\TrainData2_20_sub_13	\sin \theta + \cos \theta + \tan \theta - x + y + z
+Train_2014\TrainData2_21_sub_13	\theta + \cos \theta + \tan \theta - x + y + z \sin
+Train_2014\TrainData2_22_sub_13	x + y + z - \sin \theta + \cos \theta + \tan \theta
+Train_2014\TrainData2_23_sub_13	\sin \theta + \cos \theta + \tan \theta - x + y + z
+Train_2014\TrainData2_24_sub_13	\sin \theta + \cos \theta + \tan \theta - x + y + z
+Train_2014\TrainData2_25_sub_13	\sin \theta + \cos \theta + \tan \theta - x + y + z
+Train_2014\TrainData2_26_sub_13	\sin \theta + \cos \theta + \tan \theta - x + y + z
+Train_2014\TrainData2_2_sub_13	x y + z - \sin \theta + \cos \theta + \tan \theta +
+Train_2014\TrainData2_3_sub_13	\sin \theta + \cos \theta + \tan \theta - x + y + z
+Train_2014\TrainData2_4_sub_13	x + y + z - \sin \theta + \cos \theta + \tan \theta
+Train_2014\TrainData2_5_sub_13	- x + y + z \sin \theta + \cos \theta + \tan \theta
+Train_2014\TrainData2_6_sub_13	\sin \theta + \cos \theta + \tan \theta - x + y + z
+Train_2014\TrainData2_7_sub_13	\sin \theta + \cos \theta + \tan \theta - x + y + z
+Train_2014\TrainData2_8_sub_13	\sin \theta + \cos \theta + \theta - x + y + z \tan
+Train_2014\TrainData2_9_sub_13	\sin \theta + \cos \theta + \tan \theta - x + y + z
+Train_2014\TrainData2_0_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_10_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_11_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_12_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_13_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_14_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_15_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_16_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_17_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_18_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_19_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_1_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_20_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_21_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_22_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_23_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_24_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_25_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_26_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_2_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_3_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_4_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_5_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_6_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_7_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_8_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_9_sub_88	3 0 \times 2 9 x 2 8
+Train_2014\TrainData2_0_sub_43	- 1 - \tan 2 2 \tan \alpha \alpha
+Train_2014\TrainData2_10_sub_43	- 2 \tan \alpha 1 - \tan 2 \alpha
+Train_2014\TrainData2_11_sub_43	2 \tan \alpha - 1 - \tan 2 \alpha
+Train_2014\TrainData2_12_sub_43	1 - \tan 2 \alpha - 2 \tan \alpha
+Train_2014\TrainData2_13_sub_43	1 - \tan 2 \alpha - 2 \tan \alpha
+Train_2014\TrainData2_14_sub_43	2 \tan \alpha - 1 - \tan 2 \alpha
+Train_2014\TrainData2_15_sub_43	2 \tan \alpha - 1 - \tan 2 \alpha
+Train_2014\TrainData2_16_sub_43	2 \tan \alpha - 1 - \tan 2 \alpha
+Train_2014\TrainData2_17_sub_43	2 \tan \alpha - 1 - \tan 2 \alpha
+Train_2014\TrainData2_18_sub_43	2 \tan \alpha - 1 - \tan 2 \alpha
+Train_2014\TrainData2_19_sub_43	1 - \tan 2 \alpha - 2 \tan \alpha
+Train_2014\TrainData2_1_sub_43	2 \tan - 1 - \tan 2 \alpha \alpha
+Train_2014\TrainData2_20_sub_43	2 \tan \alpha - 1 - \tan 2 \alpha
+Train_2014\TrainData2_21_sub_43	2 \tan \alpha - 1 - \tan 2 \alpha
+Train_2014\TrainData2_22_sub_43	1 - \tan 2 \alpha - 2 \tan \alpha
+Train_2014\TrainData2_23_sub_43	2 \tan \alpha - 1 - \tan 2 \alpha
+Train_2014\TrainData2_24_sub_43	2 \tan \alpha - 1 - \tan 2 \alpha
+Train_2014\TrainData2_25_sub_43	1 - \tan 2 \alpha - 2 \tan \alpha
+Train_2014\TrainData2_26_sub_43	1 - \tan 2 \alpha - 2 \tan \alpha
+Train_2014\TrainData2_2_sub_43	1 - \tan 2 - 2 \tan \alpha \alpha
+Train_2014\TrainData2_3_sub_43	2 \tan \alpha - 1 - \tan 2 \alpha
+Train_2014\TrainData2_4_sub_43	1 - \tan 2 \alpha - 2 \tan \alpha
+Train_2014\TrainData2_5_sub_43	- 1 - \tan 2 \alpha 2 \tan \alpha
+Train_2014\TrainData2_6_sub_43	2 \tan \alpha - 1 - \tan 2 \alpha
+Train_2014\TrainData2_7_sub_43	2 \tan - 1 - \tan 2 \alpha \alpha
+Train_2014\TrainData2_8_sub_43	\alpha - 1 - \alpha 2 \tan \tan 2
+Train_2014\TrainData2_9_sub_43	2 \tan \alpha - 1 - \tan 2 \alpha
+Train_2014\TrainData2_0_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_10_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_11_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_12_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_13_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_14_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_15_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_16_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_17_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_18_sub_95	\sqrt 4 3 + \sqrt + 2 \sqrt 1 + \sqrt
+Train_2014\TrainData2_19_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_1_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_20_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_21_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_22_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_23_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_24_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_25_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_26_sub_95	\sqrt 1 + \sqrt 2 \sqrt 3 + \sqrt 4 +
+Train_2014\TrainData2_2_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_3_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_4_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_5_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_6_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_7_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_8_sub_95	\sqrt 1 + \sqrt 2 + \sqrt 3 + \sqrt 4
+Train_2014\TrainData2_9_sub_95	1 + \sqrt 2 + \sqrt 3 + \sqrt 4 \sqrt
+Train_2014\TrainData2_0_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_10_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_11_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_12_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_13_sub_33	2 8 + \log 3 9 1 6 \log + \log 4
+Train_2014\TrainData2_14_sub_33	\log 2 8 + \log 9 3 + \log 4 1 6
+Train_2014\TrainData2_15_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_16_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_17_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_18_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_19_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_1_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_20_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_21_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_22_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_23_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_24_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_25_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_26_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_2_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_3_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_4_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_5_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_6_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_7_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_8_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_9_sub_33	\log 2 8 + \log 3 9 + \log 4 1 6
+Train_2014\TrainData2_0_sub_41	- 1 + \tan \tan \beta \tan - \tan \beta \alpha \alpha
+Train_2014\TrainData2_10_sub_41	- \tan - \tan \beta 1 + \tan \tan \beta \alpha \alpha
+Train_2014\TrainData2_11_sub_41	\tan \alpha - \tan \beta - 1 + \tan \alpha \tan \beta
+Train_2014\TrainData2_12_sub_41	1 + \tan \alpha \tan \beta - \tan \alpha - \tan \beta
+Train_2014\TrainData2_13_sub_41	1 + \tan \alpha \tan \beta - \tan \alpha - \tan \beta
+Train_2014\TrainData2_14_sub_41	\tan \alpha - \tan \beta - 1 + \tan \alpha \tan \beta
+Train_2014\TrainData2_15_sub_41	\tan \alpha - \tan \beta - 1 + \tan \alpha \tan \beta
+Train_2014\TrainData2_16_sub_41	\tan \alpha - \tan \beta - 1 + \tan \alpha \tan \beta
+Train_2014\TrainData2_17_sub_41	\tan - \tan - 1 + \tan \tan \alpha \alpha \beta \beta
+Train_2014\TrainData2_18_sub_41	\tan \alpha - \tan \beta - 1 + \tan \alpha \tan \beta
+Train_2014\TrainData2_19_sub_41	1 + \tan \alpha \tan \beta - \tan \alpha - \tan \beta
+Train_2014\TrainData2_1_sub_41	\tan - \tan \beta - 1 + \tan \tan \beta \alpha \alpha
+Train_2014\TrainData2_20_sub_41	\tan \alpha - \tan \beta - 1 + \tan \alpha \tan \beta
+Train_2014\TrainData2_21_sub_41	\tan \alpha - \tan \beta - 1 + \tan \alpha \tan \beta
+Train_2014\TrainData2_22_sub_41	1 + \tan \alpha \tan \beta - \tan \alpha - \tan \beta
+Train_2014\TrainData2_23_sub_41	\tan \alpha - \tan \beta - 1 + \tan \alpha \tan \beta
+Train_2014\TrainData2_24_sub_41	\tan \alpha - \tan \beta - 1 + \tan \alpha \tan \beta
+Train_2014\TrainData2_25_sub_41	\tan \alpha - \tan \beta - 1 + \tan \alpha \tan \beta
+Train_2014\TrainData2_26_sub_41	\tan \alpha - \tan \beta - 1 + \tan \alpha \tan \beta
+Train_2014\TrainData2_2_sub_41	1 + \tan \alpha \tan \beta - \tan \alpha - \tan \beta
+Train_2014\TrainData2_3_sub_41	\tan \alpha - \tan \beta - 1 + \tan \alpha \tan \beta
+Train_2014\TrainData2_4_sub_41	1 + \tan \alpha \tan \beta - \tan \alpha - \tan \beta
+Train_2014\TrainData2_5_sub_41	- 1 + \tan \alpha \tan \beta \tan \alpha - \tan \beta
+Train_2014\TrainData2_6_sub_41	\tan \alpha - \tan \beta - 1 + \tan \alpha \tan \beta
+Train_2014\TrainData2_7_sub_41	\tan - \tan \beta - 1 + \tan \tan \beta \alpha \alpha
+Train_2014\TrainData2_8_sub_41	\alpha - \beta - 1 + \alpha \beta \tan \tan \tan \tan
+Train_2014\TrainData2_9_sub_41	\tan \alpha - \tan \beta - 1 + \tan \alpha \tan \beta
+Train_2014\TrainData2_0_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_10_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_11_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_12_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_13_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_14_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_15_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_16_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_17_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_18_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_19_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_1_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_20_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_21_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_22_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_23_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_24_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_25_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_26_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_2_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_3_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_4_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_5_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_6_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_7_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_8_sub_39	x - y - ( x - y ) \sin \sin \sin
+Train_2014\TrainData2_9_sub_39	\sin x - \sin y - \sin ( x - y )
+Train_2014\TrainData2_0_sub_20	a + b + c + d + e
+Train_2014\TrainData2_10_sub_20	a + b + c + d + e
+Train_2014\TrainData2_11_sub_20	a + b + c + d + e
+Train_2014\TrainData2_12_sub_20	a + b + c + d + e
+Train_2014\TrainData2_13_sub_20	a + b + c + d + e
+Train_2014\TrainData2_14_sub_20	a + b + c + d + e
+Train_2014\TrainData2_15_sub_20	a + b + c + d + e
+Train_2014\TrainData2_16_sub_20	a + b + c + d + e
+Train_2014\TrainData2_17_sub_20	a + b + c + d + e
+Train_2014\TrainData2_18_sub_20	a + b + c + d + e
+Train_2014\TrainData2_19_sub_20	a + b + c + d + e
+Train_2014\TrainData2_1_sub_20	a + b + c + d + e
+Train_2014\TrainData2_20_sub_20	a + b + c + d + e
+Train_2014\TrainData2_21_sub_20	a + b + c + d + e
+Train_2014\TrainData2_22_sub_20	a + b + c + d + e
+Train_2014\TrainData2_23_sub_20	a + b + c + d + e
+Train_2014\TrainData2_24_sub_20	a + b + c + d + e
+Train_2014\TrainData2_25_sub_20	a + b + c + d + e
+Train_2014\TrainData2_26_sub_20	a + b + c + d + e
+Train_2014\TrainData2_2_sub_20	a + b + c + d + e
+Train_2014\TrainData2_3_sub_20	a + b + c + d + e
+Train_2014\TrainData2_4_sub_20	a + b + c + d + e
+Train_2014\TrainData2_5_sub_20	a + b + c + d + e
+Train_2014\TrainData2_6_sub_20	a + b + c + d + e
+Train_2014\TrainData2_7_sub_20	a + b + c + d + e
+Train_2014\TrainData2_8_sub_20	a + b + c + d + e
+Train_2014\TrainData2_9_sub_20	a + b + c + d + e
+Train_2014\TrainData2_0_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_10_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_11_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_12_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_13_sub_1	x 1 + x x 3 = 2
+Train_2014\TrainData2_14_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_15_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_16_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_17_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_18_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_19_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_1_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_20_sub_1	x 1 + x 2 x 3 =
+Train_2014\TrainData2_21_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_22_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_23_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_24_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_25_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_26_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_2_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_3_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_4_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_5_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_6_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_7_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_8_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_9_sub_1	x 1 + x 2 = x 3
+Train_2014\TrainData2_0_sub_51	\lim x \rightarrow - 2 \pi + 0 \tan x = - \infty
+Train_2014\TrainData2_10_sub_51	\lim x \rightarrow - 2 \pi + 0 \tan x = - \infty
+Train_2014\TrainData2_11_sub_51	\lim x \rightarrow - 2 \pi + 0 \tan x = - \infty
+Train_2014\TrainData2_12_sub_51	\lim x \rightarrow 2 - \pi + 0 \tan x = - \infty
+Train_2014\TrainData2_13_sub_51	\lim x \rightarrow 2 - \pi \tan x = - \infty + 0
+Train_2014\TrainData2_14_sub_51	\lim x \rightarrow 2 - \pi + 0 \tan x = - \infty
+Train_2014\TrainData2_15_sub_51	\lim x \rightarrow 2 - \pi + 0 \tan x = - \infty
+Train_2014\TrainData2_16_sub_51	\lim x \rightarrow 2 - \pi + 0 \tan x = - \infty
+Train_2014\TrainData2_17_sub_51	\lim x \rightarrow \pi - 2 + 0 \tan x = - \infty
+Train_2014\TrainData2_18_sub_51	\lim x \rightarrow - 2 \pi + 0 \tan x = - \infty
+Train_2014\TrainData2_19_sub_51	\lim x \rightarrow 2 - \pi + 0 \tan x = - \infty
+Train_2014\TrainData2_1_sub_51	\lim x \rightarrow \pi - 2 + 0 \tan x = - \infty
+Train_2014\TrainData2_20_sub_51	\lim x \rightarrow \pi - 2 + 0 \tan x = - \infty
+Train_2014\TrainData2_21_sub_51	\lim x \rightarrow \pi - 2 + 0 \tan x = - \infty
+Train_2014\TrainData2_22_sub_51	\lim x \rightarrow 2 - \pi + 0 \tan x = - \infty
+Train_2014\TrainData2_23_sub_51	\lim x \rightarrow 2 - \pi + 0 \tan x = - \infty
+Train_2014\TrainData2_24_sub_51	\lim x \rightarrow \pi - 2 + 0 \tan x = - \infty
+Train_2014\TrainData2_25_sub_51	\lim x \rightarrow 2 - \pi + 0 \tan x = - \infty
+Train_2014\TrainData2_26_sub_51	\lim x \rightarrow - 2 \pi + 0 \tan x = - \infty
+Train_2014\TrainData2_2_sub_51	\lim x \rightarrow 2 - \pi + 0 \tan x = - \infty
+Train_2014\TrainData2_3_sub_51	\lim x \rightarrow \pi - 2 + 0 \tan x = - \infty
+Train_2014\TrainData2_4_sub_51	\lim x \rightarrow 2 - \pi + 0 \tan x = - \infty
+Train_2014\TrainData2_5_sub_51	\lim x \rightarrow - 2 \pi + 0 \tan x = - \infty
+Train_2014\TrainData2_6_sub_51	\lim x \rightarrow - 2 \pi + 0 \tan x = - \infty
+Train_2014\TrainData2_7_sub_51	\lim x \rightarrow \pi - 2 + 0 \tan x = - \infty
+Train_2014\TrainData2_8_sub_51	\lim x \rightarrow 2 - \pi + 0 x = - \infty \tan
+Train_2014\TrainData2_9_sub_51	\lim x \rightarrow \pi - 2 + 0 \tan x = - \infty
+Train_2014\TrainData2_0_sub_46	\lim x \rightarrow - 1 - x + 1 x 3 + 1
+Train_2014\TrainData2_10_sub_46	\lim x - 1 - x + 1 x 3 + 1 \rightarrow
+Train_2014\TrainData2_11_sub_46	\lim x \rightarrow - 1 x 3 + 1 - x + 1
+Train_2014\TrainData2_12_sub_46	\lim x \rightarrow - 1 x + 1 - x 3 + 1
+Train_2014\TrainData2_13_sub_46	\lim x \rightarrow - 1 x + 1 - x 3 + 1
+Train_2014\TrainData2_14_sub_46	\lim x \rightarrow - 1 - x + 1 x 3 + 1
+Train_2014\TrainData2_15_sub_46	\lim x \rightarrow - 1 x 3 + 1 - x + 1
+Train_2014\TrainData2_16_sub_46	\lim x \rightarrow - 1 x 3 + 1 - x + 1
+Train_2014\TrainData2_17_sub_46	\lim x \rightarrow - 1 x 3 + 1 - x + 1
+Train_2014\TrainData2_18_sub_46	\lim x \rightarrow - 1 - x 3 + x + 1 1
+Train_2014\TrainData2_19_sub_46	\lim x \rightarrow - 1 x + 1 - x 3 + 1
+Train_2014\TrainData2_1_sub_46	\lim x \rightarrow - 1 x 3 + 1 - x + 1
+Train_2014\TrainData2_20_sub_46	\lim x \rightarrow - 1 x 3 + 1 - x + 1
+Train_2014\TrainData2_21_sub_46	\lim x \rightarrow - 1 x 3 + 1 - x + 1
+Train_2014\TrainData2_22_sub_46	\lim x \rightarrow - 1 x + 1 - x 3 + 1
+Train_2014\TrainData2_23_sub_46	\lim x \rightarrow - 1 x 3 + 1 - x + 1
+Train_2014\TrainData2_24_sub_46	\lim x \rightarrow - 1 - x + 1 x 3 + 1
+Train_2014\TrainData2_25_sub_46	\lim x \rightarrow - 1 - x + 1 x 3 + 1
+Train_2014\TrainData2_26_sub_46	\lim x \rightarrow - 1 - x + 1 x 3 + 1
+Train_2014\TrainData2_2_sub_46	\lim x \rightarrow - 1 x + 1 - x 3 + 1
+Train_2014\TrainData2_3_sub_46	\lim x \rightarrow - 1 x 3 + 1 - x + 1
+Train_2014\TrainData2_4_sub_46	\lim x \rightarrow - 1 x + 1 - x 3 + 1
+Train_2014\TrainData2_5_sub_46	\lim x \rightarrow - 1 - x + 1 x 3 + 1
+Train_2014\TrainData2_6_sub_46	\lim x \rightarrow - 1 - x + 1 x 3 + 1
+Train_2014\TrainData2_7_sub_46	\lim x \rightarrow - 1 x 3 + 1 - x + 1
+Train_2014\TrainData2_8_sub_46	\lim x \rightarrow - 1 x 3 + 1 - x + 1
+Train_2014\TrainData2_9_sub_46	\lim x \rightarrow - 1 x 3 + 1 - x + 1
+Train_2014\TrainData2_0_sub_98	\lim x \rightarrow - 4 1 - 1 - 4 x 1 - 4 x - - 4 1
+Train_2014\TrainData2_10_sub_98	\lim x \rightarrow - 4 1 - 1 - 4 x 1 - 4 x - - 4 1
+Train_2014\TrainData2_11_sub_98	\lim x \rightarrow - 4 1 - 1 - 4 x - - 4 1 1 - 4 x
+Train_2014\TrainData2_12_sub_98	\lim x \rightarrow 4 - 1 1 - 4 x - 1 - 4 x - 4 - 1
+Train_2014\TrainData2_13_sub_98	\lim x \rightarrow 4 - 1 1 - 4 x - 1 - 4 x - 4 - 1
+Train_2014\TrainData2_14_sub_98	\lim x \rightarrow 4 - 1 - 1 - 4 x 1 - 4 x - 4 - 1
+Train_2014\TrainData2_15_sub_98	\lim x \rightarrow 4 - 1 1 - 4 x - 4 - 1 - 1 - 4 x
+Train_2014\TrainData2_16_sub_98	\lim x \rightarrow 1 - 4 1 - 4 x - 4 - 1 - 1 - 4 x
+Train_2014\TrainData2_17_sub_98	\lim x \rightarrow 1 - 4 1 - 4 x - 1 - 4 - 1 - 4 x
+Train_2014\TrainData2_18_sub_98	\lim x \rightarrow - 4 1 - 1 - 4 x 1 - 4 x - - 4 1
+Train_2014\TrainData2_19_sub_98	\lim x \rightarrow 4 - 1 - 1 - 4 x 1 - 4 x - 4 - 1
+Train_2014\TrainData2_1_sub_98	\lim x \rightarrow 4 - 1 1 - 4 x - 4 - 1 - 1 - 4 x
+Train_2014\TrainData2_20_sub_98	\lim x \rightarrow 1 - 4 1 - 4 x - 1 - 4 - 1 - 4 x
+Train_2014\TrainData2_21_sub_98	\lim x \rightarrow 1 - 4 1 - 4 x - 1 - 4 - 1 - 4 x
+Train_2014\TrainData2_22_sub_98	\lim x \rightarrow 4 - 1 1 - 4 x - 1 - 4 x - 4 - 1
+Train_2014\TrainData2_23_sub_98	\lim x \rightarrow 4 - 1 1 - 4 x - 1 - 4 x - - 1 4
+Train_2014\TrainData2_24_sub_98	\lim x \rightarrow 1 - 4 - 1 - 4 x - - 4 1 1 - 4 x
+Train_2014\TrainData2_25_sub_98	\lim x \rightarrow 4 - 1 - 1 - 4 x 1 - 4 x - 4 - 1
+Train_2014\TrainData2_26_sub_98	\lim x \rightarrow - 4 1 - 1 - 4 x 1 - 4 x - - 4 1
+Train_2014\TrainData2_2_sub_98	\lim x \rightarrow 4 - 1 1 - 4 x - 1 - 4 x - 4 - 1
+Train_2014\TrainData2_3_sub_98	\lim x \rightarrow 1 - 4 1 - 4 x - 1 - 4 - 1 - 4 x
+Train_2014\TrainData2_4_sub_98	\lim x \rightarrow 4 - 1 1 - 4 x - 1 - 4 x - 4 - 1
+Train_2014\TrainData2_5_sub_98	\lim x \rightarrow - 4 1 - 1 - 4 x 1 - 4 x - - 4 1
+Train_2014\TrainData2_6_sub_98	\lim x \rightarrow - 4 1 - 1 - 4 x 1 - 4 x - - 4 1
+Train_2014\TrainData2_7_sub_98	\lim x \rightarrow - 4 1 - 1 - 4 x - - 4 1 1 - 4 x
+Train_2014\TrainData2_8_sub_98	\lim x \rightarrow - 1 - 1 - 4 x 1 - 4 x - - 1 4 4
+Train_2014\TrainData2_9_sub_98	\lim x \rightarrow - 4 1 - 1 - 4 x 1 - 4 x - - 4 1
+Train_2014\TrainData2_0_sub_71	- \cos B + \cos C \sin B + \sin C
+Train_2014\TrainData2_10_sub_71	- \sin B + \sin C \cos B + \cos C
+Train_2014\TrainData2_11_sub_71	\sin B + \sin C - \cos B + \cos C
+Train_2014\TrainData2_12_sub_71	\cos B + \cos C - \sin B + \sin C
+Train_2014\TrainData2_13_sub_71	\cos B + \cos C - \sin B + \sin C
+Train_2014\TrainData2_14_sub_71	\sin B + \sin C - \cos B + \cos C
+Train_2014\TrainData2_15_sub_71	\sin B + \sin C - \cos B + \cos C
+Train_2014\TrainData2_16_sub_71	\sin B + \sin C - \cos B + \cos C
+Train_2014\TrainData2_17_sub_71	\sin B + \sin C - \cos B + \cos C
+Train_2014\TrainData2_18_sub_71	\sin B + \sin C - \cos B + \cos C
+Train_2014\TrainData2_19_sub_71	\cos B + \cos C - \sin B + \sin C
+Train_2014\TrainData2_1_sub_71	\sin B + \sin C - \cos B + \cos C
+Train_2014\TrainData2_20_sub_71	\sin B + \sin C - \cos B + \cos C
+Train_2014\TrainData2_21_sub_71	\sin B + \sin C - \cos B + \cos C
+Train_2014\TrainData2_22_sub_71	\cos B + \cos C - \sin B + \sin C
+Train_2014\TrainData2_23_sub_71	\sin B + \sin C - \cos B + \cos C
+Train_2014\TrainData2_24_sub_71	\sin B + \sin C - \cos B + \cos C
+Train_2014\TrainData2_25_sub_71	\cos B + \cos C - \sin B + \sin C
+Train_2014\TrainData2_26_sub_71	\sin B + \sin C - \cos B + \cos C
+Train_2014\TrainData2_2_sub_71	\cos B + \cos C - \sin B + \sin C
+Train_2014\TrainData2_3_sub_71	\sin B + \sin C - \cos B + \cos C
+Train_2014\TrainData2_4_sub_71	\cos B + \cos C - \sin B + \sin C
+Train_2014\TrainData2_5_sub_71	- \cos B + \cos C \sin B + \sin C
+Train_2014\TrainData2_6_sub_71	\sin B + \sin C - \cos B + \cos C
+Train_2014\TrainData2_7_sub_71	\sin B + \sin C - \cos B + \cos C
+Train_2014\TrainData2_8_sub_71	\sin B + \sin C - \cos B + \cos C
+Train_2014\TrainData2_9_sub_71	\sin B + \sin C - \cos B + \cos C
+Train_2014\TrainData2_0_sub_63	- a 1 F ( a x + b ) + C
+Train_2014\TrainData2_10_sub_63	- a 1 F ( a x + b ) + C
+Train_2014\TrainData2_11_sub_63	- a 1 F ( a x + ) + C b
+Train_2014\TrainData2_12_sub_63	a - 1 F ( a x + b ) + C
+Train_2014\TrainData2_13_sub_63	a - 1 F ( a x + b ) + C
+Train_2014\TrainData2_14_sub_63	a - 1 F ( a x + b ) + C
+Train_2014\TrainData2_15_sub_63	a - 1 F ( a x + b ) + C
+Train_2014\TrainData2_16_sub_63	1 - a F ( a x + b ) + C
+Train_2014\TrainData2_17_sub_63	1 - a F ( a x + b ) + C
+Train_2014\TrainData2_18_sub_63	- a 1 F a x + b ) + C (
+Train_2014\TrainData2_19_sub_63	a - 1 F ( a x + b ) + C
+Train_2014\TrainData2_1_sub_63	1 - a F ( a x + b ) + C
+Train_2014\TrainData2_20_sub_63	1 - a F ( a x + b ) + C
+Train_2014\TrainData2_21_sub_63	1 - a F ( a x + b ) + C
+Train_2014\TrainData2_22_sub_63	a - 1 F ( a x + b ) + C
+Train_2014\TrainData2_23_sub_63	a - 1 F ( a x + b ) + C
+Train_2014\TrainData2_24_sub_63	1 - a F ( a x + b ) + C
+Train_2014\TrainData2_25_sub_63	a - 1 F ( a x + b ) + C
+Train_2014\TrainData2_26_sub_63	- a 1 F ( a x + b ) + C
+Train_2014\TrainData2_2_sub_63	a - 1 F ( a x + b ) + C
+Train_2014\TrainData2_3_sub_63	1 - a F ( a x + b ) + C
+Train_2014\TrainData2_4_sub_63	a - 1 F ( a x + b ) + C
+Train_2014\TrainData2_5_sub_63	- a 1 F ( a x + b ) + C
+Train_2014\TrainData2_6_sub_63	- a 1 F ( a x + b ) + C
+Train_2014\TrainData2_7_sub_63	a - 1 F ( a x + b ) + C
+Train_2014\TrainData2_8_sub_63	a - 1 ( a x + b ) + C F
+Train_2014\TrainData2_9_sub_63	- a 1 F ( a x + b ) + C
+Train_2014\TrainData2_0_sub_11	\sqrt x - y - z + x 2 + y 2 + z 2
+Train_2014\TrainData2_10_sub_11	\sqrt x - y - z + x 2 + y 2 + z 2
+Train_2014\TrainData2_11_sub_11	\sqrt x - y - z + x 2 + y 2 + z 2
+Train_2014\TrainData2_12_sub_11	\sqrt x - y - z + x 2 + y 2 + z 2
+Train_2014\TrainData2_13_sub_11	\sqrt x - y - z + x 2 + y 2 + z 2
+Train_2014\TrainData2_14_sub_11	x - y - z + x 2 + y 2 + z 2 \sqrt
+Train_2014\TrainData2_15_sub_11	\sqrt x - y - z + x 2 + y 2 + z 2
+Train_2014\TrainData2_16_sub_11	\sqrt x - y - z + x 2 + y 2 + z 2
+Train_2014\TrainData2_17_sub_11	\sqrt x - y - z + x 2 + y 2 + z 2
+Train_2014\TrainData2_18_sub_11	x - y - z + x 2 + y 2 + z 2 \sqrt
+Train_2014\TrainData2_19_sub_11	\sqrt x - y - z + x 2 + y 2 + z 2
+Train_2014\TrainData2_1_sub_11	\sqrt x - y - z + x 2 + y 2 + z 2
+Train_2014\TrainData2_20_sub_11	\sqrt x - y - z + x 2 + y 2 + z 2
+Train_2014\TrainData2_21_sub_11	\sqrt x - y - z + x 2 + y 2 + 2 z
+Train_2014\TrainData2_22_sub_11	\sqrt x - y - z + x 2 + y 2 + z 2
+Train_2014\TrainData2_23_sub_11	\sqrt x - y - z + x 2 + y 2 + z 2
+Train_2014\TrainData2_24_sub_11	\sqrt x - y - z + x 2 + y 2 + z 2
+Train_2014\TrainData2_25_sub_11	\sqrt x - y - z + x 2 + y 2 + z 2
+Train_2014\TrainData2_26_sub_11	x - y - z + x 2 + y 2 + z 2 \sqrt
+Train_2014\TrainData2_2_sub_11	x - y - z + x 2 + y 2 z 2 \sqrt +
+Train_2014\TrainData2_3_sub_11	\sqrt x - y - z + x 2 + y 2 + z 2
+Train_2014\TrainData2_4_sub_11	\sqrt x - y - z + x 2 + y 2 + z 2
+Train_2014\TrainData2_5_sub_11	\sqrt x - y - z + x 2 + y 2 + z 2
+Train_2014\TrainData2_6_sub_11	\sqrt x - y - z + x 2 + y 2 + z 2
+Train_2014\TrainData2_7_sub_11	\sqrt x - y - z + x 2 + y 2 + z 2
+Train_2014\TrainData2_8_sub_11	\sqrt x - y - z + x 2 + y 2 + z 2
+Train_2014\TrainData2_9_sub_11	x - y - z + x 2 + y 2 + z 2 \sqrt
+Train_2014\TrainData2_0_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_10_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_11_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_12_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_13_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_14_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_15_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_16_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_17_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_18_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_19_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_1_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_20_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_21_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_22_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_23_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_24_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_25_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_26_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_2_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_3_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_4_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_5_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_6_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_7_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_8_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_9_sub_6	x i - x i + 1 + x i + 2
+Train_2014\TrainData2_0_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_10_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_11_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_12_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_13_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_14_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_15_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_16_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_17_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_18_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_19_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_1_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_20_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_21_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_22_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_23_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_24_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_25_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_26_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_3_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_4_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_5_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_6_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_7_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_8_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_9_sub_61	\int ( 2 x - 3 e x ) d x
+Train_2014\TrainData2_0_sub_29	x i + 2 j \times k 3 - 2 - i j
+Train_2014\TrainData2_10_sub_29	x i + 2 j \times 3 - 2 - i j k
+Train_2014\TrainData2_11_sub_29	x i + 2 j \times k 3 - 2 - i j
+Train_2014\TrainData2_12_sub_29	x i + 2 j \times k 3 - 2 i - j
+Train_2014\TrainData2_14_sub_29	x i + 2 j \times k 3 - 2 - i j
+Train_2014\TrainData2_15_sub_29	x i + 2 j \times k 3 - 2 j - i
+Train_2014\TrainData2_16_sub_29	x + 2 j \times k 3 - 2 i - j i
+Train_2014\TrainData2_17_sub_29	x i + 2 j k 3 - 2 j - i \times
+Train_2014\TrainData2_18_sub_29	x i + 2 j \times k 3 - 2 - i j
+Train_2014\TrainData2_19_sub_29	x i + 2 j \times k 3 - 2 i - j
+Train_2014\TrainData2_1_sub_29	x i + 2 j \times k 3 - 2 i - j
+Train_2014\TrainData2_20_sub_29	x i 2 j \times k 3 + - 2 j - i
+Train_2014\TrainData2_21_sub_29	x i + 2 j \times k 3 - 2 j - i
+Train_2014\TrainData2_22_sub_29	x i + 2 j \times k 3 - 2 i - j
+Train_2014\TrainData2_23_sub_29	x i + 2 j \times k 3 - 2 j - i
+Train_2014\TrainData2_24_sub_29	x i + 2 j \times k 3 - 2 - i j
+Train_2014\TrainData2_25_sub_29	x i + 2 j \times k 3 - 2 i - j
+Train_2014\TrainData2_26_sub_29	x i + 2 j \times k 3 - 2 - j i
+Train_2014\TrainData2_2_sub_29	x i + 2 j \times k 3 - 2 i - j
+Train_2014\TrainData2_3_sub_29	x i + 2 j \times k 3 - 2 j - i
+Train_2014\TrainData2_4_sub_29	x i + 2 j \times k 3 - 2 - i j
+Train_2014\TrainData2_5_sub_29	x i + 2 j \times k 3 - 2 - i j
+Train_2014\TrainData2_6_sub_29	x i + 2 j \times k 3 - 2 - i j
+Train_2014\TrainData2_7_sub_29	x i + 2 j \times k 3 - 2 j - i
+Train_2014\TrainData2_8_sub_29	x i + 2 j \times k 3 - 2 i - j
+Train_2014\TrainData2_9_sub_29	x i + 2 j \times k 3 - 2 j - i
+Train_2014\TrainData2_0_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_10_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_11_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_12_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_13_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_14_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_15_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_16_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_17_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_18_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_19_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_1_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_20_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_21_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_22_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_23_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_24_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_26_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_2_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_3_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_4_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_5_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_6_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_7_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_8_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_9_sub_17	x 1 - x 2 + y 1 - y 2 + z 1 - z 2
+Train_2014\TrainData2_0_sub_73	n + - 3 \beta = - 3 2 n + \beta - 3 \beta \alpha 1 \alpha
+Train_2014\TrainData2_10_sub_73	\alpha n + 1 - 3 \beta = - 3 2 \alpha n + \beta - 3 \beta
+Train_2014\TrainData2_11_sub_73	\alpha n + - 3 \beta = - 3 2 \alpha n + \beta - 3 \beta 1
+Train_2014\TrainData2_12_sub_73	\alpha n + - 3 \beta = 3 - 2 \alpha n + \beta - 3 \beta 1
+Train_2014\TrainData2_13_sub_73	\alpha n + - 3 \beta = 3 - 2 \alpha n + \beta - 3 \beta 1
+Train_2014\TrainData2_14_sub_73	\alpha n + - 3 \beta = 3 - 2 \alpha n + - 3 \beta 1 \beta
+Train_2014\TrainData2_15_sub_73	\alpha n + 1 - 3 \beta = 3 - 2 \alpha n + \beta - 3 \beta
+Train_2014\TrainData2_16_sub_73	\alpha 1 - 3 \beta = 2 - 3 \alpha + \beta - 3 \beta n + n
+Train_2014\TrainData2_17_sub_73	n + 1 - 3 = 2 - 3 n + - 3 \alpha \beta \alpha \beta \beta
+Train_2014\TrainData2_18_sub_73	n + 1 - 3 \beta = - 3 2 n + \beta - 3 \beta \alpha \alpha
+Train_2014\TrainData2_19_sub_73	\alpha n + - 3 \beta = 3 - 2 \alpha n + \beta - 3 \beta 1
+Train_2014\TrainData2_1_sub_73	n + 1 - 3 \beta = 3 - 2 n + \beta - 3 \beta \alpha \alpha
+Train_2014\TrainData2_20_sub_73	\alpha n + - 3 \beta = 2 - 3 \alpha n + \beta - 3 \beta 1
+Train_2014\TrainData2_21_sub_73	\alpha n + 1 - 3 \beta = 2 - 3 \alpha n + \beta - 3 \beta
+Train_2014\TrainData2_22_sub_73	\alpha n + 1 - 3 \beta = 3 - 2 \alpha n + \beta - 3 \beta
+Train_2014\TrainData2_23_sub_73	\alpha n + - 3 \beta = 3 - 2 \alpha n + \beta - 3 \beta 1
+Train_2014\TrainData2_24_sub_73	\alpha n + 1 - 3 \beta = 2 - 3 \alpha n + \beta - 3 \beta
+Train_2014\TrainData2_25_sub_73	\alpha n + 1 - 3 \beta = 3 - 2 \alpha n + \beta - 3 \beta
+Train_2014\TrainData2_26_sub_73	\alpha n + 1 - 3 \beta = 3 - 2 \alpha n + \beta - 3 \beta
+Train_2014\TrainData2_2_sub_73	n + - 3 \beta = 3 - 2 n + \beta - 3 \beta 1 \alpha \alpha
+Train_2014\TrainData2_3_sub_73	\alpha n + - 3 \beta = 2 - 3 \alpha n + \beta - 3 \beta 1
+Train_2014\TrainData2_5_sub_73	n + - 3 \beta = - 3 2 \alpha n + \beta - 3 \beta 1 \alpha
+Train_2014\TrainData2_6_sub_73	\alpha n + - 3 \beta = - 3 2 \alpha n + \beta - 3 \beta 1
+Train_2014\TrainData2_8_sub_73	n + - 3 \beta = 3 - 2 \alpha n + \beta - 3 \beta \alpha 1
+Train_2014\TrainData2_9_sub_73	\alpha n + - 3 \beta = - 3 2 \alpha n + \beta - 3 \beta 1
+Train_2014\MfrDB2891	\sqrt n + 1 - ( n - 1 ) 2 n
+Train_2014\MfrDB2893	n \sqrt - n + 1 ( n - 1 ) 2
+Train_2014\MfrDB2895	n \sqrt n + 1 - ( n - 1 ) 2
+Train_2014\MfrDB2897	\sqrt n n + 1 - n - 1 ( ) 2
+Train_2014\MfrDB2911	n \sqrt n + 1 - ( n - 1 ) 2
+Train_2014\MfrDB2942	n \sqrt n + 1 - ( n - 1 ) 2
+Train_2014\MfrDB2973	\sqrt n n + 1 - ( n - 1 ) 2
+Train_2014\MfrDB3059	\sqrt n - n + 1 ( n - 1 ) 2
+Train_2014\MfrDB3062	\sqrt n n + 1 - ( n - 1 ) 2
+Train_2014\MfrDB3067	\sqrt n n + 1 - n - 1 ( ) 2
+Train_2014\MfrDB3074	n \sqrt n + 1 - ( n - 1 ) 2
+Train_2014\MfrDB3075	\sqrt n + 1 n - ( n - 1 ) 2
+Train_2014\MfrDB3077	\sqrt n n + 1 - ( n - 1 ) 2
+Train_2014\MfrDB3083	\sqrt n n + 1 - ( n - 1 ) 2
+Train_2014\MfrDB3086	\sqrt n - n + 1 ( n - 1 ) 2
+Train_2014\MfrDB3199	n \sqrt n + 1 - n - 1 ) ( 2
+Train_2014\MfrDB3253	n \sqrt n + 1 - ( n - 1 ) 2
+Train_2014\MfrDB3255	n \sqrt n + 1 - ( n - 1 ) 2
+Train_2014\MfrDB3257	n \sqrt n + 1 - ( n - 1 ) 2
+Train_2014\MfrDB3377	\sqrt n n + 1 - ( n - 1 ) 2
+Train_2014\MfrDB3567	\sqrt n n + 1 - ( n - 1 ) 2
+Train_2014\MfrDB3833	n \sqrt n + 1 - ( n - 1 ) 2
+Train_2014\79_alfonso	p = \sqrt a 2 + b 2 - 2 \cos A a b
+Train_2014\79_bruno	p = a 2 + b 2 - 2 a b \cos A \sqrt
+Train_2014\79_carlos	p = a 2 + b 2 - 2 a b \cos A \sqrt
+Train_2014\79_caue	p = a 2 + b 2 - 2 a b \cos A \sqrt
+Train_2014\79_daniel	p = \sqrt a 2 + b 2 - 2 a b \cos A
+Train_2014\79_david	= \sqrt + b 2 - A 2 a b p a 2 \cos
+Train_2014\79_edwin	p = a 2 + b 2 - 2 a b \cos A \sqrt
+Train_2014\79_Fabricio	p = \sqrt a 2 + b 2 - 2 a b \cos A
+Train_2014\79_Frank	p = \sqrt a 2 + b 2 - 2 a b \cos A
+Train_2014\79_fujita	p = \sqrt a 2 + b 2 - 2 a b \cos A
+Train_2014\79_herbert	= a 2 + b 2 - 2 a b \cos A \sqrt p
+Train_2014\79_hirata	p = \sqrt a 2 + b 2 - 2 a b \cos A
+Train_2014\79_jorge	p = \sqrt a 2 + - 2 a b \cos A b 2
+Train_2014\79_leissi	p = \sqrt a 2 + b 2 - 2 a b \cos A
+Train_2014\79_leo	p = \sqrt a 2 + b 2 - 2 a b \cos A
+Train_2014\79_lucelia	p = \sqrt a 2 + b 2 - 2 a b \cos A
+Train_2014\79_maira	p = \sqrt a 2 + b 2 - 2 a b \cos A
+Train_2014\79_miguel	p = a 2 + b 2 - 2 a b \cos A \sqrt
+Train_2014\79_Nina	p = \sqrt a 2 + b 2 - 2 a b \cos A
+Train_2014\79_rosario	p = \sqrt a 2 + b 2 - 2 a b \cos A
+Train_2014\79_silas	p = \sqrt a 2 + b 2 - 2 a b \cos A
+Train_2014\79_user0	= a 2 + b 2 - 2 a b \cos A \sqrt p
+Train_2014\2009210-947-32	a x 4 + b x + c = 0
+Train_2014\2009212-952-32	a x 4 + b x + c = 0
+Train_2014\2009213-137-32	a x 4 + b x + c = 0
+Train_2014\2009213-139-32	a x 4 + b x + c = 0
+Train_2014\200922-1017-32	a x 4 + b x + c = 0
+Train_2014\200922-947-32	a x 4 + b x + c = 0
+Train_2014\200922-949-32	a x 4 + b x + c = 0
+Train_2014\2009220-1327-32	a x 4 + b x + c = 0
+Train_2014\200923-1251-32	a x 4 + b x + c = 0
+Train_2014\200923-1253-32	a x 4 + b x + c = 0
+Train_2014\200923-1254-32	a x 4 + b x + c = 0
+Train_2014\200923-131-32	a x 4 + b x + c = 0
+Train_2014\200923-1553-32	a x 4 + b x + c = 0
+Train_2014\200923-1556-32	a x 4 + b x + c = 0
+Train_2014\200924-1312-32	a x 4 + b x + c = 0
+Train_2014\200924-1331-32	a x 4 + b x + c = 0
+Train_2014\200925-1126-32	a x 4 + b x + c = 0
+Train_2014\200926-131-32	a x 4 + b x + c = 0
+Train_2014\200926-1550-32	a x 4 + b x + c = 0
+Train_2014\200926-1617-32	a x 4 + b x + c = 0
+Train_2014\2009210-947-14	a \sqrt b + c - d + f +
+Train_2014\2009212-952-14	a + \sqrt b + c - d + f
+Train_2014\2009213-137-14	a + \sqrt b + c - d + f
+Train_2014\2009213-139-14	a + \sqrt b + c - d + f
+Train_2014\200922-1017-14	a + \sqrt b + c - d + f
+Train_2014\200922-947-14	a + b + c - d + f \sqrt
+Train_2014\200922-949-14	a + \sqrt b + c - d + f
+Train_2014\2009220-1327-14	a + \sqrt b + c - d + f
+Train_2014\200923-1251-14	a + \sqrt b + c - d + f
+Train_2014\200923-1253-14	a + \sqrt b + c - d + f
+Train_2014\200923-1254-14	a + b + c - d + f \sqrt
+Train_2014\200923-131-14	a + b + c - d + f \sqrt
+Train_2014\200923-1553-14	a + \sqrt b + c - d + f
+Train_2014\200923-1556-14	a + \sqrt b + c - d + f
+Train_2014\200924-1312-14	a + \sqrt b + c - d + f
+Train_2014\200924-1331-14	a + \sqrt - b + c d + f
+Train_2014\200925-1126-14	a + b + c - d + f \sqrt
+Train_2014\200926-131-14	a + \sqrt - b + c d + f
+Train_2014\200926-1550-14	a + \sqrt b + c - d + f
+Train_2014\200926-1617-14	a + \sqrt b + c - d + f
+Train_2014\2009210-947-13	\sqrt 1 + \sqrt 1 + z 2
+Train_2014\2009212-952-13	\sqrt 1 + \sqrt 1 + z 2
+Train_2014\2009213-137-13	\sqrt 1 + \sqrt 1 + z 2
+Train_2014\2009213-139-13	\sqrt 1 + \sqrt 1 + z 2
+Train_2014\200922-1017-13	\sqrt 1 + \sqrt 1 + z 2
+Train_2014\200922-947-13	1 + \sqrt 1 + z 2 \sqrt
+Train_2014\200922-949-13	\sqrt 1 + \sqrt 1 + z 2
+Train_2014\2009220-1327-13	\sqrt 1 + \sqrt 1 + z 2
+Train_2014\200923-1251-13	\sqrt 1 + \sqrt 1 + z 2
+Train_2014\200923-1253-13	\sqrt 1 + \sqrt 1 + z 2
+Train_2014\200923-1254-13	1 + \sqrt 1 + z 2 \sqrt
+Train_2014\200923-131-13	\sqrt 1 + \sqrt 1 + z 2
+Train_2014\200923-1553-13	\sqrt 1 + \sqrt 1 + z 2
+Train_2014\200923-1556-13	\sqrt 1 + \sqrt 1 + z 2
+Train_2014\200924-1312-13	\sqrt 1 + \sqrt 1 + z 2
+Train_2014\200924-1331-13	\sqrt 1 + \sqrt 1 + z 2
+Train_2014\200925-1126-13	\sqrt 1 + 1 + z 2 \sqrt
+Train_2014\200926-131-13	\sqrt 1 + \sqrt 1 + z 2
+Train_2014\200926-1550-13	\sqrt 1 + \sqrt 1 + z 2
+Train_2014\200926-1617-13	\sqrt 1 + \sqrt 1 + z 2
+Train_2014\2009210-947-38	4 - 3 \pi r 3
+Train_2014\2009212-952-38	4 - 3 \pi r 3
+Train_2014\2009213-137-38	4 - 3 \pi r 3
+Train_2014\2009213-139-38	4 - 3 \pi r 3
+Train_2014\200922-1017-38	4 - 3 \pi r 3
+Train_2014\200922-947-38	4 - 3 \pi r 3
+Train_2014\200922-949-38	4 - 3 \pi r 3
+Train_2014\2009220-1327-38	4 - 3 \pi r 3
+Train_2014\200923-1251-38	4 - 3 \pi r 3
+Train_2014\200923-1253-38	4 - 3 \pi r 3
+Train_2014\200923-1254-38	4 - 3 \pi r 3
+Train_2014\200923-131-38	4 - 3 \pi r 3
+Train_2014\200923-1553-38	4 - 3 \pi r 3
+Train_2014\200923-1556-38	4 - 3 \pi r 3
+Train_2014\200924-1312-38	4 - 3 \pi r 3
+Train_2014\200924-1331-38	4 - 3 \pi r 3
+Train_2014\200925-1126-38	4 - 3 \pi r 3
+Train_2014\200926-131-38	- 3 4 \pi r 3
+Train_2014\200926-1550-38	4 - 3 \pi r 3
+Train_2014\200926-1617-38	4 - 3 \pi r 3
+Train_2014\2009210-947-42	1 - 3 \pi r 2 h
+Train_2014\2009212-952-42	1 - 3 \pi r 2 h
+Train_2014\2009213-137-42	1 - 3 \pi r 2 h
+Train_2014\2009213-139-42	1 - 3 \pi r 2 h
+Train_2014\200922-1017-42	1 - 3 \pi r 2 h
+Train_2014\200922-947-42	1 - 3 \pi r 2 h
+Train_2014\200922-949-42	1 - 3 \pi r 2 h
+Train_2014\2009220-1327-42	1 - 3 \pi r 2 h
+Train_2014\200923-1251-42	1 - 3 \pi r 2 h
+Train_2014\200923-1253-42	1 - 3 \pi r 2 h
+Train_2014\200923-1254-42	1 - 3 \pi r 2 h
+Train_2014\200923-131-42	1 - 3 \pi r 2 h
+Train_2014\200923-1553-42	1 - 3 \pi r 2 h
+Train_2014\200923-1556-42	1 - 3 \pi r 2 h
+Train_2014\200924-1312-42	1 - 3 \pi r 2 h
+Train_2014\200924-1331-42	1 - 3 \pi r 2 h
+Train_2014\200925-1126-42	1 - 3 \pi r 2 h
+Train_2014\200926-131-42	- 3 1 \pi r 2 h
+Train_2014\200926-1550-42	1 - 3 \pi r 2 h
+Train_2014\200926-1617-42	1 - 3 \pi r 2 h
+Train_2014\2009210-947-37	1 3 + \pi r 2
+Train_2014\2009212-952-37	1 3 + \pi r 2
+Train_2014\2009213-137-37	1 3 + \pi r 2
+Train_2014\2009213-139-37	1 3 + \pi r 2
+Train_2014\200922-1017-37	1 3 + \pi r 2
+Train_2014\200922-947-37	1 3 + \pi r 2
+Train_2014\200922-949-37	1 3 + \pi r 2
+Train_2014\2009220-1327-37	1 3 + \pi r 2
+Train_2014\200923-1251-37	1 3 + \pi r 2
+Train_2014\200923-1253-37	1 3 + \pi r 2
+Train_2014\200923-1254-37	1 3 + \pi r 2
+Train_2014\200923-131-37	1 3 + \pi r 2
+Train_2014\200923-1553-37	1 3 + \pi r 2
+Train_2014\200923-1556-37	1 3 + \pi r 2
+Train_2014\200924-1312-37	1 3 + \pi r 2
+Train_2014\200924-1331-37	1 3 + \pi r 2
+Train_2014\200925-1126-37	1 3 + \pi r 2
+Train_2014\200926-131-37	1 3 + \pi r 2
+Train_2014\200926-1550-37	1 3 + \pi r 2
+Train_2014\200926-1617-37	1 3 + \pi r 2
+Train_2014\81_alfonso	A 2 k = - 2 R A k + \sqrt 4 R 2 + A 2 k 2 R
+Train_2014\81_carlos	A 2 k = 2 R A k - 2 R + \sqrt 4 R 2 + A 2 k
+Train_2014\81_caue	A 2 k = 2 R A k - 2 R + 4 R 2 + A 2 k \sqrt
+Train_2014\81_daniel	A 2 k = - 2 R + \sqrt 4 R 2 + A 2 k 2 R A k
+Train_2014\81_danilo	A 2 k = 2 R A k - 2 R + 4 R 2 + A 2 k \sqrt
+Train_2014\81_david	A 2 k = 2 R A k - 2 R + \sqrt 4 R 2 + A 2 k
+Train_2014\81_edwin	A 2 k = 2 R A k 2 R + 4 R 2 + A k 2 \sqrt -
+Train_2014\81_Fabricio	A 2 k = 2 R A k - 2 R + \sqrt 4 R 2 + A 2 k
+Train_2014\81_Frank	A 2 k = - 2 R A k 2 R + \sqrt 4 R 2 + A k 2
+Train_2014\81_herbert	A 2 k = 2 R A k - 2 R + 4 R 2 + A k 2 \sqrt
+Train_2014\81_hirata	A 2 k = 2 R A k - 2 R + \sqrt 4 R 2 + A k 2
+Train_2014\81_jorge	A 2 k 2 R A k - 2 R + \sqrt 4 R 2 + A 2 k =
+Train_2014\81_leissi	A 2 k = - 2 R A k 2 R + \sqrt 4 R 2 + A k 2
+Train_2014\81_leo	A 2 k = - 2 R A k 2 R + \sqrt 4 R 2 + A k 2
+Train_2014\81_miguel	A 2 k = 2 R A k - 2 R + \sqrt 4 R 2 + A 2 k
+Train_2014\81_mijail	A 2 k = 2 R A k - 2 R + \sqrt 4 R 2 + A 2 k
+Train_2014\81_Nina	A 2 k = 2 R A k - 2 R + \sqrt 4 R 2 + A 2 k
+Train_2014\81_rosario	A 2 k = 2 R A k - 2 R + \sqrt 4 R 2 + A k 2
+Train_2014\81_silas	A 2 = - 2 R A k 2 R + \sqrt 4 R 2 + A 2 k k
+Train_2014\81_user0	A 2 k = 2 R A k 2 R + 4 R 2 + A 2 k \sqrt -
+Train_2014\2009210-947-18	a x + b x + c - 2
+Train_2014\2009212-952-18	a x + b x + c - 2
+Train_2014\2009213-137-18	a x + b x + c - 2
+Train_2014\2009213-139-18	a x + b x + c - 2
+Train_2014\200922-1017-18	a x + b x + c - 2
+Train_2014\200922-947-18	a x + b x + c - 2
+Train_2014\200922-949-18	a x + b x + c - 2
+Train_2014\2009220-1327-18	a x + b x + c - 2
+Train_2014\200923-1251-18	a x + b x + c - 2
+Train_2014\200923-1253-18	a x + b x + c - 2
+Train_2014\200923-1254-18	a x + b x + c - 2
+Train_2014\200923-131-18	a x + b x + c - 2
+Train_2014\200923-1553-18	a x + b x + c - 2
+Train_2014\200923-1556-18	a x + b x + c - 2
+Train_2014\200924-1312-18	a x + b x + c - 2
+Train_2014\200924-1331-18	a x + b x + c - 2
+Train_2014\200925-1126-18	a x + b x + c - 2
+Train_2014\200926-131-18	a x + b x + - 2 c
+Train_2014\200926-1550-18	a x + b x + c - 2
+Train_2014\200926-1617-18	a x + b x + c - 2
+Train_2014\2009210-947-19	x 2 + y 2 = z 2
+Train_2014\2009212-952-19	x 2 + y 2 = z 2
+Train_2014\2009213-137-19	x 2 + y 2 = z 2
+Train_2014\2009213-139-19	x 2 + y 2 = z 2
+Train_2014\200922-1017-19	x 2 + y 2 = z 2
+Train_2014\200922-947-19	x 2 + y 2 = z 2
+Train_2014\200922-949-19	x 2 + y 2 = z 2
+Train_2014\2009220-1327-19	x 2 + y 2 = z 2
+Train_2014\200923-1251-19	x 2 + y 2 = z 2
+Train_2014\200923-1253-19	x 2 + y 2 = z 2
+Train_2014\200923-1254-19	x 2 + y 2 = z 2
+Train_2014\200923-131-19	x 2 + y 2 = z 2
+Train_2014\200923-1553-19	x 2 + y 2 = z 2
+Train_2014\200923-1556-19	x 2 + y 2 = z 2
+Train_2014\200924-1312-19	x 2 + y 2 = z 2
+Train_2014\200924-1331-19	x 2 + y 2 = z 2
+Train_2014\200925-1126-19	x 2 + y 2 = z 2
+Train_2014\200926-131-19	x 2 + y 2 = z 2
+Train_2014\200926-1550-19	x 2 + y 2 = z 2
+Train_2014\200926-1617-19	x 2 + y 2 = z 2
+Train_2014\65_alfonso	x = r \cos \theta
+Train_2014\65_carlos	x = r \cos \theta
+Train_2014\65_caue	x = r \cos \theta
+Train_2014\65_daniel	x = r \cos \theta
+Train_2014\65_david	x = r \cos \theta
+Train_2014\65_edwin	x = r \cos \theta
+Train_2014\65_Fabricio	x = r \cos \theta
+Train_2014\65_Frank	x = r \cos \theta
+Train_2014\65_herbert	x = r \cos \theta
+Train_2014\65_jorge	x = r \cos \theta
+Train_2014\65_leissi	x = r \cos \theta
+Train_2014\65_leo	x = r \cos \theta
+Train_2014\65_maira	x = r \cos \theta
+Train_2014\65_miguel	x = r \cos \theta
+Train_2014\65_mijail	x = r \cos \theta
+Train_2014\65_Nina	x = r \cos \theta
+Train_2014\65_rosario	x = r \cos \theta
+Train_2014\65_user0	= r \cos \theta x
+Train_2014\formulaire009-equation061	x = r \cos \theta
+Train_2014\2009210-947-61	k 3 + 1 4 k 2 - 1 3 2 k + 1 7 8 9
+Train_2014\2009212-952-61	k 3 + 1 4 k 2 - 1 3 2 k + 1 7 8 9
+Train_2014\2009213-137-61	k 3 + 1 4 k 2 - 1 3 2 k + 1 7 8 9
+Train_2014\2009213-139-61	k 3 + 1 4 k 2 - 1 3 2 k + 1 7 8 9
+Train_2014\200922-1017-61	k 3 + 1 4 k 2 - 1 3 2 k + 1 7 8 9
+Train_2014\200922-947-61	k 3 + 1 4 k 2 - 1 3 2 k + 1 7 8 9
+Train_2014\200922-949-61	k 3 + 1 4 k 2 - 1 3 2 k + 1 7 8 9
+Train_2014\200923-1251-61	k 3 + 1 4 k 2 - 1 3 2 k + 1 7 8 9
+Train_2014\200923-1253-61	k 3 + 1 4 k 2 - 1 3 2 k + 1 7 8 9
+Train_2014\200923-1254-61	k 3 + 1 4 k 2 - 1 3 2 k + 1 7 8 9
+Train_2014\200923-131-61	k 3 + 1 4 k 2 - 1 3 2 k + 1 7 8 9
+Train_2014\200923-1553-61	k 3 + 1 4 k 2 - 1 3 2 k + 1 7 8 9
+Train_2014\200923-1556-61	k 3 + 1 4 k 2 - 1 3 2 k + 1 7 8 9
+Train_2014\200924-1312-61	k 3 + 1 4 k 2 - 1 3 2 k + 1 7 8 9
+Train_2014\200924-1331-61	k 3 + 1 4 k 2 - 1 3 2 k + 1 7 8 9
+Train_2014\200925-1126-61	k 3 + 1 4 k 2 - 1 3 2 k + 1 7 8 9
+Train_2014\200926-131-61	k 3 + 1 4 k 2 - 1 3 2 k + 1 7 8 9
+Train_2014\200926-1550-61	k 3 + 1 4 k 2 - 1 3 2 k + 1 7 8 9
+Train_2014\200926-1617-61	k 3 + 1 4 k 2 - 1 3 2 k + 1 7 8 9
+Train_2014\2009210-947-7	\sum m f ( m + 3 )
+Train_2014\2009212-952-7	\sum m f ( m + 3 )
+Train_2014\2009213-137-7	\sum m f ( m + 3 )
+Train_2014\2009213-139-7	\sum m f ( m + 3 )
+Train_2014\200922-1017-7	\sum m f ( m + 3 )
+Train_2014\200922-947-7	\sum m f ( m + 3 )
+Train_2014\200922-949-7	\sum m f ( m + 3 )
+Train_2014\2009220-1327-7	\sum m f ( m + 3 )
+Train_2014\200923-1251-7	\sum m f ( m + 3 )
+Train_2014\200923-1253-7	\sum m f ( m + 3 )
+Train_2014\200923-1254-7	\sum m f ( m + 3 )
+Train_2014\200923-131-7	\sum m f ( m + 3 )
+Train_2014\200923-1553-7	\sum m f ( m + 3 )
+Train_2014\200923-1556-7	\sum m f ( m + 3 )
+Train_2014\200924-1312-7	\sum f ( m + 3 ) m
+Train_2014\200924-1331-7	\sum m f ( m + 3 )
+Train_2014\200926-131-7	\sum m f ( m + 3 )
+Train_2014\200926-1550-7	\sum m f ( m + 3 )
+Train_2014\200926-1617-7	\sum m f ( m + 3 )
+Train_2014\2009210-947-43	\pi r 2 h - 3
+Train_2014\2009212-952-43	\pi r 2 h - 3
+Train_2014\2009213-137-43	\pi r 2 h - 3
+Train_2014\2009213-139-43	\pi r 2 h - 3
+Train_2014\200922-1017-43	\pi r 2 h - 3
+Train_2014\200922-947-43	\pi r 2 h - 3
+Train_2014\200922-949-43	\pi r 2 h - 3
+Train_2014\200923-1251-43	\pi r 2 h - 3
+Train_2014\200923-1253-43	\pi r 2 h - 3
+Train_2014\200923-1254-43	\pi r 2 h - 3
+Train_2014\200923-131-43	\pi r 2 h - 3
+Train_2014\200923-1553-43	\pi r 2 h - 3
+Train_2014\200923-1556-43	\pi r 2 h - 3
+Train_2014\200924-1312-43	\pi r 2 h - 3
+Train_2014\200924-1331-43	- 3 \pi r 2 h
+Train_2014\200925-1126-43	\pi r 2 h - 3
+Train_2014\200926-131-43	- 3 \pi r 2 h
+Train_2014\200926-1550-43	\pi r 2 h - 3
+Train_2014\200926-1617-43	\pi r 2 h - 3
+Train_2014\98_alfonso	\cos \alpha = - a a 2 + b 2 + c 2 \sqrt
+Train_2014\98_carlos	\cos \alpha = a - \sqrt a 2 + b 2 + c 2
+Train_2014\98_caue	\cos \alpha = a 2 + b 2 + c 2 \sqrt - a
+Train_2014\98_daniel	\cos \alpha = - a \sqrt a 2 + b 2 + c 2
+Train_2014\98_david	\cos \alpha = a - \sqrt a 2 + b 2 + c 2
+Train_2014\98_edwin	\cos \alpha = - a \sqrt a 2 + b 2 + c 2
+Train_2014\98_Fabricio	\cos \alpha = a - \sqrt a 2 + b 2 + c 2
+Train_2014\98_Frank	\cos \alpha = - a \sqrt a 2 + b 2 + c 2
+Train_2014\98_fujita	\cos \alpha = a - \sqrt a 2 + b 2 + c 2
+Train_2014\98_herbert	\cos \alpha = a - a 2 + b 2 + c 2 \sqrt
+Train_2014\98_jorge	\cos \alpha = \sqrt a 2 + b 2 + c 2 a -
+Train_2014\98_leissi	\cos \alpha = - a a 2 + b 2 + c 2 \sqrt
+Train_2014\98_leo	\cos \alpha = - \sqrt a 2 + b 2 + c 2 a
+Train_2014\98_maira	\cos \alpha = a - \sqrt a 2 + b 2 + c 2
+Train_2014\98_miguel	\cos \alpha = a - \sqrt a 2 + b 2 + c 2
+Train_2014\98_Nina	\cos \alpha = a - a 2 + b 2 + c 2 \sqrt
+Train_2014\98_rosario	\cos \alpha = a - \sqrt a 2 + b 2 + c 2
+Train_2014\98_silas	\cos \alpha = - a \sqrt a 2 + b 2 c 2 +
+Train_2014\98_user0	\cos \alpha = - a 2 + b 2 + c 2 \sqrt a
+Train_2014\MfrDB2858	3 x + y - z = ( A - 1 - x 2 + y 2 )
+Train_2014\MfrDB2908	3 x + y - z = ( A - 1 - x 2 + y 2 )
+Train_2014\MfrDB2913	3 x + y - z = ( A - 1 - x 2 + y 2 )
+Train_2014\MfrDB2947	3 x + y - z = ( A - 1 - x 2 + y 2 )
+Train_2014\MfrDB2967	3 x + y - z = ( A - 1 - x 2 + y 2 )
+Train_2014\MfrDB2988	3 x + y - z = A - 1 - x 2 + y 2 ( )
+Train_2014\MfrDB2994	3 x + y - z = ( A - 1 - x 2 + y 2 )
+Train_2014\MfrDB3073	3 x + y - z = A - 1 - x 2 + y 2 ( )
+Train_2014\MfrDB3079	3 x + y - z = A - 1 - x 2 + y 2 ) (
+Train_2014\MfrDB3136	3 x + y - z = ( A - 1 - x 2 + y 2 )
+Train_2014\MfrDB3145	3 x + y - z = - A - 1 x 2 + y 2 ( )
+Train_2014\MfrDB3146	3 x + y - z = ( A - 1 - x 2 + y 2 )
+Train_2014\MfrDB3175	3 x + y - z = ( A - 1 ) - x 2 + y 2
+Train_2014\MfrDB3188	3 x + y - z = ( A - 1 - x 2 + y 2 )
+Train_2014\MfrDB3243	3 x + y - z = ( A - 1 - x 2 + y 2 )
+Train_2014\MfrDB3247	3 x + y - z = ( - ) A - 1 x 2 + y 2
+Train_2014\MfrDB3273	3 x + y - z = ( A - 1 - x 2 + y 2 )
+Train_2014\MfrDB3274	3 x + y - z = A - 1 - x 2 + y 2 ( )
+Train_2014\MfrDB3386	3 x + y - z = ( A - 1 - x 2 + y 2 )

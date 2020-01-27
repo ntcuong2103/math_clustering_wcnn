@@ -1,0 +1,1513 @@
+1-khuong-1\01a	= 8 a -	2
+1-khuong-1\01b	= 8 a 7 -	2
+1-khuong-1\01c	= 8 a -	2
+1-khuong-1\02a	2 8 1 - = m	2
+1-khuong-1\02b	5 2 8 - = m	2
+1-khuong-1\02c	= m 8 - 9	2
+1-khuong-1\03a	= 1 m - 2	2
+1-khuong-1\03b	+ 2 1 - = m	2
+1-khuong-1\03c	+ 2 ) - ( = m	2
+1-khuong-1\04a	5 + 1 - = x	2
+1-khuong-1\04b	= 5 1 - x	2
+1-khuong-1\04c	= 2 4 - x	2
+1-khuong-1\05a	= 6 2 1 x	2
+1-khuong-1\05b	= 6 7 1 x	2
+1-khuong-1\05c	= 2 0 1 x	2
+1-khuong-1\06a	5 + 3 6 \sqrt =	2
+1-khuong-1\06b	5 + 6 \sqrt 1 =	2
+1-khuong-1\06c	= 2 4	2
+1-khuong-1\07a	= 2 7 - \sqrt	2
+1-khuong-1\07b	7 2 4 1 - = \sqrt	2
+1-khuong-1\07c	= 3 0	2
+1-khuong-1\08a	= 2 3 7 -	2
+1-khuong-1\08b	= 2 7 -	2
+1-khuong-1\08c	= 1 3 7 -	2
+1-khuong-1\09a	= 2 n t a	2
+1-khuong-1\09b	2 t a - = n	2
+1-khuong-1\09c	+ 2 t ) c 1 = ( o x	2
+1-khuong-1\10a	2 ) c s = ( o x	2
+1-khuong-1\10b	2 i ) s = ( n x	2
+1-khuong-1\10c	2 ) c s - = ( o x	2
+1-khuong-1\11a	= 1 - 2	2
+1-khuong-1\11b	2 t ) c 1 - = ( o x	2
+1-khuong-1\11c	2 t a ) 1 - = ( n x	2
+1-khuong-1\12a	2 i t ) s 1 - = ( n	2
+1-khuong-1\12b	2 t ) c s 1 - = ( o	2
+1-khuong-1\12c	+ 2 t a 1 = n x	2
+1-khuong-1\13a	2 3 ) - = ( n l	2
+1-khuong-1\13b	= 5 4 -	2
+1-khuong-1\13c	= 1 - 2	2
+1-khuong-1\15a	= 2 3 -	2
+1-khuong-1\15b	= 1	2
+1-khuong-1\15c	= 2 n l +	2
+1-khuong-1\16a	+ ) c 6 s 1 - = ( o x	2
+1-khuong-1\16b	+ ) c 6 s 1 - = ( o x	2
+1-khuong-1\16c	5 + ) c s 4 = ( o x	2
+1-khuong-1\17a	= 3 n 1	2
+1-khuong-1\17b	= 2 n 1	2
+1-khuong-1\17c	= 8 n	2
+1-khuong-1\18a	= 8 n	2
+1-khuong-1\18b	= 7 n	2
+1-khuong-1\18c	= n 1	2
+1-khuong-1\19a	= 2 n 1	2
+1-khuong-1\19b	= n 9	2
+1-khuong-1\19c	= 8 n	2
+1-khuong-1\21a	= 2 n	2
+1-khuong-1\21b	= 5 n - 2	2
+1-khuong-1\21c	= 1 n - 2	2
+1-khuong-1\22a	0 \lt 7 6 - x	2
+1-khuong-1\22b	0 7 6 - \gt x	2
+1-khuong-1\22c	7 3 6 - \gt x	2
+1-khuong-1\24a	0 \geq x	2
+1-khuong-1\24b	0 \leq 1 x	2
+1-khuong-1\24c	\in R x	2
+1-khuong-1\25a	v \lt 3 1 - \gt x	2
+1-khuong-1\25b	1 3 \lt - x	2
+1-khuong-1\25c	\lt 5 4 - x	2
+10-nakagawaR-1\01a	= 8 a -	1
+10-nakagawaR-1\01b	= 8 a 7 -	1
+10-nakagawaR-1\01c	= 8 a -	1
+10-nakagawaR-1\02a	2 8 1 - = m	1
+10-nakagawaR-1\02b	5 2 8 - = m	1
+10-nakagawaR-1\02c	= m 8 - 9	1
+10-nakagawaR-1\03a	= 1 m - 2	1
+10-nakagawaR-1\03b	+ 2 1 - = m	1
+10-nakagawaR-1\03c	+ 2 ) - ( = m	1
+10-nakagawaR-1\04a	5 + 1 - = x	1
+10-nakagawaR-1\04b	= 5 1 - x	1
+10-nakagawaR-1\04c	= 2 4 - x	1
+10-nakagawaR-1\05a	= 6 2 1 x	1
+10-nakagawaR-1\05b	= 6 7 1 x	1
+10-nakagawaR-1\05c	= 2 0 1 x	1
+10-nakagawaR-1\06a	5 + 3 6 \sqrt =	1
+10-nakagawaR-1\06b	5 + 6 \sqrt 1 =	1
+10-nakagawaR-1\06c	= 2 4	1
+10-nakagawaR-1\07a	= 2 7 - \sqrt	1
+10-nakagawaR-1\07b	7 2 4 1 - = \sqrt	1
+10-nakagawaR-1\07c	= 3 0	1
+10-nakagawaR-1\08a	= 2 3 7 -	1
+10-nakagawaR-1\08b	= 2 7 -	1
+10-nakagawaR-1\08c	= 1 3 7 -	1
+10-nakagawaR-1\09a	= 2 n t a	1
+10-nakagawaR-1\09b	2 t a - = n	1
+10-nakagawaR-1\09c	+ 2 t ) c 1 = ( o x	1
+10-nakagawaR-1\10a	2 ) c s = ( o x	1
+10-nakagawaR-1\10b	2 i ) s = ( n x	1
+10-nakagawaR-1\10c	2 ) c s - = ( o x	1
+10-nakagawaR-1\11a	= 1 - 2	1
+10-nakagawaR-1\11b	2 t ) c 1 - = ( o x	1
+10-nakagawaR-1\11c	2 t a ) 1 - = ( n x	1
+10-nakagawaR-1\12a	2 i t ) s 1 - = ( n	1
+10-nakagawaR-1\12b	2 t ) c s 1 - = ( o	1
+10-nakagawaR-1\12c	+ 2 t a 1 = n x	1
+10-nakagawaR-1\13a	2 3 ) - = ( n l	1
+10-nakagawaR-1\13b	= 5 4 -	1
+10-nakagawaR-1\13c	= 1 - 2	1
+10-nakagawaR-1\15a	= 2 3 -	1
+10-nakagawaR-1\15b	= 1	1
+10-nakagawaR-1\15c	= 2 n l +	1
+10-nakagawaR-1\16a	+ ) c 6 s 1 - = ( o x	1
+10-nakagawaR-1\16b	+ ) c 6 s 1 - = ( o x	1
+10-nakagawaR-1\16c	5 + ) c s 4 = ( o x	1
+10-nakagawaR-1\17a	= 3 n 1	1
+10-nakagawaR-1\17b	= 2 n 1	1
+10-nakagawaR-1\17c	= 8 n	1
+10-nakagawaR-1\18a	= 8 n	1
+10-nakagawaR-1\18b	= 7 n	1
+10-nakagawaR-1\18c	= n 1	1
+10-nakagawaR-1\19a	= 2 n 1	1
+10-nakagawaR-1\19b	= n 9	1
+10-nakagawaR-1\19c	= 8 n	1
+10-nakagawaR-1\21a	= 2 n	1
+10-nakagawaR-1\21b	= 5 n - 2	1
+10-nakagawaR-1\21c	= 1 n - 2	1
+10-nakagawaR-1\22a	0 \lt 7 6 - x	1
+10-nakagawaR-1\22b	0 7 6 - \gt x	1
+10-nakagawaR-1\22c	7 3 6 - \gt x	1
+10-nakagawaR-1\24a	0 \geq x	1
+10-nakagawaR-1\24b	0 \leq 1 x	1
+10-nakagawaR-1\24c	\in R x	1
+10-nakagawaR-1\25a	v \lt 3 1 - \gt x	1
+10-nakagawaR-1\25b	1 3 \lt - x	1
+10-nakagawaR-1\25c	\lt 5 4 - x	1
+11-matsushita-1\01a	= 8 a -	0
+11-matsushita-1\01b	= 8 a 7 -	0
+11-matsushita-1\01c	= 8 a -	0
+11-matsushita-1\02a	2 8 1 - = m	0
+11-matsushita-1\02b	5 2 8 - = m	0
+11-matsushita-1\02c	= m 8 - 9	0
+11-matsushita-1\03a	= 1 m - 2	0
+11-matsushita-1\03b	+ 2 1 - = m	0
+11-matsushita-1\03c	+ 2 ) - ( = m	0
+11-matsushita-1\04a	5 + 1 - = x	0
+11-matsushita-1\04b	= 5 1 - x	0
+11-matsushita-1\04c	= 2 4 - x	0
+11-matsushita-1\05a	= 6 2 1 x	0
+11-matsushita-1\05b	= 6 7 1 x	0
+11-matsushita-1\05c	= 2 0 1 x	0
+11-matsushita-1\06a	5 + 3 6 \sqrt =	0
+11-matsushita-1\06b	5 + 6 \sqrt 1 =	0
+11-matsushita-1\06c	= 2 4	0
+11-matsushita-1\07a	= 2 7 - \sqrt	0
+11-matsushita-1\07b	7 2 4 1 - = \sqrt	0
+11-matsushita-1\07c	= 3 0	0
+11-matsushita-1\08a	= 2 3 7 -	0
+11-matsushita-1\08b	= 2 7 -	0
+11-matsushita-1\08c	= 1 3 7 -	0
+11-matsushita-1\09a	= 2 n t a	0
+11-matsushita-1\09b	2 t a - = n	0
+11-matsushita-1\09c	+ 2 t ) c 1 = ( o x	0
+11-matsushita-1\10a	2 ) c s = ( o x	0
+11-matsushita-1\10b	2 i ) s = ( n x	0
+11-matsushita-1\10c	2 ) c s - = ( o x	0
+11-matsushita-1\11a	= 1 - 2	0
+11-matsushita-1\11b	2 t ) c 1 - = ( o x	0
+11-matsushita-1\11c	2 t a ) 1 - = ( n x	0
+11-matsushita-1\12a	2 i t ) s 1 - = ( n	0
+11-matsushita-1\12b	2 t ) c s 1 - = ( o	0
+11-matsushita-1\12c	+ 2 t a 1 = n x	0
+11-matsushita-1\13a	2 3 ) - = ( n l	0
+11-matsushita-1\13b	= 5 4 -	0
+11-matsushita-1\13c	= 1 - 2	0
+11-matsushita-1\15a	= 2 3 -	0
+11-matsushita-1\15b	= 1	0
+11-matsushita-1\15c	= 2 n l +	0
+11-matsushita-1\16a	+ ) c 6 s 1 - = ( o x	0
+11-matsushita-1\16b	+ ) c 6 s 1 - = ( o x	0
+11-matsushita-1\16c	5 + ) c s 4 = ( o x	0
+11-matsushita-1\17a	= 3 n 1	0
+11-matsushita-1\17b	= 2 n 1	0
+11-matsushita-1\17c	= 8 n	0
+11-matsushita-1\18a	= 8 n	0
+11-matsushita-1\18b	= 7 n	0
+11-matsushita-1\18c	= n 1	0
+11-matsushita-1\19a	= 2 n 1	0
+11-matsushita-1\19b	= n 9	0
+11-matsushita-1\19c	= 8 n	0
+11-matsushita-1\21a	= 2 n	0
+11-matsushita-1\21b	= 5 n - 2	0
+11-matsushita-1\21c	= 1 n - 2	0
+11-matsushita-1\22a	0 \lt 7 6 - x	0
+11-matsushita-1\22b	0 7 6 - \gt x	0
+11-matsushita-1\22c	7 3 6 - \gt x	0
+11-matsushita-1\24a	0 \geq x	0
+11-matsushita-1\24b	0 \leq 1 x	0
+11-matsushita-1\24c	\in R x	0
+11-matsushita-1\25a	v \lt 3 1 - \gt x	0
+11-matsushita-1\25b	1 3 \lt - x	0
+11-matsushita-1\25c	\lt 5 4 - x	0
+12-doumoto-1\01a	= 8 a -	0
+12-doumoto-1\01b	= 8 a 7 -	0
+12-doumoto-1\01c	= 8 a -	0
+12-doumoto-1\02a	2 8 1 - = m	0
+12-doumoto-1\02b	5 2 8 - = m	0
+12-doumoto-1\02c	= m 8 - 9	0
+12-doumoto-1\03a	= 1 m - 2	0
+12-doumoto-1\03b	+ 2 1 - = m	0
+12-doumoto-1\03c	+ 2 ) - ( = m	0
+12-doumoto-1\04a	5 + 1 - = x	0
+12-doumoto-1\04b	= 5 1 - x	0
+12-doumoto-1\04c	= 2 4 - x	0
+12-doumoto-1\05a	= 6 2 1 x	0
+12-doumoto-1\05b	= 6 7 1 x	0
+12-doumoto-1\05c	= 2 0 1 x	0
+12-doumoto-1\06a	5 + 3 6 \sqrt =	0
+12-doumoto-1\06b	5 + 6 \sqrt 1 =	0
+12-doumoto-1\06c	= 2 4	0
+12-doumoto-1\07a	= 2 7 - \sqrt	0
+12-doumoto-1\07b	7 2 4 1 - = \sqrt	0
+12-doumoto-1\07c	= 3 0	0
+12-doumoto-1\08a	= 2 3 7 -	0
+12-doumoto-1\08b	= 2 7 -	0
+12-doumoto-1\08c	= 1 3 7 -	0
+12-doumoto-1\09a	= 2 n t a	0
+12-doumoto-1\09b	2 t a - = n	0
+12-doumoto-1\09c	+ 2 t ) c 1 = ( o x	0
+12-doumoto-1\10a	2 ) c s = ( o x	0
+12-doumoto-1\10b	2 i ) s = ( n x	0
+12-doumoto-1\10c	2 ) c s - = ( o x	0
+12-doumoto-1\11a	= 1 - 2	0
+12-doumoto-1\11b	2 t ) c 1 - = ( o x	0
+12-doumoto-1\11c	2 t a ) 1 - = ( n x	0
+12-doumoto-1\12a	2 i t ) s 1 - = ( n	0
+12-doumoto-1\12b	2 t ) c s 1 - = ( o	0
+12-doumoto-1\12c	+ 2 t a 1 = n x	0
+12-doumoto-1\13a	2 3 ) - = ( n l	0
+12-doumoto-1\13b	= 5 4 -	0
+12-doumoto-1\13c	= 1 - 2	0
+12-doumoto-1\15a	= 2 3 -	0
+12-doumoto-1\15b	= 1	0
+12-doumoto-1\15c	= 2 n l +	0
+12-doumoto-1\16a	+ ) c 6 s 1 - = ( o x	0
+12-doumoto-1\16b	+ ) c 6 s 1 - = ( o x	0
+12-doumoto-1\16c	5 + ) c s 4 = ( o x	0
+12-doumoto-1\17a	= 3 n 1	0
+12-doumoto-1\17b	= 2 n 1	0
+12-doumoto-1\17c	= 8 n	0
+12-doumoto-1\18a	= 8 n	0
+12-doumoto-1\18b	= 7 n	0
+12-doumoto-1\18c	= n 1	0
+12-doumoto-1\19a	= 2 n 1	0
+12-doumoto-1\19b	= n 9	0
+12-doumoto-1\19c	= 8 n	0
+12-doumoto-1\21a	= 2 n	0
+12-doumoto-1\21b	= 5 n - 2	0
+12-doumoto-1\21c	= 1 n - 2	0
+12-doumoto-1\22a	0 \lt 7 6 - x	0
+12-doumoto-1\22b	0 7 6 - \gt x	0
+12-doumoto-1\22c	7 3 6 - \gt x	0
+12-doumoto-1\24a	0 \geq x	0
+12-doumoto-1\24b	0 \leq 1 x	0
+12-doumoto-1\24c	\in R x	0
+12-doumoto-1\25a	v \lt 3 1 - \gt x	0
+12-doumoto-1\25b	1 3 \lt - x	0
+12-doumoto-1\25c	\lt 5 4 - x	0
+13-kitagawa-1\01a	= 8 a -	4
+13-kitagawa-1\01b	= 8 a 7 -	4
+13-kitagawa-1\01c	= 8 a -	4
+13-kitagawa-1\02a	2 8 1 - = m	4
+13-kitagawa-1\02b	5 2 8 - = m	4
+13-kitagawa-1\02c	= m 8 - 9	4
+13-kitagawa-1\03a	= 1 m - 2	4
+13-kitagawa-1\03b	+ 2 1 - = m	4
+13-kitagawa-1\03c	+ 2 ) - ( = m	4
+13-kitagawa-1\04a	5 + 1 - = x	4
+13-kitagawa-1\04b	= 5 1 - x	4
+13-kitagawa-1\04c	= 2 4 - x	4
+13-kitagawa-1\05a	= 6 2 1 x	4
+13-kitagawa-1\05b	= 6 7 1 x	4
+13-kitagawa-1\05c	= 2 0 1 x	4
+13-kitagawa-1\06a	5 + 3 6 \sqrt =	4
+13-kitagawa-1\06b	5 + 6 \sqrt 1 =	4
+13-kitagawa-1\06c	= 2 4	4
+13-kitagawa-1\07a	= 2 7 - \sqrt	4
+13-kitagawa-1\07b	7 2 4 1 - = \sqrt	4
+13-kitagawa-1\07c	= 3 0	4
+13-kitagawa-1\08a	= 2 3 7 -	4
+13-kitagawa-1\08b	= 2 7 -	4
+13-kitagawa-1\08c	= 1 3 7 -	4
+13-kitagawa-1\09a	= 2 n t a	4
+13-kitagawa-1\09b	2 t a - = n	4
+13-kitagawa-1\09c	+ 2 t ) c 1 = ( o x	4
+13-kitagawa-1\10a	2 ) c s = ( o x	4
+13-kitagawa-1\10b	2 i ) s = ( n x	4
+13-kitagawa-1\10c	2 ) c s - = ( o x	4
+13-kitagawa-1\11a	= 1 - 2	4
+13-kitagawa-1\11b	2 t ) c 1 - = ( o x	4
+13-kitagawa-1\11c	2 t a ) 1 - = ( n x	4
+13-kitagawa-1\12a	2 i t ) s 1 - = ( n	4
+13-kitagawa-1\12b	2 t ) c s 1 - = ( o	4
+13-kitagawa-1\12c	+ 2 t a 1 = n x	4
+13-kitagawa-1\13a	2 3 ) - = ( n l	4
+13-kitagawa-1\13b	= 5 4 -	4
+13-kitagawa-1\13c	= 1 - 2	4
+13-kitagawa-1\15a	= 2 3 -	4
+13-kitagawa-1\15b	= 1	4
+13-kitagawa-1\15c	= 2 n l +	4
+13-kitagawa-1\16a	+ ) c 6 s 1 - = ( o x	4
+13-kitagawa-1\16b	+ ) c 6 s 1 - = ( o x	4
+13-kitagawa-1\16c	5 + ) c s 4 = ( o x	4
+13-kitagawa-1\17a	= 3 n 1	4
+13-kitagawa-1\17b	= 2 n 1	4
+13-kitagawa-1\17c	= 8 n	4
+13-kitagawa-1\18a	= 8 n	4
+13-kitagawa-1\18b	= 7 n	4
+13-kitagawa-1\18c	= n 1	4
+13-kitagawa-1\19a	= 2 n 1	4
+13-kitagawa-1\19b	= n 9	4
+13-kitagawa-1\19c	= 8 n	4
+13-kitagawa-1\21a	= 2 n	4
+13-kitagawa-1\21b	= 5 n - 2	4
+13-kitagawa-1\21c	= 1 n - 2	4
+13-kitagawa-1\22a	0 \lt 7 6 - x	4
+13-kitagawa-1\22b	0 7 6 - \gt x	4
+13-kitagawa-1\22c	7 3 6 - \gt x	4
+13-kitagawa-1\24a	0 \geq x	4
+13-kitagawa-1\24b	0 \leq 1 x	4
+13-kitagawa-1\24c	\in R x	4
+13-kitagawa-1\25a	v \lt 3 1 - \gt x	4
+13-kitagawa-1\25b	1 3 \lt - x	4
+13-kitagawa-1\25c	\lt 5 4 - x	4
+14-horiguchi-1\01a	= 8 a -	2
+14-horiguchi-1\01b	= 8 a 7 -	2
+14-horiguchi-1\01c	= 8 a -	2
+14-horiguchi-1\02a	2 8 1 - = m	2
+14-horiguchi-1\02b	5 2 8 - = m	2
+14-horiguchi-1\02c	= m 8 - 9	2
+14-horiguchi-1\03a	= 1 m - 2	2
+14-horiguchi-1\03b	+ 2 1 - = m	2
+14-horiguchi-1\03c	+ 2 ) - ( = m	2
+14-horiguchi-1\04a	5 + 1 - = x	2
+14-horiguchi-1\04b	= 5 1 - x	2
+14-horiguchi-1\04c	= 2 4 - x	2
+14-horiguchi-1\05a	= 6 2 1 x	2
+14-horiguchi-1\05b	= 6 7 1 x	2
+14-horiguchi-1\05c	= 2 0 1 x	2
+14-horiguchi-1\06a	5 + 3 6 \sqrt =	2
+14-horiguchi-1\06b	5 + 6 \sqrt 1 =	2
+14-horiguchi-1\06c	= 2 4	2
+14-horiguchi-1\07a	= 2 7 - \sqrt	2
+14-horiguchi-1\07b	7 2 4 1 - = \sqrt	2
+14-horiguchi-1\07c	= 3 0	2
+14-horiguchi-1\08a	= 2 3 7 -	2
+14-horiguchi-1\08b	= 2 7 -	2
+14-horiguchi-1\08c	= 1 3 7 -	2
+14-horiguchi-1\09a	= 2 n t a	2
+14-horiguchi-1\09b	2 t a - = n	2
+14-horiguchi-1\09c	+ 2 t ) c 1 = ( o x	2
+14-horiguchi-1\10a	2 ) c s = ( o x	2
+14-horiguchi-1\10b	2 i ) s = ( n x	2
+14-horiguchi-1\10c	2 ) c s - = ( o x	2
+14-horiguchi-1\11a	= 1 - 2	2
+14-horiguchi-1\11b	2 t ) c 1 - = ( o x	2
+14-horiguchi-1\11c	2 t a ) 1 - = ( n x	2
+14-horiguchi-1\12a	2 i t ) s 1 - = ( n	2
+14-horiguchi-1\12b	2 t ) c s 1 - = ( o	2
+14-horiguchi-1\12c	+ 2 t a 1 = n x	2
+14-horiguchi-1\13a	2 3 ) - = ( n l	2
+14-horiguchi-1\13b	= 5 4 -	2
+14-horiguchi-1\13c	= 1 - 2	2
+14-horiguchi-1\15a	= 2 3 -	2
+14-horiguchi-1\15b	= 1	2
+14-horiguchi-1\15c	= 2 n l +	2
+14-horiguchi-1\16a	+ ) c 6 s 1 - = ( o x	2
+14-horiguchi-1\16b	+ ) c 6 s 1 - = ( o x	2
+14-horiguchi-1\16c	5 + ) c s 4 = ( o x	2
+14-horiguchi-1\17a	= 3 n 1	2
+14-horiguchi-1\17b	= 2 n 1	2
+14-horiguchi-1\17c	= 8 n	2
+14-horiguchi-1\18a	= 8 n	2
+14-horiguchi-1\18b	= 7 n	2
+14-horiguchi-1\18c	= n 1	2
+14-horiguchi-1\19a	= 2 n 1	2
+14-horiguchi-1\19b	= n 9	2
+14-horiguchi-1\19c	= 8 n	2
+14-horiguchi-1\21a	= 2 n	2
+14-horiguchi-1\21b	= 5 n - 2	2
+14-horiguchi-1\21c	= 1 n - 2	2
+14-horiguchi-1\22a	0 \lt 7 6 - x	2
+14-horiguchi-1\22b	0 7 6 - \gt x	2
+14-horiguchi-1\22c	7 3 6 - \gt x	2
+14-horiguchi-1\24a	0 \geq x	2
+14-horiguchi-1\24b	0 \leq 1 x	2
+14-horiguchi-1\24c	\in R x	2
+14-horiguchi-1\25a	v \lt 3 1 - \gt x	2
+14-horiguchi-1\25b	1 3 \lt - x	2
+14-horiguchi-1\25c	\lt 5 4 - x	2
+15-thanh-1\01a	= 8 a -	0
+15-thanh-1\01b	= 8 a 7 -	0
+15-thanh-1\01c	= 8 a -	0
+15-thanh-1\02a	2 8 1 - = m	0
+15-thanh-1\02b	5 2 8 - = m	0
+15-thanh-1\02c	= m 8 - 9	0
+15-thanh-1\03a	= 1 m - 2	0
+15-thanh-1\03b	+ 2 1 - = m	0
+15-thanh-1\03c	+ 2 ) - ( = m	0
+15-thanh-1\04a	5 + 1 - = x	0
+15-thanh-1\04b	= 5 1 - x	0
+15-thanh-1\04c	= 2 4 - x	0
+15-thanh-1\05a	= 6 2 1 x	0
+15-thanh-1\05b	= 6 7 1 x	0
+15-thanh-1\05c	= 2 0 1 x	0
+15-thanh-1\06a	5 + 3 6 \sqrt =	0
+15-thanh-1\06b	5 + 6 \sqrt 1 =	0
+15-thanh-1\06c	= 2 4	0
+15-thanh-1\07a	= 2 7 - \sqrt	0
+15-thanh-1\07b	7 2 4 1 - = \sqrt	0
+15-thanh-1\07c	= 3 0	0
+15-thanh-1\08a	= 2 3 7 -	0
+15-thanh-1\08b	= 2 7 -	0
+15-thanh-1\08c	= 1 3 7 -	0
+15-thanh-1\09a	= 2 n t a	0
+15-thanh-1\09b	2 t a - = n	0
+15-thanh-1\09c	+ 2 t ) c 1 = ( o x	0
+15-thanh-1\10a	2 ) c s = ( o x	0
+15-thanh-1\10b	2 i ) s = ( n x	0
+15-thanh-1\10c	2 ) c s - = ( o x	0
+15-thanh-1\11a	= 1 - 2	0
+15-thanh-1\11c	2 t a ) 1 - = ( n x	0
+15-thanh-1\12a	2 i t ) s 1 - = ( n	0
+15-thanh-1\12b	2 t ) c s 1 - = ( o	0
+15-thanh-1\12c	+ 2 t a 1 = n x	0
+15-thanh-1\13a	2 3 ) - = ( n l	0
+15-thanh-1\13b	= 5 4 -	0
+15-thanh-1\13c	= 1 - 2	0
+15-thanh-1\15a	= 2 3 -	0
+15-thanh-1\15b	= 1	0
+15-thanh-1\15c	= 2 n l +	0
+15-thanh-1\16a	+ ) c 6 s 1 - = ( o x	0
+15-thanh-1\16b	+ ) c 6 s 1 - = ( o x	0
+15-thanh-1\16c	5 + ) c s 4 = ( o x	0
+15-thanh-1\17a	= 3 n 1	0
+15-thanh-1\17b	= 2 n 1	0
+15-thanh-1\17c	= 8 n	0
+15-thanh-1\18a	= 8 n	0
+15-thanh-1\18b	= 7 n	0
+15-thanh-1\18c	= n 1	0
+15-thanh-1\19a	= 2 n 1	0
+15-thanh-1\19b	= n 9	0
+15-thanh-1\19c	= 8 n	0
+15-thanh-1\21a	= 2 n	0
+15-thanh-1\21b	= 5 n - 2	0
+15-thanh-1\21c	= 1 n - 2	0
+15-thanh-1\22a	0 \lt 7 6 - x	0
+15-thanh-1\22b	0 7 6 - \gt x	0
+15-thanh-1\22c	7 3 6 - \gt x	0
+15-thanh-1\24a	0 \geq x	0
+15-thanh-1\24b	0 \leq 1 x	0
+15-thanh-1\24c	\in R x	0
+15-thanh-1\25a	v \lt 3 1 - \gt x	0
+15-thanh-1\25b	1 3 \lt - x	0
+15-thanh-1\25c	\lt 5 4 - x	0
+16-kumadayutaka-1\01a	= 8 a -	4
+16-kumadayutaka-1\01b	= 8 a 7 -	4
+16-kumadayutaka-1\01c	= 8 a -	4
+16-kumadayutaka-1\02a	2 8 1 - = m	4
+16-kumadayutaka-1\02b	5 2 8 - = m	4
+16-kumadayutaka-1\02c	= m 8 - 9	4
+16-kumadayutaka-1\03a	= 1 m - 2	4
+16-kumadayutaka-1\03b	+ 2 1 - = m	4
+16-kumadayutaka-1\03c	+ 2 ) - ( = m	4
+16-kumadayutaka-1\04a	5 + 1 - = x	4
+16-kumadayutaka-1\04b	= 5 1 - x	4
+16-kumadayutaka-1\04c	= 2 4 - x	4
+16-kumadayutaka-1\05a	= 6 2 1 x	4
+16-kumadayutaka-1\05b	= 6 7 1 x	4
+16-kumadayutaka-1\05c	= 2 0 1 x	4
+16-kumadayutaka-1\06a	5 + 3 6 \sqrt =	4
+16-kumadayutaka-1\06b	5 + 6 \sqrt 1 =	4
+16-kumadayutaka-1\06c	= 2 4	4
+16-kumadayutaka-1\07a	= 2 7 - \sqrt	4
+16-kumadayutaka-1\07b	7 2 4 1 - = \sqrt	4
+16-kumadayutaka-1\07c	= 3 0	4
+16-kumadayutaka-1\08a	= 2 3 7 -	4
+16-kumadayutaka-1\08b	= 2 7 -	4
+16-kumadayutaka-1\08c	= 1 3 7 -	4
+16-kumadayutaka-1\09a	= 2 n t a	4
+16-kumadayutaka-1\09b	2 t a - = n	4
+16-kumadayutaka-1\09c	+ 2 t ) c 1 = ( o x	4
+16-kumadayutaka-1\10a	2 ) c s = ( o x	4
+16-kumadayutaka-1\10b	2 i ) s = ( n x	4
+16-kumadayutaka-1\10c	2 ) c s - = ( o x	4
+16-kumadayutaka-1\11a	= 1 - 2	4
+16-kumadayutaka-1\11b	2 t ) c 1 - = ( o x	4
+16-kumadayutaka-1\11c	2 t a ) 1 - = ( n x	4
+16-kumadayutaka-1\12a	2 i t ) s 1 - = ( n	4
+16-kumadayutaka-1\12b	2 t ) c s 1 - = ( o	4
+16-kumadayutaka-1\12c	+ 2 t a 1 = n x	4
+16-kumadayutaka-1\13a	2 3 ) - = ( n l	4
+16-kumadayutaka-1\13b	= 5 4 -	4
+16-kumadayutaka-1\13c	= 1 - 2	4
+16-kumadayutaka-1\15a	= 2 3 -	4
+16-kumadayutaka-1\15b	= 1	4
+16-kumadayutaka-1\15c	= 2 n l +	4
+16-kumadayutaka-1\16a	+ ) c 6 s 1 - = ( o x	4
+16-kumadayutaka-1\16b	+ ) c 6 s 1 - = ( o x	4
+16-kumadayutaka-1\16c	5 + ) c s 4 = ( o x	4
+16-kumadayutaka-1\17a	= 3 n 1	4
+16-kumadayutaka-1\17b	= 2 n 1	4
+16-kumadayutaka-1\17c	= 8 n	4
+16-kumadayutaka-1\18a	= 8 n	4
+16-kumadayutaka-1\18b	= 7 n	4
+16-kumadayutaka-1\18c	= n 1	4
+16-kumadayutaka-1\19a	= 2 n 1	4
+16-kumadayutaka-1\19b	= n 9	4
+16-kumadayutaka-1\19c	= 8 n	4
+16-kumadayutaka-1\21a	= 2 n	4
+16-kumadayutaka-1\21b	= 5 n - 2	4
+16-kumadayutaka-1\21c	= 1 n - 2	4
+16-kumadayutaka-1\22a	0 \lt 7 6 - x	4
+16-kumadayutaka-1\22b	0 7 6 - \gt x	4
+16-kumadayutaka-1\22c	7 3 6 - \gt x	4
+16-kumadayutaka-1\24a	0 \geq x	4
+16-kumadayutaka-1\24b	0 \leq 1 x	4
+16-kumadayutaka-1\24c	\in R x	4
+16-kumadayutaka-1\25a	v \lt 3 1 - \gt x	4
+16-kumadayutaka-1\25b	1 3 \lt - x	4
+16-kumadayutaka-1\25c	\lt 5 4 - x	4
+17-takahashi-1\01a	= 8 a -	3
+17-takahashi-1\01b	= 8 a 7 -	3
+17-takahashi-1\01c	= 8 a -	3
+17-takahashi-1\02a	2 8 1 - = m	3
+17-takahashi-1\02b	5 2 8 - = m	3
+17-takahashi-1\02c	= m 8 - 9	3
+17-takahashi-1\03a	= 1 m - 2	3
+17-takahashi-1\03b	+ 2 1 - = m	3
+17-takahashi-1\03c	+ 2 ) - ( = m	3
+17-takahashi-1\04a	5 + 1 - = x	3
+17-takahashi-1\04b	= 5 1 - x	3
+17-takahashi-1\04c	= 2 4 - x	3
+17-takahashi-1\05a	= 6 2 1 x	3
+17-takahashi-1\05b	= 6 7 1 x	3
+17-takahashi-1\05c	= 2 0 1 x	3
+17-takahashi-1\06a	5 + 3 6 \sqrt =	3
+17-takahashi-1\06b	5 + 6 \sqrt 1 =	3
+17-takahashi-1\06c	= 2 4	3
+17-takahashi-1\07a	= 2 7 - \sqrt	3
+17-takahashi-1\07b	7 2 4 1 - = \sqrt	3
+17-takahashi-1\07c	= 3 0	3
+17-takahashi-1\08a	= 2 3 7 -	3
+17-takahashi-1\08b	= 2 7 -	3
+17-takahashi-1\08c	= 1 3 7 -	3
+17-takahashi-1\09a	= 2 n t a	3
+17-takahashi-1\09b	2 t a - = n	3
+17-takahashi-1\09c	+ 2 t ) c 1 = ( o x	3
+17-takahashi-1\10a	2 ) c s = ( o x	3
+17-takahashi-1\10b	2 i ) s = ( n x	3
+17-takahashi-1\10c	2 ) c s - = ( o x	3
+17-takahashi-1\11a	= 1 - 2	3
+17-takahashi-1\11b	2 t ) c 1 - = ( o x	3
+17-takahashi-1\11c	2 t a ) 1 - = ( n x	3
+17-takahashi-1\12a	2 i t ) s 1 - = ( n	3
+17-takahashi-1\12b	2 t ) c s 1 - = ( o	3
+17-takahashi-1\12c	+ 2 t a 1 = n x	3
+17-takahashi-1\13a	2 3 ) - = ( n l	3
+17-takahashi-1\13b	= 5 4 -	3
+17-takahashi-1\13c	= 1 - 2	3
+17-takahashi-1\15a	= 2 3 -	3
+17-takahashi-1\15b	= 1	3
+17-takahashi-1\15c	= 2 n l +	3
+17-takahashi-1\16a	+ ) c 6 s 1 - = ( o x	3
+17-takahashi-1\16b	+ ) c 6 s 1 - = ( o x	3
+17-takahashi-1\16c	5 + ) c s 4 = ( o x	3
+17-takahashi-1\17a	= 3 n 1	3
+17-takahashi-1\17b	= 2 n 1	3
+17-takahashi-1\17c	= 8 n	3
+17-takahashi-1\18a	= 8 n	3
+17-takahashi-1\18b	= 7 n	3
+17-takahashi-1\18c	= n 1	3
+17-takahashi-1\19a	= 2 n 1	3
+17-takahashi-1\19b	= n 9	3
+17-takahashi-1\19c	= 8 n	3
+17-takahashi-1\21a	= 2 n	3
+17-takahashi-1\21b	= 5 n - 2	3
+17-takahashi-1\21c	= 1 n - 2	3
+17-takahashi-1\22a	0 \lt 7 6 - x	3
+17-takahashi-1\22b	0 7 6 - \gt x	3
+17-takahashi-1\22c	7 3 6 - \gt x	3
+17-takahashi-1\24a	0 \geq x	3
+17-takahashi-1\24b	0 \leq 1 x	3
+17-takahashi-1\24c	\in R x	3
+17-takahashi-1\25a	v \lt 3 1 - \gt x	3
+17-takahashi-1\25b	1 3 \lt - x	3
+17-takahashi-1\25c	\lt 5 4 - x	3
+18-liangxiuyu-1\01a	= 8 a -	2
+18-liangxiuyu-1\01b	= 8 a 7 -	2
+18-liangxiuyu-1\01c	= 8 a -	2
+18-liangxiuyu-1\02a	2 8 1 - = m	2
+18-liangxiuyu-1\02b	5 2 8 - = m	2
+18-liangxiuyu-1\02c	= m 8 - 9	2
+18-liangxiuyu-1\03a	= 1 m - 2	2
+18-liangxiuyu-1\03b	+ 2 1 - = m	2
+18-liangxiuyu-1\03c	+ 2 ) - ( = m	2
+18-liangxiuyu-1\04a	5 + 1 - = x	2
+18-liangxiuyu-1\04b	= 5 1 - x	2
+18-liangxiuyu-1\04c	= 2 4 - x	2
+18-liangxiuyu-1\05a	= 6 2 1 x	2
+18-liangxiuyu-1\05b	= 6 7 1 x	2
+18-liangxiuyu-1\05c	= 2 0 1 x	2
+18-liangxiuyu-1\06a	5 + 3 6 \sqrt =	2
+18-liangxiuyu-1\06b	5 + 6 \sqrt 1 =	2
+18-liangxiuyu-1\06c	= 2 4	2
+18-liangxiuyu-1\07a	= 2 7 - \sqrt	2
+18-liangxiuyu-1\07b	7 2 4 1 - = \sqrt	2
+18-liangxiuyu-1\07c	= 3 0	2
+18-liangxiuyu-1\08a	= 2 3 7 -	2
+18-liangxiuyu-1\08b	= 2 7 -	2
+18-liangxiuyu-1\08c	= 1 3 7 -	2
+18-liangxiuyu-1\09a	= 2 n t a	2
+18-liangxiuyu-1\09b	2 t a - = n	2
+18-liangxiuyu-1\09c	+ 2 t ) c 1 = ( o x	2
+18-liangxiuyu-1\10a	2 ) c s = ( o x	2
+18-liangxiuyu-1\10b	2 i ) s = ( n x	2
+18-liangxiuyu-1\10c	2 ) c s - = ( o x	2
+18-liangxiuyu-1\11a	= 1 - 2	2
+18-liangxiuyu-1\11b	2 t ) c 1 - = ( o x	2
+18-liangxiuyu-1\11c	2 t a ) 1 - = ( n x	2
+18-liangxiuyu-1\12a	2 i t ) s 1 - = ( n	2
+18-liangxiuyu-1\12b	2 t ) c s 1 - = ( o	2
+18-liangxiuyu-1\12c	+ 2 t a 1 = n x	2
+18-liangxiuyu-1\13a	2 3 ) - = ( n l	2
+18-liangxiuyu-1\13b	= 5 4 -	2
+18-liangxiuyu-1\13c	= 1 - 2	2
+18-liangxiuyu-1\15a	= 2 3 -	2
+18-liangxiuyu-1\15b	= 1	2
+18-liangxiuyu-1\15c	= 2 n l +	2
+18-liangxiuyu-1\16a	+ ) c 6 s 1 - = ( o x	2
+18-liangxiuyu-1\16b	+ ) c 6 s 1 - = ( o x	2
+18-liangxiuyu-1\16c	5 + ) c s 4 = ( o x	2
+18-liangxiuyu-1\17a	= 3 n 1	2
+18-liangxiuyu-1\17b	= 2 n 1	2
+18-liangxiuyu-1\17c	= 8 n	2
+18-liangxiuyu-1\18a	= 8 n	2
+18-liangxiuyu-1\18b	= 7 n	2
+18-liangxiuyu-1\18c	= n 1	2
+18-liangxiuyu-1\19a	= 2 n 1	2
+18-liangxiuyu-1\19b	= n 9	2
+18-liangxiuyu-1\19c	= 8 n	2
+18-liangxiuyu-1\21a	= 2 n	2
+18-liangxiuyu-1\21b	= 5 n - 2	2
+18-liangxiuyu-1\21c	= 1 n - 2	2
+18-liangxiuyu-1\22a	0 \lt 7 6 - x	2
+18-liangxiuyu-1\22b	0 7 6 - \gt x	2
+18-liangxiuyu-1\22c	7 3 6 - \gt x	2
+18-liangxiuyu-1\24a	0 \geq x	2
+18-liangxiuyu-1\24b	0 \leq 1 x	2
+18-liangxiuyu-1\24c	\in R x	2
+18-liangxiuyu-1\25a	v \lt 3 1 - \gt x	2
+18-liangxiuyu-1\25b	1 3 \lt - x	2
+18-liangxiuyu-1\25c	\lt 5 4 - x	2
+19-huy-1\01a	= 8 a -	3
+19-huy-1\01b	= 8 a 7 -	3
+19-huy-1\01c	= 8 a -	3
+19-huy-1\02a	2 8 1 - = m	3
+19-huy-1\02b	5 2 8 - = m	3
+19-huy-1\02c	= m 8 - 9	3
+19-huy-1\03a	= 1 m - 2	3
+19-huy-1\03b	+ 2 1 - = m	3
+19-huy-1\03c	+ 2 ) - ( = m	3
+19-huy-1\04a	5 + 1 - = x	3
+19-huy-1\04b	= 5 1 - x	3
+19-huy-1\04c	= 2 4 - x	3
+19-huy-1\05a	= 6 2 1 x	3
+19-huy-1\05b	= 6 7 1 x	3
+19-huy-1\05c	= 2 0 1 x	3
+19-huy-1\06a	5 + 3 6 \sqrt =	3
+19-huy-1\06b	5 + 6 \sqrt 1 =	3
+19-huy-1\06c	= 2 4	3
+19-huy-1\07a	= 2 7 - \sqrt	3
+19-huy-1\07b	7 2 4 1 - = \sqrt	3
+19-huy-1\07c	= 3 0	3
+19-huy-1\08a	= 2 3 7 -	3
+19-huy-1\08b	= 2 7 -	3
+19-huy-1\08c	= 1 3 7 -	3
+19-huy-1\09a	= 2 n t a	3
+19-huy-1\09b	2 t a - = n	3
+19-huy-1\09c	+ 2 t ) c 1 = ( o x	3
+19-huy-1\10a	2 ) c s = ( o x	3
+19-huy-1\10b	2 i ) s = ( n x	3
+19-huy-1\10c	2 ) c s - = ( o x	3
+19-huy-1\11a	= 1 - 2	3
+19-huy-1\11b	2 t ) c 1 - = ( o x	3
+19-huy-1\11c	2 t a ) 1 - = ( n x	3
+19-huy-1\12a	2 i t ) s 1 - = ( n	3
+19-huy-1\12b	2 t ) c s 1 - = ( o	3
+19-huy-1\12c	+ 2 t a 1 = n x	3
+19-huy-1\13a	2 3 ) - = ( n l	3
+19-huy-1\13b	= 5 4 -	3
+19-huy-1\13c	= 1 - 2	3
+19-huy-1\15a	= 2 3 -	3
+19-huy-1\15b	= 1	3
+19-huy-1\15c	= 2 n l +	3
+19-huy-1\16a	+ ) c 6 s 1 - = ( o x	3
+19-huy-1\16b	+ ) c 6 s 1 - = ( o x	3
+19-huy-1\16c	5 + ) c s 4 = ( o x	3
+19-huy-1\17a	= 3 n 1	3
+19-huy-1\17b	= 2 n 1	3
+19-huy-1\17c	= 8 n	3
+19-huy-1\18a	= 8 n	3
+19-huy-1\18b	= 7 n	3
+19-huy-1\18c	= n 1	3
+19-huy-1\19a	= 2 n 1	3
+19-huy-1\19b	= n 9	3
+19-huy-1\19c	= 8 n	3
+19-huy-1\21a	= 2 n	3
+19-huy-1\21b	= 5 n - 2	3
+19-huy-1\21c	= 1 n - 2	3
+19-huy-1\22a	0 \lt 7 6 - x	3
+19-huy-1\22b	0 7 6 - \gt x	3
+19-huy-1\22c	7 3 6 - \gt x	3
+19-huy-1\24a	0 \geq x	3
+19-huy-1\24b	0 \leq 1 x	3
+19-huy-1\24c	\in R x	3
+19-huy-1\25a	v \lt 3 1 - \gt x	3
+19-huy-1\25b	1 3 \lt - x	3
+19-huy-1\25c	\lt 5 4 - x	3
+2-cuong-1\01a	= 8 a -	4
+2-cuong-1\01b	= 8 a 7 -	4
+2-cuong-1\01c	= 8 a -	4
+2-cuong-1\02a	2 8 1 - = m	4
+2-cuong-1\02b	5 2 8 - = m	4
+2-cuong-1\02c	= m 8 - 9	4
+2-cuong-1\03a	= 1 m - 2	4
+2-cuong-1\03b	+ 2 1 - = m	4
+2-cuong-1\03c	+ 2 ) - ( = m	4
+2-cuong-1\04a	5 + 1 - = x	4
+2-cuong-1\04b	= 5 1 - x	4
+2-cuong-1\04c	= 2 4 - x	4
+2-cuong-1\05a	= 6 2 1 x	4
+2-cuong-1\05b	= 6 7 1 x	4
+2-cuong-1\05c	= 2 0 1 x	4
+2-cuong-1\06a	5 + 3 6 \sqrt =	4
+2-cuong-1\06b	5 + 6 \sqrt 1 =	4
+2-cuong-1\06c	= 2 4	4
+2-cuong-1\07a	= 2 7 - \sqrt	4
+2-cuong-1\07b	7 2 4 1 - = \sqrt	4
+2-cuong-1\07c	= 3 0	4
+2-cuong-1\08a	= 2 3 7 -	4
+2-cuong-1\08b	= 2 7 -	4
+2-cuong-1\08c	= 1 3 7 -	4
+2-cuong-1\09a	= 2 n t a	4
+2-cuong-1\09b	2 t a - = n	4
+2-cuong-1\09c	+ 2 t ) c 1 = ( o x	4
+2-cuong-1\10a	2 ) c s = ( o x	4
+2-cuong-1\10b	2 i ) s = ( n x	4
+2-cuong-1\10c	2 ) c s - = ( o x	4
+2-cuong-1\11a	= 1 - 2	4
+2-cuong-1\11b	2 t ) c 1 - = ( o x	4
+2-cuong-1\11c	2 t a ) 1 - = ( n x	4
+2-cuong-1\12a	2 i t ) s 1 - = ( n	4
+2-cuong-1\12b	2 t ) c s 1 - = ( o	4
+2-cuong-1\12c	+ 2 t a 1 = n x	4
+2-cuong-1\13a	2 3 ) - = ( n l	4
+2-cuong-1\13b	= 5 4 -	4
+2-cuong-1\13c	= 1 - 2	4
+2-cuong-1\15a	= 2 3 -	4
+2-cuong-1\15b	= 1	4
+2-cuong-1\15c	= 2 n l +	4
+2-cuong-1\16a	+ ) c 6 s 1 - = ( o x	4
+2-cuong-1\16b	+ ) c 6 s 1 - = ( o x	4
+2-cuong-1\16c	5 + ) c s 4 = ( o x	4
+2-cuong-1\17a	= 3 n 1	4
+2-cuong-1\17b	= 2 n 1	4
+2-cuong-1\17c	= 8 n	4
+2-cuong-1\18a	= 8 n	4
+2-cuong-1\18b	= 7 n	4
+2-cuong-1\18c	= n 1	4
+2-cuong-1\19a	= 2 n 1	4
+2-cuong-1\19b	= n 9	4
+2-cuong-1\19c	= 8 n	4
+2-cuong-1\21a	= 2 n	4
+2-cuong-1\21b	= 5 n - 2	4
+2-cuong-1\21c	= 1 n - 2	4
+2-cuong-1\22a	0 \lt 7 6 - x	4
+2-cuong-1\22b	0 7 6 - \gt x	4
+2-cuong-1\22c	7 3 6 - \gt x	4
+2-cuong-1\24a	0 \geq x	4
+2-cuong-1\24b	0 \leq 1 x	4
+2-cuong-1\24c	\in R x	4
+2-cuong-1\25a	v \lt 3 1 - \gt x	4
+2-cuong-1\25b	1 3 \lt - x	4
+2-cuong-1\25c	\lt 5 4 - x	4
+20-thien-1\01a	= 8 a -	1
+20-thien-1\01b	= 8 a 7 -	1
+20-thien-1\01c	= 8 a -	1
+20-thien-1\02a	2 8 1 - = m	1
+20-thien-1\02b	5 2 8 - = m	1
+20-thien-1\02c	= m 8 - 9	1
+20-thien-1\03a	= 1 m - 2	1
+20-thien-1\03b	+ 2 1 - = m	1
+20-thien-1\03c	+ 2 ) - ( = m	1
+20-thien-1\04a	5 + 1 - = x	1
+20-thien-1\04b	= 5 1 - x	1
+20-thien-1\04c	= 2 4 - x	1
+20-thien-1\05a	= 6 2 1 x	1
+20-thien-1\05b	= 6 7 1 x	1
+20-thien-1\05c	= 2 0 1 x	1
+20-thien-1\06a	5 + 3 6 \sqrt =	1
+20-thien-1\06b	5 + 6 \sqrt 1 =	1
+20-thien-1\06c	= 2 4	1
+20-thien-1\07a	= 2 7 - \sqrt	1
+20-thien-1\07b	7 2 4 1 - = \sqrt	1
+20-thien-1\07c	= 3 0	1
+20-thien-1\08a	= 2 3 7 -	1
+20-thien-1\08b	= 2 7 -	1
+20-thien-1\08c	= 1 3 7 -	1
+20-thien-1\09a	= 2 n t a	1
+20-thien-1\09b	2 t a - = n	1
+20-thien-1\09c	+ 2 t ) c 1 = ( o x	1
+20-thien-1\10a	2 ) c s = ( o x	1
+20-thien-1\10b	2 i ) s = ( n x	1
+20-thien-1\10c	2 ) c s - = ( o x	1
+20-thien-1\11a	= 1 - 2	1
+20-thien-1\11b	2 t ) c 1 - = ( o x	1
+20-thien-1\11c	2 t a ) 1 - = ( n x	1
+20-thien-1\12a	2 i t ) s 1 - = ( n	1
+20-thien-1\12b	2 t ) c s 1 - = ( o	1
+20-thien-1\12c	+ 2 t a 1 = n x	1
+20-thien-1\13a	2 3 ) - = ( n l	1
+20-thien-1\13b	= 5 4 -	1
+20-thien-1\13c	= 1 - 2	1
+20-thien-1\15a	= 2 3 -	1
+20-thien-1\15b	= 1	1
+20-thien-1\15c	= 2 n l +	1
+20-thien-1\16a	+ ) c 6 s 1 - = ( o x	1
+20-thien-1\16b	+ ) c 6 s 1 - = ( o x	1
+20-thien-1\16c	5 + ) c s 4 = ( o x	1
+20-thien-1\17a	= 3 n 1	1
+20-thien-1\17b	= 2 n 1	1
+20-thien-1\17c	= 8 n	1
+20-thien-1\18a	= 8 n	1
+20-thien-1\18b	= 7 n	1
+20-thien-1\18c	= n 1	1
+20-thien-1\19a	= 2 n 1	1
+20-thien-1\19b	= n 9	1
+20-thien-1\19c	= 8 n	1
+20-thien-1\21a	= 2 n	1
+20-thien-1\21b	= 5 n - 2	1
+20-thien-1\21c	= 1 n - 2	1
+20-thien-1\22a	0 \lt 7 6 - x	1
+20-thien-1\22b	0 7 6 - \gt x	1
+20-thien-1\22c	7 3 6 - \gt x	1
+20-thien-1\24a	0 \geq x	1
+20-thien-1\24b	0 \leq 1 x	1
+20-thien-1\24c	\in R x	1
+20-thien-1\25a	v \lt 3 1 - \gt x	1
+20-thien-1\25b	1 3 \lt - x	1
+20-thien-1\25c	\lt 5 4 - x	1
+21-duyen-1\01a	= 8 a -	1
+21-duyen-1\01b	= 8 a 7 -	1
+21-duyen-1\01c	= 8 a -	1
+21-duyen-1\02a	2 8 1 - = m	1
+21-duyen-1\02b	5 2 8 - = m	1
+21-duyen-1\02c	= m 8 - 9	1
+21-duyen-1\03a	= 1 m - 2	1
+21-duyen-1\03b	+ 2 1 - = m	1
+21-duyen-1\03c	+ 2 ) - ( = m	1
+21-duyen-1\04a	5 + 1 - = x	1
+21-duyen-1\04b	= 5 1 - x	1
+21-duyen-1\04c	= 2 4 - x	1
+21-duyen-1\05a	= 6 2 1 x	1
+21-duyen-1\05b	= 6 7 1 x	1
+21-duyen-1\05c	= 2 0 1 x	1
+21-duyen-1\06a	5 + 3 6 \sqrt =	1
+21-duyen-1\06b	5 + 6 \sqrt 1 =	1
+21-duyen-1\06c	= 2 4	1
+21-duyen-1\07a	= 2 7 - \sqrt	1
+21-duyen-1\07b	7 2 4 1 - = \sqrt	1
+21-duyen-1\07c	= 3 0	1
+21-duyen-1\08a	= 2 3 7 -	1
+21-duyen-1\08b	= 2 7 -	1
+21-duyen-1\08c	= 1 3 7 -	1
+21-duyen-1\09a	= 2 n t a	1
+21-duyen-1\09b	2 t a - = n	1
+21-duyen-1\09c	+ 2 t ) c 1 = ( o x	1
+21-duyen-1\10a	2 ) c s = ( o x	1
+21-duyen-1\10b	2 i ) s = ( n x	1
+21-duyen-1\10c	2 ) c s - = ( o x	1
+21-duyen-1\11a	= 1 - 2	1
+21-duyen-1\11b	2 t ) c 1 - = ( o x	1
+21-duyen-1\11c	2 t a ) 1 - = ( n x	1
+21-duyen-1\12a	2 i t ) s 1 - = ( n	1
+21-duyen-1\12b	2 t ) c s 1 - = ( o	1
+21-duyen-1\12c	+ 2 t a 1 = n x	1
+21-duyen-1\13a	2 3 ) - = ( n l	1
+21-duyen-1\13b	= 5 4 -	1
+21-duyen-1\13c	= 1 - 2	1
+21-duyen-1\15a	= 2 3 -	1
+21-duyen-1\15b	= 1	1
+21-duyen-1\15c	= 2 n l +	1
+21-duyen-1\16a	+ ) c 6 s 1 - = ( o x	1
+21-duyen-1\16b	+ ) c 6 s 1 - = ( o x	1
+21-duyen-1\16c	5 + ) c s 4 = ( o x	1
+21-duyen-1\17a	= 3 n 1	1
+21-duyen-1\17b	= 2 n 1	1
+21-duyen-1\17c	= 8 n	1
+21-duyen-1\18a	= 8 n	1
+21-duyen-1\18b	= 7 n	1
+21-duyen-1\18c	= n 1	1
+21-duyen-1\19a	= 2 n 1	1
+21-duyen-1\19b	= n 9	1
+21-duyen-1\19c	= 8 n	1
+21-duyen-1\21a	= 2 n	1
+21-duyen-1\21b	= 5 n - 2	1
+21-duyen-1\21c	= 1 n - 2	1
+21-duyen-1\22a	0 \lt 7 6 - x	1
+21-duyen-1\22b	0 7 6 - \gt x	1
+21-duyen-1\22c	7 3 6 - \gt x	1
+21-duyen-1\24a	0 \geq x	1
+21-duyen-1\24b	0 \leq 1 x	1
+21-duyen-1\24c	\in R x	1
+21-duyen-1\25a	v \lt 3 1 - \gt x	1
+21-duyen-1\25b	1 3 \lt - x	1
+21-duyen-1\25c	\lt 5 4 - x	1
+22-uchida-1\01a	= 8 a -	1
+22-uchida-1\01b	= 8 a 7 -	1
+22-uchida-1\01c	= 8 a -	1
+22-uchida-1\02a	2 8 1 - = m	1
+22-uchida-1\02b	5 2 8 - = m	1
+22-uchida-1\02c	= m 8 - 9	1
+22-uchida-1\03a	= 1 m - 2	1
+22-uchida-1\03b	+ 2 1 - = m	1
+22-uchida-1\03c	+ 2 ) - ( = m	1
+22-uchida-1\04a	5 + 1 - = x	1
+22-uchida-1\04b	= 5 1 - x	1
+22-uchida-1\04c	= 2 4 - x	1
+22-uchida-1\05a	= 6 2 1 x	1
+22-uchida-1\05b	= 6 7 1 x	1
+22-uchida-1\05c	= 2 0 1 x	1
+22-uchida-1\06a	5 + 3 6 \sqrt =	1
+22-uchida-1\06b	5 + 6 \sqrt 1 =	1
+22-uchida-1\06c	= 2 4	1
+22-uchida-1\07a	= 2 7 - \sqrt	1
+22-uchida-1\07b	7 2 4 1 - = \sqrt	1
+22-uchida-1\07c	= 3 0	1
+22-uchida-1\08a	= 2 3 7 -	1
+22-uchida-1\08b	= 2 7 -	1
+22-uchida-1\08c	= 1 3 7 -	1
+22-uchida-1\09a	= 2 n t a	1
+22-uchida-1\09b	2 t a - = n	1
+22-uchida-1\09c	+ 2 t ) c 1 = ( o x	1
+22-uchida-1\10a	2 ) c s = ( o x	1
+22-uchida-1\10b	2 i ) s = ( n x	1
+22-uchida-1\10c	2 ) c s - = ( o x	1
+22-uchida-1\11a	= 1 - 2	1
+22-uchida-1\11b	2 t ) c 1 - = ( o x	1
+22-uchida-1\11c	2 t a ) 1 - = ( n x	1
+22-uchida-1\12a	2 i t ) s 1 - = ( n	1
+22-uchida-1\12b	2 t ) c s 1 - = ( o	1
+22-uchida-1\12c	+ 2 t a 1 = n x	1
+22-uchida-1\13a	2 3 ) - = ( n l	1
+22-uchida-1\13b	= 5 4 -	1
+22-uchida-1\13c	= 1 - 2	1
+22-uchida-1\15a	= 2 3 -	1
+22-uchida-1\15b	= 1	1
+22-uchida-1\15c	= 2 n l +	1
+22-uchida-1\16a	+ ) c 6 s 1 - = ( o x	1
+22-uchida-1\16b	+ ) c 6 s 1 - = ( o x	1
+22-uchida-1\16c	5 + ) c s 4 = ( o x	1
+22-uchida-1\17a	= 3 n 1	1
+22-uchida-1\17b	= 2 n 1	1
+22-uchida-1\17c	= 8 n	1
+22-uchida-1\18a	= 8 n	1
+22-uchida-1\18b	= 7 n	1
+22-uchida-1\18c	= n 1	1
+22-uchida-1\19a	= 2 n 1	1
+22-uchida-1\19b	= n 9	1
+22-uchida-1\19c	= 8 n	1
+22-uchida-1\21a	= 2 n	1
+22-uchida-1\21b	= 5 n - 2	1
+22-uchida-1\21c	= 1 n - 2	1
+22-uchida-1\22a	0 \lt 7 6 - x	1
+22-uchida-1\22b	0 7 6 - \gt x	1
+22-uchida-1\22c	7 3 6 - \gt x	1
+22-uchida-1\24a	0 \geq x	1
+22-uchida-1\24b	0 \leq 1 x	1
+22-uchida-1\24c	\in R x	1
+22-uchida-1\25a	v \lt 3 1 - \gt x	1
+22-uchida-1\25b	1 3 \lt - x	1
+22-uchida-1\25c	\lt 5 4 - x	1
+23-mita-1\01a	= 8 a -	3
+23-mita-1\01b	= 8 a 7 -	3
+23-mita-1\01c	= 8 a -	3
+23-mita-1\02a	2 8 1 - = m	3
+23-mita-1\02b	5 2 8 - = m	3
+23-mita-1\02c	= m 8 - 9	3
+23-mita-1\03a	= 1 m - 2	3
+23-mita-1\03b	+ 2 1 - = m	3
+23-mita-1\03c	+ 2 ) - ( = m	3
+23-mita-1\04a	5 + 1 - = x	3
+23-mita-1\04b	= 5 1 - x	3
+23-mita-1\04c	= 2 4 - x	3
+23-mita-1\05a	= 6 2 1 x	3
+23-mita-1\05b	= 6 7 1 x	3
+23-mita-1\05c	= 2 0 1 x	3
+23-mita-1\06a	5 + 3 6 \sqrt =	3
+23-mita-1\06b	5 + 6 \sqrt 1 =	3
+23-mita-1\06c	= 2 4	3
+23-mita-1\07a	= 2 7 - \sqrt	3
+23-mita-1\07b	7 2 4 1 - = \sqrt	3
+23-mita-1\07c	= 3 0	3
+23-mita-1\08a	= 2 3 7 -	3
+23-mita-1\08b	= 2 7 -	3
+23-mita-1\08c	= 1 3 7 -	3
+23-mita-1\09a	= 2 n t a	3
+23-mita-1\09b	2 t a - = n	3
+23-mita-1\09c	+ 2 t ) c 1 = ( o x	3
+23-mita-1\10a	2 ) c s = ( o x	3
+23-mita-1\10b	2 i ) s = ( n x	3
+23-mita-1\10c	2 ) c s - = ( o x	3
+23-mita-1\11a	= 1 - 2	3
+23-mita-1\11b	2 t ) c 1 - = ( o x	3
+23-mita-1\11c	2 t a ) 1 - = ( n x	3
+23-mita-1\12a	2 i t ) s 1 - = ( n	3
+23-mita-1\12b	2 t ) c s 1 - = ( o	3
+23-mita-1\12c	+ 2 t a 1 = n x	3
+23-mita-1\13a	2 3 ) - = ( n l	3
+23-mita-1\13b	= 5 4 -	3
+23-mita-1\13c	= 1 - 2	3
+23-mita-1\15a	= 2 3 -	3
+23-mita-1\15b	= 1	3
+23-mita-1\15c	= 2 n l +	3
+23-mita-1\16a	+ ) c 6 s 1 - = ( o x	3
+23-mita-1\16b	+ ) c 6 s 1 - = ( o x	3
+23-mita-1\16c	5 + ) c s 4 = ( o x	3
+23-mita-1\17a	= 3 n 1	3
+23-mita-1\17b	= 2 n 1	3
+23-mita-1\17c	= 8 n	3
+23-mita-1\18a	= 8 n	3
+23-mita-1\18b	= 7 n	3
+23-mita-1\18c	= n 1	3
+23-mita-1\19a	= 2 n 1	3
+23-mita-1\19b	= n 9	3
+23-mita-1\19c	= 8 n	3
+23-mita-1\21a	= 2 n	3
+23-mita-1\21b	= 5 n - 2	3
+23-mita-1\21c	= 1 n - 2	3
+23-mita-1\22a	0 \lt 7 6 - x	3
+23-mita-1\22b	0 7 6 - \gt x	3
+23-mita-1\22c	7 3 6 - \gt x	3
+23-mita-1\24a	0 \geq x	3
+23-mita-1\24b	0 \leq 1 x	3
+23-mita-1\24c	\in R x	3
+23-mita-1\25a	v \lt 3 1 - \gt x	3
+23-mita-1\25b	1 3 \lt - x	3
+23-mita-1\25c	\lt 5 4 - x	3
+3-khanh-1\01a	= 8 a -	4
+3-khanh-1\01b	= 8 a 7 -	4
+3-khanh-1\01c	= 8 a -	4
+3-khanh-1\02a	2 8 1 - = m	4
+3-khanh-1\02b	5 2 8 - = m	4
+3-khanh-1\02c	= m 8 - 9	4
+3-khanh-1\03a	= 1 m - 2	4
+3-khanh-1\03b	+ 2 1 - = m	4
+3-khanh-1\03c	+ 2 ) - ( = m	4
+3-khanh-1\04a	5 + 1 - = x	4
+3-khanh-1\04b	= 5 1 - x	4
+3-khanh-1\04c	= 2 4 - x	4
+3-khanh-1\05a	= 6 2 1 x	4
+3-khanh-1\05b	= 6 7 1 x	4
+3-khanh-1\05c	= 2 0 1 x	4
+3-khanh-1\06a	5 + 3 6 \sqrt =	4
+3-khanh-1\06b	5 + 6 \sqrt 1 =	4
+3-khanh-1\06c	= 2 4	4
+3-khanh-1\07a	= 2 7 - \sqrt	4
+3-khanh-1\07b	7 2 4 1 - = \sqrt	4
+3-khanh-1\07c	= 3 0	4
+3-khanh-1\08a	= 2 3 7 -	4
+3-khanh-1\08b	= 2 7 -	4
+3-khanh-1\08c	= 1 3 7 -	4
+3-khanh-1\09a	= 2 n t a	4
+3-khanh-1\09b	2 t a - = n	4
+3-khanh-1\09c	+ 2 t ) c 1 = ( o x	4
+3-khanh-1\10a	2 ) c s = ( o x	4
+3-khanh-1\10b	2 i ) s = ( n x	4
+3-khanh-1\10c	2 ) c s - = ( o x	4
+3-khanh-1\11a	= 1 - 2	4
+3-khanh-1\11b	2 t ) c 1 - = ( o x	4
+3-khanh-1\11c	2 t a ) 1 - = ( n x	4
+3-khanh-1\12a	2 i t ) s 1 - = ( n	4
+3-khanh-1\12b	2 t ) c s 1 - = ( o	4
+3-khanh-1\12c	+ 2 t a 1 = n x	4
+3-khanh-1\13a	2 3 ) - = ( n l	4
+3-khanh-1\13b	= 5 4 -	4
+3-khanh-1\13c	= 1 - 2	4
+3-khanh-1\15a	= 2 3 -	4
+3-khanh-1\15b	= 1	4
+3-khanh-1\15c	= 2 n l +	4
+3-khanh-1\16a	+ ) c 6 s 1 - = ( o x	4
+3-khanh-1\16b	+ ) c 6 s 1 - = ( o x	4
+3-khanh-1\16c	5 + ) c s 4 = ( o x	4
+3-khanh-1\17a	= 3 n 1	4
+3-khanh-1\17b	= 2 n 1	4
+3-khanh-1\17c	= 8 n	4
+3-khanh-1\18a	= 8 n	4
+3-khanh-1\18b	= 7 n	4
+3-khanh-1\18c	= n 1	4
+3-khanh-1\19a	= 2 n 1	4
+3-khanh-1\19b	= n 9	4
+3-khanh-1\19c	= 8 n	4
+3-khanh-1\21a	= 2 n	4
+3-khanh-1\21b	= 5 n - 2	4
+3-khanh-1\21c	= 1 n - 2	4
+3-khanh-1\22a	0 \lt 7 6 - x	4
+3-khanh-1\22b	0 7 6 - \gt x	4
+3-khanh-1\22c	7 3 6 - \gt x	4
+3-khanh-1\24a	0 \geq x	4
+3-khanh-1\24b	0 \leq 1 x	4
+3-khanh-1\24c	\in R x	4
+3-khanh-1\25a	v \lt 3 1 - \gt x	4
+3-khanh-1\25b	1 3 \lt - x	4
+3-khanh-1\25c	\lt 5 4 - x	4
+4-nam-1\01a	= 8 a -	2
+4-nam-1\01b	= 8 a 7 -	2
+4-nam-1\01c	= 8 a -	2
+4-nam-1\02a	2 8 1 - = m	2
+4-nam-1\02b	5 2 8 - = m	2
+4-nam-1\02c	= m 8 - 9	2
+4-nam-1\03a	= 1 m - 2	2
+4-nam-1\03b	+ 2 1 - = m	2
+4-nam-1\03c	+ 2 ) - ( = m	2
+4-nam-1\04a	5 + 1 - = x	2
+4-nam-1\04b	= 5 1 - x	2
+4-nam-1\04c	= 2 4 - x	2
+4-nam-1\05a	= 6 2 1 x	2
+4-nam-1\05b	= 6 7 1 x	2
+4-nam-1\05c	= 2 0 1 x	2
+4-nam-1\06a	5 + 3 6 \sqrt =	2
+4-nam-1\06b	5 + 6 \sqrt 1 =	2
+4-nam-1\06c	= 2 4	2
+4-nam-1\07a	= 2 7 - \sqrt	2
+4-nam-1\07b	7 2 4 1 - = \sqrt	2
+4-nam-1\07c	= 3 0	2
+4-nam-1\08a	= 2 3 7 -	2
+4-nam-1\08b	= 2 7 -	2
+4-nam-1\08c	= 1 3 7 -	2
+4-nam-1\09a	= 2 n t a	2
+4-nam-1\09b	2 t a - = n	2
+4-nam-1\09c	+ 2 t ) c 1 = ( o x	2
+4-nam-1\10a	2 ) c s = ( o x	2
+4-nam-1\10b	2 i ) s = ( n x	2
+4-nam-1\10c	2 ) c s - = ( o x	2
+4-nam-1\11a	= 1 - 2	2
+4-nam-1\11b	2 t ) c 1 - = ( o x	2
+4-nam-1\11c	2 t a ) 1 - = ( n x	2
+4-nam-1\12a	2 i t ) s 1 - = ( n	2
+4-nam-1\12b	2 t ) c s 1 - = ( o	2
+4-nam-1\12c	+ 2 t a 1 = n x	2
+4-nam-1\13a	2 3 ) - = ( n l	2
+4-nam-1\13b	= 5 4 -	2
+4-nam-1\13c	= 1 - 2	2
+4-nam-1\15a	= 2 3 -	2
+4-nam-1\15b	= 1	2
+4-nam-1\15c	= 2 n l +	2
+4-nam-1\16a	+ ) c 6 s 1 - = ( o x	2
+4-nam-1\16b	+ ) c 6 s 1 - = ( o x	2
+4-nam-1\16c	5 + ) c s 4 = ( o x	2
+4-nam-1\17a	= 3 n 1	2
+4-nam-1\17b	= 2 n 1	2
+4-nam-1\17c	= 8 n	2
+4-nam-1\18a	= 8 n	2
+4-nam-1\18b	= 7 n	2
+4-nam-1\18c	= n 1	2
+4-nam-1\19a	= 2 n 1	2
+4-nam-1\19b	= n 9	2
+4-nam-1\19c	= 8 n	2
+4-nam-1\21a	= 2 n	2
+4-nam-1\21b	= 5 n - 2	2
+4-nam-1\21c	= 1 n - 2	2
+4-nam-1\22a	0 \lt 7 6 - x	2
+4-nam-1\22b	0 7 6 - \gt x	2
+4-nam-1\22c	7 3 6 - \gt x	2
+4-nam-1\24a	0 \geq x	2
+4-nam-1\24b	0 \leq 1 x	2
+4-nam-1\24c	\in R x	2
+4-nam-1\25a	v \lt 3 1 - \gt x	2
+4-nam-1\25b	1 3 \lt - x	2
+4-nam-1\25c	\lt 5 4 - x	2
+5-nguyen cong kha-1\01a	= 8 a -	3
+5-nguyen cong kha-1\01b	= 8 a 7 -	3
+5-nguyen cong kha-1\01c	= 8 a -	3
+5-nguyen cong kha-1\02a	2 8 1 - = m	3
+5-nguyen cong kha-1\02b	5 2 8 - = m	3
+5-nguyen cong kha-1\02c	= m 8 - 9	3
+5-nguyen cong kha-1\03a	= 1 m - 2	3
+5-nguyen cong kha-1\03b	+ 2 1 - = m	3
+5-nguyen cong kha-1\03c	+ 2 ) - ( = m	3
+5-nguyen cong kha-1\04a	5 + 1 - = x	3
+5-nguyen cong kha-1\04b	= 5 1 - x	3
+5-nguyen cong kha-1\04c	= 2 4 - x	3
+5-nguyen cong kha-1\05a	= 6 2 1 x	3
+5-nguyen cong kha-1\05b	= 6 7 1 x	3
+5-nguyen cong kha-1\05c	= 2 0 1 x	3
+5-nguyen cong kha-1\06a	5 + 3 6 \sqrt =	3
+5-nguyen cong kha-1\06b	5 + 6 \sqrt 1 =	3
+5-nguyen cong kha-1\06c	= 2 4	3
+5-nguyen cong kha-1\07a	= 2 7 - \sqrt	3
+5-nguyen cong kha-1\07b	7 2 4 1 - = \sqrt	3
+5-nguyen cong kha-1\07c	= 3 0	3
+5-nguyen cong kha-1\08a	= 2 3 7 -	3
+5-nguyen cong kha-1\08b	= 2 7 -	3
+5-nguyen cong kha-1\08c	= 1 3 7 -	3
+5-nguyen cong kha-1\09a	= 2 n t a	3
+5-nguyen cong kha-1\09b	2 t a - = n	3
+5-nguyen cong kha-1\09c	+ 2 t ) c 1 = ( o x	3
+5-nguyen cong kha-1\10a	2 ) c s = ( o x	3
+5-nguyen cong kha-1\10b	2 i ) s = ( n x	3
+5-nguyen cong kha-1\10c	2 ) c s - = ( o x	3
+5-nguyen cong kha-1\11a	= 1 - 2	3
+5-nguyen cong kha-1\11b	2 t ) c 1 - = ( o x	3
+5-nguyen cong kha-1\11c	2 t a ) 1 - = ( n x	3
+5-nguyen cong kha-1\12a	2 i t ) s 1 - = ( n	3
+5-nguyen cong kha-1\12b	2 t ) c s 1 - = ( o	3
+5-nguyen cong kha-1\12c	+ 2 t a 1 = n x	3
+5-nguyen cong kha-1\13a	2 3 ) - = ( n l	3
+5-nguyen cong kha-1\13b	= 5 4 -	3
+5-nguyen cong kha-1\13c	= 1 - 2	3
+5-nguyen cong kha-1\15a	= 2 3 -	3
+5-nguyen cong kha-1\15b	= 1	3
+5-nguyen cong kha-1\15c	= 2 n l +	3
+5-nguyen cong kha-1\16a	+ ) c 6 s 1 - = ( o x	3
+5-nguyen cong kha-1\16b	+ ) c 6 s 1 - = ( o x	3
+5-nguyen cong kha-1\16c	5 + ) c s 4 = ( o x	3
+5-nguyen cong kha-1\17a	= 3 n 1	3
+5-nguyen cong kha-1\17b	= 2 n 1	3
+5-nguyen cong kha-1\17c	= 8 n	3
+5-nguyen cong kha-1\18a	= 8 n	3
+5-nguyen cong kha-1\18b	= 7 n	3
+5-nguyen cong kha-1\18c	= n 1	3
+5-nguyen cong kha-1\19a	= 2 n 1	3
+5-nguyen cong kha-1\19b	= n 9	3
+5-nguyen cong kha-1\19c	= 8 n	3
+5-nguyen cong kha-1\21a	= 2 n	3
+5-nguyen cong kha-1\21b	= 5 n - 2	3
+5-nguyen cong kha-1\21c	= 1 n - 2	3
+5-nguyen cong kha-1\22a	0 \lt 7 6 - x	3
+5-nguyen cong kha-1\22b	0 7 6 - \gt x	3
+5-nguyen cong kha-1\22c	7 3 6 - \gt x	3
+5-nguyen cong kha-1\24a	0 \geq x	3
+5-nguyen cong kha-1\24b	0 \leq 1 x	3
+5-nguyen cong kha-1\24c	\in R x	3
+5-nguyen cong kha-1\25a	v \lt 3 1 - \gt x	3
+5-nguyen cong kha-1\25b	1 3 \lt - x	3
+5-nguyen cong kha-1\25c	\lt 5 4 - x	3
+6-nguyen tuan hung-1\01a	= 8 a -	0
+6-nguyen tuan hung-1\01b	= 8 a 7 -	0
+6-nguyen tuan hung-1\01c	= 8 a -	0
+6-nguyen tuan hung-1\02a	2 8 1 - = m	0
+6-nguyen tuan hung-1\02b	5 2 8 - = m	0
+6-nguyen tuan hung-1\02c	= m 8 - 9	0
+6-nguyen tuan hung-1\03a	= 1 m - 2	0
+6-nguyen tuan hung-1\03b	+ 2 1 - = m	0
+6-nguyen tuan hung-1\03c	+ 2 ) - ( = m	0
+6-nguyen tuan hung-1\04a	5 + 1 - = x	0
+6-nguyen tuan hung-1\04b	= 5 1 - x	0
+6-nguyen tuan hung-1\04c	= 2 4 - x	0
+6-nguyen tuan hung-1\05a	= 6 2 1 x	0
+6-nguyen tuan hung-1\05b	= 6 7 1 x	0
+6-nguyen tuan hung-1\05c	= 2 0 1 x	0
+6-nguyen tuan hung-1\06a	5 + 3 6 \sqrt =	0
+6-nguyen tuan hung-1\06b	5 + 6 \sqrt 1 =	0
+6-nguyen tuan hung-1\06c	= 2 4	0
+6-nguyen tuan hung-1\07a	= 2 7 - \sqrt	0
+6-nguyen tuan hung-1\07b	7 2 4 1 - = \sqrt	0
+6-nguyen tuan hung-1\07c	= 3 0	0
+6-nguyen tuan hung-1\08a	= 2 3 7 -	0
+6-nguyen tuan hung-1\08b	= 2 7 -	0
+6-nguyen tuan hung-1\08c	= 1 3 7 -	0
+6-nguyen tuan hung-1\09a	= 2 n t a	0
+6-nguyen tuan hung-1\09b	2 t a - = n	0
+6-nguyen tuan hung-1\09c	+ 2 t ) c 1 = ( o x	0
+6-nguyen tuan hung-1\10a	2 ) c s = ( o x	0
+6-nguyen tuan hung-1\10b	2 i ) s = ( n x	0
+6-nguyen tuan hung-1\10c	2 ) c s - = ( o x	0
+6-nguyen tuan hung-1\11a	= 1 - 2	0
+6-nguyen tuan hung-1\11b	2 t ) c 1 - = ( o x	0
+6-nguyen tuan hung-1\11c	2 t a ) 1 - = ( n x	0
+6-nguyen tuan hung-1\12a	2 i t ) s 1 - = ( n	0
+6-nguyen tuan hung-1\12b	2 t ) c s 1 - = ( o	0
+6-nguyen tuan hung-1\12c	+ 2 t a 1 = n x	0
+6-nguyen tuan hung-1\13a	2 3 ) - = ( n l	0
+6-nguyen tuan hung-1\13b	= 5 4 -	0
+6-nguyen tuan hung-1\13c	= 1 - 2	0
+6-nguyen tuan hung-1\15a	= 2 3 -	0
+6-nguyen tuan hung-1\15b	= 1	0
+6-nguyen tuan hung-1\15c	= 2 n l +	0
+6-nguyen tuan hung-1\16a	+ ) c 6 s 1 - = ( o x	0
+6-nguyen tuan hung-1\16b	+ ) c 6 s 1 - = ( o x	0
+6-nguyen tuan hung-1\16c	5 + ) c s 4 = ( o x	0
+6-nguyen tuan hung-1\17a	= 3 n 1	0
+6-nguyen tuan hung-1\17b	= 2 n 1	0
+6-nguyen tuan hung-1\17c	= 8 n	0
+6-nguyen tuan hung-1\18a	= 8 n	0
+6-nguyen tuan hung-1\18b	= 7 n	0
+6-nguyen tuan hung-1\18c	= n 1	0
+6-nguyen tuan hung-1\19a	= 2 n 1	0
+6-nguyen tuan hung-1\19b	= n 9	0
+6-nguyen tuan hung-1\19c	= 8 n	0
+6-nguyen tuan hung-1\21a	= 2 n	0
+6-nguyen tuan hung-1\21b	= 5 n - 2	0
+6-nguyen tuan hung-1\21c	= 1 n - 2	0
+6-nguyen tuan hung-1\22a	0 \lt 7 6 - x	0
+6-nguyen tuan hung-1\22b	0 7 6 - \gt x	0
+6-nguyen tuan hung-1\22c	7 3 6 - \gt x	0
+6-nguyen tuan hung-1\24a	0 \geq x	0
+6-nguyen tuan hung-1\24b	0 \leq 1 x	0
+6-nguyen tuan hung-1\24c	\in R x	0
+6-nguyen tuan hung-1\25a	v \lt 3 1 - \gt x	0
+6-nguyen tuan hung-1\25b	1 3 \lt - x	0
+6-nguyen tuan hung-1\25c	\lt 5 4 - x	0
+7-loc-1\01a	= 8 a -	1
+7-loc-1\01b	= 8 a 7 -	1
+7-loc-1\01c	= 8 a -	1
+7-loc-1\02a	2 8 1 - = m	1
+7-loc-1\02b	5 2 8 - = m	1
+7-loc-1\02c	= m 8 - 9	1
+7-loc-1\03a	= 1 m - 2	1
+7-loc-1\03b	+ 2 1 - = m	1
+7-loc-1\03c	+ 2 ) - ( = m	1
+7-loc-1\04a	5 + 1 - = x	1
+7-loc-1\04b	= 5 1 - x	1
+7-loc-1\04c	= 2 4 - x	1
+7-loc-1\05a	= 6 2 1 x	1
+7-loc-1\05b	= 6 7 1 x	1
+7-loc-1\05c	= 2 0 1 x	1
+7-loc-1\06a	5 + 3 6 \sqrt =	1
+7-loc-1\06b	5 + 6 \sqrt 1 =	1
+7-loc-1\06c	= 2 4	1
+7-loc-1\07a	= 2 7 - \sqrt	1
+7-loc-1\07b	7 2 4 1 - = \sqrt	1
+7-loc-1\07c	= 3 0	1
+7-loc-1\08a	= 2 3 7 -	1
+7-loc-1\08b	= 2 7 -	1
+7-loc-1\08c	= 1 3 7 -	1
+7-loc-1\09a	= 2 n t a	1
+7-loc-1\09b	2 t a - = n	1
+7-loc-1\09c	+ 2 t ) c 1 = ( o x	1
+7-loc-1\10a	2 ) c s = ( o x	1
+7-loc-1\10b	2 i ) s = ( n x	1
+7-loc-1\10c	2 ) c s - = ( o x	1
+7-loc-1\11a	= 1 - 2	1
+7-loc-1\11b	2 t ) c 1 - = ( o x	1
+7-loc-1\11c	2 t a ) 1 - = ( n x	1
+7-loc-1\12a	2 i t ) s 1 - = ( n	1
+7-loc-1\12b	2 t ) c s 1 - = ( o	1
+7-loc-1\12c	+ 2 t a 1 = n x	1
+7-loc-1\13a	2 3 ) - = ( n l	1
+7-loc-1\13b	= 5 4 -	1
+7-loc-1\13c	= 1 - 2	1
+7-loc-1\15a	= 2 3 -	1
+7-loc-1\16a	+ ) c 6 s 1 - = ( o x	1
+7-loc-1\16b	+ ) c 6 s 1 - = ( o x	1
+7-loc-1\16c	5 + ) c s 4 = ( o x	1
+7-loc-1\17a	= 3 n 1	1
+7-loc-1\17b	= 2 n 1	1
+7-loc-1\17c	= 8 n	1
+7-loc-1\18a	= 8 n	1
+7-loc-1\18b	= 7 n	1
+7-loc-1\18c	= n 1	1
+7-loc-1\19a	= 2 n 1	1
+7-loc-1\19b	= n 9	1
+7-loc-1\19c	= 8 n	1
+7-loc-1\21a	= 2 n	1
+7-loc-1\21b	= 5 n - 2	1
+7-loc-1\21c	= 1 n - 2	1
+7-loc-1\22a	0 \lt 7 6 - x	1
+7-loc-1\22b	0 7 6 - \gt x	1
+7-loc-1\22c	7 3 6 - \gt x	1
+7-loc-1\24a	0 \geq x	1
+7-loc-1\24b	0 \leq 1 x	1
+7-loc-1\24c	\in R x	1
+7-loc-1\25a	v \lt 3 1 - \gt x	1
+7-loc-1\25b	1 3 \lt - x	1
+7-loc-1\25c	\lt 5 4 - x	1
+8-anh-1\01a	= 8 a -	2
+8-anh-1\01b	= 8 a 7 -	2
+8-anh-1\01c	= 8 a -	2
+8-anh-1\02a	2 8 1 - = m	2
+8-anh-1\02b	5 2 8 - = m	2
+8-anh-1\02c	= m 8 - 9	2
+8-anh-1\03a	= 1 m - 2	2
+8-anh-1\03b	+ 2 1 - = m	2
+8-anh-1\03c	+ 2 ) - ( = m	2
+8-anh-1\04a	5 + 1 - = x	2
+8-anh-1\04b	= 5 1 - x	2
+8-anh-1\04c	= 2 4 - x	2
+8-anh-1\05a	= 6 2 1 x	2
+8-anh-1\05b	= 6 7 1 x	2
+8-anh-1\05c	= 2 0 1 x	2
+8-anh-1\06a	5 + 3 6 \sqrt =	2
+8-anh-1\06b	5 + 6 \sqrt 1 =	2
+8-anh-1\06c	= 2 4	2
+8-anh-1\07a	= 2 7 - \sqrt	2
+8-anh-1\07b	7 2 4 1 - = \sqrt	2
+8-anh-1\07c	= 3 0	2
+8-anh-1\08a	= 2 3 7 -	2
+8-anh-1\08b	= 2 7 -	2
+8-anh-1\08c	= 1 3 7 -	2
+8-anh-1\09a	= 2 n t a	2
+8-anh-1\09b	2 t a - = n	2
+8-anh-1\10a	2 ) c s = ( o x	2
+8-anh-1\10b	2 i ) s = ( n x	2
+8-anh-1\10c	2 ) c s - = ( o x	2
+8-anh-1\11a	= 1 - 2	2
+8-anh-1\11b	2 t ) c 1 - = ( o x	2
+8-anh-1\11c	2 t a ) 1 - = ( n x	2
+8-anh-1\12a	2 i t ) s 1 - = ( n	2
+8-anh-1\12b	2 t ) c s 1 - = ( o	2
+8-anh-1\12c	+ 2 t a 1 = n x	2
+8-anh-1\13a	2 3 ) - = ( n l	2
+8-anh-1\13b	= 5 4 -	2
+8-anh-1\13c	= 1 - 2	2
+8-anh-1\15b	= 1	2
+8-anh-1\15c	= 2 n l +	2
+8-anh-1\16a	+ ) c 6 s 1 - = ( o x	2
+8-anh-1\16b	+ ) c 6 s 1 - = ( o x	2
+8-anh-1\16c	5 + ) c s 4 = ( o x	2
+8-anh-1\17a	= 3 n 1	2
+8-anh-1\17b	= 2 n 1	2
+8-anh-1\17c	= 8 n	2
+8-anh-1\18a	= 8 n	2
+8-anh-1\18b	= 7 n	2
+8-anh-1\18c	= n 1	2
+8-anh-1\19a	= 2 n 1	2
+8-anh-1\19b	= n 9	2
+8-anh-1\19c	= 8 n	2
+8-anh-1\21a	= 2 n	2
+8-anh-1\21b	= 5 n - 2	2
+8-anh-1\21c	= 1 n - 2	2
+8-anh-1\22a	0 \lt 7 6 - x	2
+8-anh-1\22b	0 7 6 - \gt x	2
+8-anh-1\22c	7 3 6 - \gt x	2
+8-anh-1\24a	0 \geq x	2
+8-anh-1\24b	0 \leq 1 x	2
+8-anh-1\24c	\in R x	2
+8-anh-1\25a	v \lt 3 1 - \gt x	2
+8-anh-1\25b	1 3 \lt - x	2
+8-anh-1\25c	\lt 5 4 - x	2
+9-sasa-1\01a	= 8 a -	0
+9-sasa-1\01b	= 8 a 7 -	0
+9-sasa-1\01c	= 8 a -	0
+9-sasa-1\02a	2 8 1 - = m	0
+9-sasa-1\02b	5 2 8 - = m	0
+9-sasa-1\02c	= m 8 - 9	0
+9-sasa-1\03a	= 1 m - 2	0
+9-sasa-1\03b	+ 2 1 - = m	0
+9-sasa-1\03c	+ 2 ) - ( = m	0
+9-sasa-1\04a	5 + 1 - = x	0
+9-sasa-1\04b	= 5 1 - x	0
+9-sasa-1\04c	= 2 4 - x	0
+9-sasa-1\05a	= 6 2 1 x	0
+9-sasa-1\05b	= 6 7 1 x	0
+9-sasa-1\05c	= 2 0 1 x	0
+9-sasa-1\06a	5 + 3 6 \sqrt =	0
+9-sasa-1\06b	5 + 6 \sqrt 1 =	0
+9-sasa-1\06c	= 2 4	0
+9-sasa-1\07a	= 2 7 - \sqrt	0
+9-sasa-1\07b	7 2 4 1 - = \sqrt	0
+9-sasa-1\07c	= 3 0	0
+9-sasa-1\08a	= 2 3 7 -	0
+9-sasa-1\08b	= 2 7 -	0
+9-sasa-1\08c	= 1 3 7 -	0
+9-sasa-1\09a	= 2 n t a	0
+9-sasa-1\09b	2 t a - = n	0
+9-sasa-1\09c	+ 2 t ) c 1 = ( o x	0
+9-sasa-1\10a	2 ) c s = ( o x	0
+9-sasa-1\10b	2 i ) s = ( n x	0
+9-sasa-1\10c	2 ) c s - = ( o x	0
+9-sasa-1\11a	= 1 - 2	0
+9-sasa-1\11b	2 t ) c 1 - = ( o x	0
+9-sasa-1\11c	2 t a ) 1 - = ( n x	0
+9-sasa-1\12a	2 i t ) s 1 - = ( n	0
+9-sasa-1\12b	2 t ) c s 1 - = ( o	0
+9-sasa-1\12c	+ 2 t a 1 = n x	0
+9-sasa-1\13a	2 3 ) - = ( n l	0
+9-sasa-1\13b	= 5 4 -	0
+9-sasa-1\13c	= 1 - 2	0
+9-sasa-1\15a	= 2 3 -	0
+9-sasa-1\15b	= 1	0
+9-sasa-1\15c	= 2 n l +	0
+9-sasa-1\16a	+ ) c 6 s 1 - = ( o x	0
+9-sasa-1\16b	+ ) c 6 s 1 - = ( o x	0
+9-sasa-1\16c	5 + ) c s 4 = ( o x	0
+9-sasa-1\17a	= 3 n 1	0
+9-sasa-1\17b	= 2 n 1	0
+9-sasa-1\17c	= 8 n	0
+9-sasa-1\18a	= 8 n	0
+9-sasa-1\18b	= 7 n	0
+9-sasa-1\18c	= n 1	0
+9-sasa-1\19a	= 2 n 1	0
+9-sasa-1\19b	= n 9	0
+9-sasa-1\19c	= 8 n	0
+9-sasa-1\21a	= 2 n	0
+9-sasa-1\21b	= 5 n - 2	0
+9-sasa-1\21c	= 1 n - 2	0
+9-sasa-1\22a	0 \lt 7 6 - x	0
+9-sasa-1\22b	0 7 6 - \gt x	0
+9-sasa-1\22c	7 3 6 - \gt x	0
+9-sasa-1\24a	0 \geq x	0
+9-sasa-1\24b	0 \leq 1 x	0
+9-sasa-1\24c	\in R x	0
+9-sasa-1\25a	v \lt 3 1 - \gt x	0
+9-sasa-1\25b	1 3 \lt - x	0
+9-sasa-1\25c	\lt 5 4 - x	0

@@ -1,0 +1,620 @@
+expressmatch\101_alfonso	S = ( \sum i = 1 n \theta i - ( n - 2 ) \pi ) r 2
+expressmatch\101_carlos	S = ( \sum n i = 1 \theta i - ( n - 2 ) \pi ) r 2
+expressmatch\101_caue	S = ( \sum n i = 1 \theta i - ( n - 2 ) \pi ) r 2
+expressmatch\101_danilo	S = ( \sum n i = 1 \theta i - ( n - 2 ) \pi ) r 2
+expressmatch\101_david	S = ( \sum i = 1 n \theta i - ( n - 2 ) \pi ) r 2
+expressmatch\101_edwin	S = ( \sum i = 1 n \theta i - ( n - 2 ) \pi r 2 )
+expressmatch\101_Fabricio	S = ( \sum n i = 1 \theta i - ( n - 2 ) \pi ) r 2
+expressmatch\101_Frank	S = ( \sum i = \theta i n - ( n - 2 ) \pi ) r 2 1
+expressmatch\101_fujita	S = ( \sum i = 1 n \theta i - ( n - 2 ) \pi ) r 2
+expressmatch\101_herbert	S = ( \sum i = 1 n \theta i - ( n - 2 ) \pi ) r 2
+expressmatch\101_hirata	S = ( \sum i = 1 n \theta i - ( n - 2 ) \pi ) r 2
+expressmatch\101_jorge	S = ( \sum i = 1 n \theta i - ( n - 2 ) \pi ) r 2
+expressmatch\101_leissi	S = ( \sum n i = 1 \theta i - ( n - 2 ) \pi ) r 2
+expressmatch\101_leo	S = ( ) r 2 \sum i = 1 n \theta i - ( n - 2 ) \pi
+expressmatch\101_miguel	S = ( \sum i = 1 n \theta i - ( n - 2 ) \pi ) r 2
+expressmatch\101_mijail	S = ( \sum n i = 1 \theta i - ( n - 2 ) \pi ) r 2
+expressmatch\101_Nina	S = ( \sum i = 1 n \theta i - ( n - 2 ) \pi ) r 2
+expressmatch\101_rosario	S = ( \sum i = 1 n \theta i - ( n 2 ) \pi ) r 2 -
+expressmatch\101_user0	S = ( \sum n i = 1 \theta i - ( n - 2 ) \pi ) r 2
+expressmatch\105_alfonso	b 2 c 2 - 4 b 3 d - 4 a c 3 + 1 8 a b c d - 2 7 a 2 d 2 - a 4
+expressmatch\105_carlos	b 2 c 2 - 4 b 3 d - 4 a c 3 + 1 8 a b c d - 2 7 a 2 d 2 - a 4
+expressmatch\105_caue	b 2 c 2 - 4 b 3 d - 4 a c 3 + 1 8 a b c d - 2 7 a 2 d 2 - a 4
+expressmatch\105_danilo	b 2 c 2 - 4 b 3 d - 4 3 + 1 8 a b c d - 2 7 d 2 a c a 2 - a 4
+expressmatch\105_david	b 2 c 2 - 4 b 3 d - 4 a c 3 + 1 8 a b c d - 2 7 a 2 d 2 - a 4
+expressmatch\105_edwin	b 2 c 2 - 4 b 3 d - 4 a c 3 + 1 8 a b c d - 2 7 a 2 d 2 - a 4
+expressmatch\105_Fabricio	b 2 c 2 - 4 b 3 d - 4 a c 3 + 1 8 a b c d - 2 7 a 2 d 2 - a 4
+expressmatch\105_Frank	b 2 c 2 - 4 b 3 d - 4 a c 3 + 1 8 a b c d - 2 7 a 2 d 2 - a 4
+expressmatch\105_fujita	b 2 c 2 - 4 b 3 d - 4 a c 3 + 1 8 a b c d - 2 7 a 2 d 2 - a 4
+expressmatch\105_herbert	b 2 c 2 - 4 b 3 d - 4 a c 3 + 1 8 a b c d - 2 7 a 2 d 2 - a 4
+expressmatch\105_hirata	b 2 c 2 - 4 b 3 d - 4 a c 3 + 1 8 a b c d - 2 7 a 2 d 2 - a 4
+expressmatch\105_leissi	b 2 c 2 - 4 b 3 d - 4 a c 3 + 1 8 a b c d - 2 7 a 2 - a 4 d 2
+expressmatch\105_leo	- a 4 b 2 c 2 - 4 b 3 d - 4 a c 3 + 1 8 a b c d - 2 7 a 2 d 2
+expressmatch\105_lucelia	b 2 c 2 - 4 b 3 d - 4 a c 3 + 1 8 c d - 2 7 a 2 d 2 - a 4 a b
+expressmatch\105_miguel	b 2 c 2 - 4 b 3 d - 4 a c 3 + 1 8 a b c d - 2 7 a 2 d 2 - a 4
+expressmatch\105_mijail	b 2 c 2 - 4 b 3 d - 4 a c 3 + 1 8 a b c d - 2 7 a 2 d 2 - a 4
+expressmatch\105_Nina	b 2 c 2 - 4 b 3 d - 4 a c 3 + 1 8 a b c d - 2 7 a 2 d 2 - a 4
+expressmatch\105_rosario	b 2 c 2 - 4 b 3 d - 4 a c 3 + a b c d - 2 7 a 2 d 2 - a 4 1 8
+expressmatch\105_user0	b 2 c 2 - 4 b 3 d - 4 a c 3 + 1 8 a b c d - 2 7 a 2 d 2 - a 4
+expressmatch\106_alfonso	y 4 + y + 1 = 0
+expressmatch\106_carlos	y 4 + y + 1 = 0
+expressmatch\106_caue	y 4 + y + 1 = 0
+expressmatch\106_daniel	y 4 + y + 1 = 0
+expressmatch\106_david	y 4 + y + 1 = 0
+expressmatch\106_edwin	y 4 + y + 1 = 0
+expressmatch\106_fabio	y 4 + y + 1 = 0
+expressmatch\106_Fabricio	y 4 + y + 1 = 0
+expressmatch\106_Frank	y 4 + y + 1 = 0
+expressmatch\106_fujita	y 4 + y + 1 = 0
+expressmatch\106_herbert	y 4 + y + 1 = 0
+expressmatch\106_jorge	y 4 + y + 1 = 0
+expressmatch\106_leissi	y 4 + y + 1 = 0
+expressmatch\106_leo	y 4 + y + 1 = 0
+expressmatch\106_miguel	y 4 + y + 1 = 0
+expressmatch\106_Nina	y 4 + y + 1 = 0
+expressmatch\106_rosario	y 4 + y + 1 = 0
+expressmatch\106_user0	y 4 + y + 1 = 0
+expressmatch\107_alfonso	a 2 + b 2 = ( a + b i ) ( a - b ) i
+expressmatch\107_bruno	a 2 + b 2 = ( a + b i ) ( a - b ) i
+expressmatch\107_carlos	a 2 + b 2 = ( a + b i ) ( a - b i )
+expressmatch\107_caue	a 2 + b 2 = ( a + b i ) ( a - b i )
+expressmatch\107_daniel	a 2 + b 2 = ( a + b i ) ( a - b i )
+expressmatch\107_david	a 2 + b 2 = ( a + b i ) ( a - b i )
+expressmatch\107_edwin	a 2 + b 2 = ( a + b i ) ( a - b i )
+expressmatch\107_Fabricio	a 2 + b 2 = ( a + b i ) ( a - b i )
+expressmatch\107_Frank	a 2 + b 2 = ( a + b i ) ( a - b i )
+expressmatch\107_herbert	a 2 + b 2 = ( a + b i ) ( a - b i )
+expressmatch\107_hirata	a 2 + b 2 = ( a + b i ) ( a - b i )
+expressmatch\107_jorge	a 2 + b 2 = ( a + b i ) ( a - b i )
+expressmatch\107_leissi	a 2 + b 2 = ( a + b i ) ( a - b i )
+expressmatch\107_leo	a 2 + b 2 = ( a + b i ) ( a - b i )
+expressmatch\107_miguel	a 2 + b 2 = ( a + b i ) ( a - b i )
+expressmatch\107_Nina	a 2 + b 2 = ( a + b i ) ( a - b i )
+expressmatch\107_rosario	a 2 + b 2 = ( a + b i ) ( a - b i )
+expressmatch\107_user0	a 2 + b 2 = ( a + b i ) ( a - b i )
+expressmatch\108_alfonso	a x a y = a x + y
+expressmatch\108_bruno	a x a y = a x + y
+expressmatch\108_carlos	a x a y = a x + y
+expressmatch\108_caue	a x a y = a x + y
+expressmatch\108_danilo	a x a y = a x + y
+expressmatch\108_david	a x a y = a x + y
+expressmatch\108_edwin	a x a y = a x + y
+expressmatch\108_Fabricio	a x a y = a x + y
+expressmatch\108_Frank	a x a y = a x + y
+expressmatch\108_herbert	a x a y = a x + y
+expressmatch\108_jorge	a x a y = a x + y
+expressmatch\108_leissi	a x a y = a x + y
+expressmatch\108_leo	a x a = a y x + y
+expressmatch\108_maira	a x a y = a x + y
+expressmatch\108_miguel	a x a y = a x + y
+expressmatch\108_Nina	a x a y = a x + y
+expressmatch\108_rosario	a x a y = a x + y
+expressmatch\108_user0	a x a y = a x + y
+expressmatch\108_Willian	a x a y = a x + y
+expressmatch\109_alfonso	a - b \sqrt x = - \sqrt x a \sqrt x b
+expressmatch\109_carlos	\sqrt x a - b = \sqrt x a - \sqrt x b
+expressmatch\109_caue	a - b \sqrt x = a \sqrt x - b \sqrt x
+expressmatch\109_daniel	\sqrt x a - b = \sqrt a x - \sqrt b x
+expressmatch\109_edwin	x \sqrt a - b = \sqrt x a - \sqrt x b
+expressmatch\109_Fabricio	x \sqrt a - b = x \sqrt a - x \sqrt b
+expressmatch\109_Frank	x \sqrt a - b = x \sqrt a - x \sqrt b
+expressmatch\109_herbert	a - b = a \sqrt x - x \sqrt b x \sqrt
+expressmatch\109_jorge	\sqrt x a - b = \sqrt x a - \sqrt x b
+expressmatch\109_leissi	a - b \sqrt x = a - b \sqrt x \sqrt x
+expressmatch\109_leo	\sqrt a - b x = - \sqrt a x \sqrt b x
+expressmatch\109_lucelia	x \sqrt a - b = - \sqrt x a \sqrt x b
+expressmatch\109_miguel	\sqrt x a - b = \sqrt a x - \sqrt b x
+expressmatch\109_Nina	\sqrt a - b x = \sqrt a x - \sqrt b x
+expressmatch\109_rosario	\sqrt x a - b = \sqrt a x - \sqrt b x
+expressmatch\109_silas	\sqrt - = - \sqrt a b a b \sqrt x x x
+expressmatch\109_user0	a - b = a - b \sqrt x \sqrt x \sqrt x
+expressmatch\110_alfonso	1 - 1 - 2 ( a + 1 - b ) = 2 a b - a + b 1 -
+expressmatch\110_carlos	1 - 1 - 2 ( 1 - a + 1 - b ) = 2 a b - a + b
+expressmatch\110_caue	1 - 2 - 1 ( 1 - a + 1 ) = 2 - a + b a b - b
+expressmatch\110_danilo	1 - 1 - 2 ( 1 - a + 1 - b ) = 2 a b - a + b
+expressmatch\110_david	1 - 1 - 2 ( 1 - a + 1 - b ) = 2 a b - a + b
+expressmatch\110_edwin	1 - 1 - 2 ( 1 - a + 1 - b ) = 2 a b - a + b
+expressmatch\110_Fabricio	1 - 1 - 2 ( 1 - a + 1 - b ) = 2 a b - a + b
+expressmatch\110_Frank	- 1 1 - 2 ( 1 - a + - 1 b ) = 2 a b - a + b
+expressmatch\110_fujita	1 - 1 - 2 ( 1 - a + 1 - b ) = 2 a b - a + b
+expressmatch\110_herbert	1 - 1 - 2 ( 1 - a + 1 - b ) = 2 a b - a + b
+expressmatch\110_jorge	1 - 1 - 2 ( 1 - a + 1 - b ) = 2 a b - a + b
+expressmatch\110_leissi	1 - 1 ( 1 - a + 1 - b ) = 2 a b - a + b - 2
+expressmatch\110_leo	1 - 1 - 2 ( ) 1 - a + 1 - b = 2 a b - a + b
+expressmatch\110_miguel	1 - 1 - 2 ( 1 - a + 1 - b ) = 2 a b - a + b
+expressmatch\110_Nina	1 - 1 - 2 ( 1 - a + 1 - b ) = 2 a b - a + b
+expressmatch\110_rosario	1 - 1 - 2 ( 1 - a + 1 - b ) = 2 a b - a + b
+expressmatch\110_user0	1 - 2 ( 1 - a + 1 - b ) - 1 = 2 a b - a + b
+expressmatch\111_alfonso	\sqrt n 1 = \cos \pi - n + i \sin - 2 k \pi n 2 k
+expressmatch\111_carlos	\sqrt n 1 = \cos 2 k \pi - n + i \sin \pi - n 2 k
+expressmatch\111_caue	\sqrt 1 n = \cos \pi - n 2 k + i \sin 2 k \pi - n
+expressmatch\111_david	\sqrt n 1 = \cos 2 k \pi - n + i \sin 2 k \pi - n
+expressmatch\111_edwin	\sqrt n 1 = \cos 2 k \pi - n + i \sin 2 k \pi - n
+expressmatch\111_Fabricio	\sqrt n 1 = \cos 2 k \pi - n + i \sin 2 k \pi - n
+expressmatch\111_Frank	n \sqrt 1 = \cos - 2 k \pi n + i \sin 2 k \pi - n
+expressmatch\111_herbert	\sqrt 1 n = \cos 2 k \pi - n + i \sin 2 k \pi - n
+expressmatch\111_hirata	\sqrt n 1 = \cos 2 k \pi - n + i \sin 2 k \pi - n
+expressmatch\111_jorge	\sqrt n 1 = \cos k 2 \pi - n + i \sin 2 k \pi - n
+expressmatch\111_leissi	\sqrt n 1 = \cos 2 k \pi - n + i \sin 2 k \pi - n
+expressmatch\111_leo	\sqrt 1 n = \cos - 2 k \pi n + i \sin 2 k \pi - n
+expressmatch\111_miguel	1 \sqrt n = \cos 2 k \pi - n + i \sin 2 k \pi - n
+expressmatch\111_miguel2	\sqrt 1 n = \cos 2 k \pi - n + i \sin 2 k - n \pi
+expressmatch\111_Nina	\sqrt n 1 = \cos 2 k \pi - n + i \sin 2 k \pi - n
+expressmatch\111_rosario	\sqrt 1 n = \cos 2 k \pi - n + i \sin 2 k \pi - n
+expressmatch\111_user0	\sqrt n 1 = \cos 2 k \pi - n + i \sin 2 k \pi - n
+expressmatch\116_alfonso	x = - - b \pm \sqrt b 2 - 4 a c 2 a
+expressmatch\116_carlos	x = - b \pm \sqrt b 2 - 4 a c - 2 a
+expressmatch\116_caue	x = - b \pm b 2 - 4 a c \sqrt - 2 a
+expressmatch\116_david	x = - b \pm \sqrt b 2 a c - 2 a - 4
+expressmatch\116_edwin	x = - b \pm \sqrt b 2 - 4 a c - 2 a
+expressmatch\116_Fabricio	x = \pm \sqrt b 2 - 4 a c - 2 a - b
+expressmatch\116_Frank	x = - b \pm - \sqrt b 2 - 4 a c 2 a
+expressmatch\116_herbert	x = - b \pm b 2 - 4 a c \sqrt - 2 a
+expressmatch\116_hirata	x = - b \pm \sqrt b 2 - 4 a c - 2 a
+expressmatch\116_jorge	x = - b \pm \sqrt b 2 - 4 a c - 2 a
+expressmatch\116_leissi	x = - b \pm \sqrt b 2 - 4 a c - 2 a
+expressmatch\116_leo	- - b \sqrt b 2 - 4 a c 2 a x = \pm
+expressmatch\116_miguel	x = \pm b 2 - 4 a c \sqrt - 2 a - b
+expressmatch\116_Nina	x = - b \pm \sqrt b 2 - 4 a c - 2 a
+expressmatch\116_rosario	x = - b \pm \sqrt b 2 - 4 a c - 2 a
+expressmatch\116_user0	x = - b b 2 - 4 a c \sqrt - 2 a \pm
+expressmatch\117_alfonso	y 2 \pm \sqrt u - p ( y - q 2 ( u - p ) - ) + 2 0 u - =
+expressmatch\117_carlos	y 2 \pm \sqrt u - p ( y - q - 2 ( u - p ) ) + u - 2 = 0
+expressmatch\117_caue	y 2 \pm u - p \sqrt ( y - q - 2 ( u - p ) ) + u - 2 = 0
+expressmatch\117_david	y 2 \sqrt - p ( y - q - 2 ( u - ) p ) + u - 2 = 0 u \pm
+expressmatch\117_edwin	y 2 \sqrt u - p y - q - 2 ( u - p ) ) ( + u - 2 = 0 \pm
+expressmatch\117_Fabricio	y 2 \pm \sqrt u - p ( y - q - 2 ( u - p ) + u - ) 2 = 0
+expressmatch\117_Frank	y 2 \pm \sqrt u - p ( y - q - 2 ( u - p ) ) + u - 2 = 0
+expressmatch\117_hirata	y 2 \sqrt u - p ( y - q - 2 ( u - p ) ) + u - 2 = 0 \pm
+expressmatch\117_jorge	y 2 \pm \sqrt u - p ( y - q - ( u 2 - p ) ) u = 0 - 2 +
+expressmatch\117_leissi	y 2 \sqrt u - p ( y - - q 2 ( u - p ) ) + u - 2 = 0 \pm
+expressmatch\117_leo	y 2 \pm \sqrt u - p ( y - q 2 ( u - p ) + u - = 2 0 ) -
+expressmatch\117_lucelia	y 2 \pm \sqrt u - p ( y - - q 2 ( u - p ) ) + - u 2 = 0
+expressmatch\117_Nina	y 2 \pm \sqrt u - p ( y - q - 2 ( u - p ) ) + u - 2 = 0
+expressmatch\117_rosario	y 2 \pm \sqrt u ( - p y - q 2 ( u ) - ) + u - 2 = 0 - p
+expressmatch\117_user0	y 2 \sqrt u - p ( y - - 2 ( u - p ) ) + u - 2 = 0 q \pm
+expressmatch\118_alfonso	P ( x ) = \sum a j x j i = 0 n
+expressmatch\118_carlos	P ( x ) = \sum n i = 0 a j x j
+expressmatch\118_caue	P ( x ) = \sum n i = 0 a j x j
+expressmatch\118_david	P ( x ) = \sum i = 0 n a j x j
+expressmatch\118_edwin	P ( x ) = \sum n i = 0 a j x j
+expressmatch\118_Fabricio	P ( x ) = \sum n i = 0 a j x j
+expressmatch\118_Frank	P ( x ) = \sum n i = 0 a j x j
+expressmatch\118_fujita	P ( x ) = \sum n i = 0 a j x j
+expressmatch\118_herbert	P ( x ) = \sum i = 0 n a j x j
+expressmatch\118_hirata	P ( x ) = \sum i = 0 n a j x j
+expressmatch\118_jorge	P ( x ) = \sum i = 0 n a j x j
+expressmatch\118_leissi	P ( x ) = \sum i = 0 n a j x j
+expressmatch\118_leo	P ( x ) = \sum i = 0 n a j x j
+expressmatch\118_lucelia	P ( x ) = \sum n i = 0 a j x j
+expressmatch\118_miguel	P ( x ) = \sum i = 0 n a j x j
+expressmatch\118_Nina	P ( x ) = \sum i = 0 n a j x j
+expressmatch\118_rosario	P ( x ) = \sum i = 0 n a j x j
+expressmatch\118_user0	P ( x ) = \sum n i = 0 a j x j
+expressmatch\124_alfonso	\sum i = 1 k - x a i 1 - x = 1 - 1 - x b i
+expressmatch\124_carlos	\sum k i = 1 x a i - 1 - x b i = 1 - 1 - x
+expressmatch\124_caue	\sum k i = 1 x a i - 1 - x b i = 1 - 1 - x
+expressmatch\124_daniel	k \sum i = 1 x a i - 1 - x b i = 1 - 1 - x
+expressmatch\124_david	\sum i = 1 k x a i - 1 - x b i = - 1 - x 1
+expressmatch\124_edwin	\sum i = 1 k x a i - 1 - x b i = 1 - 1 - x
+expressmatch\124_Fabricio	\sum k i = 1 x a i - 1 - x b i = 1 - 1 - x
+expressmatch\124_Frank	k \sum i = 1 - x a i 1 - x b i = 1 - 1 - x
+expressmatch\124_jorge	\sum i = 1 k x a i - 1 - x b i = 1 - 1 - x
+expressmatch\124_leissi	\sum i = 1 k - x a i 1 - x b i = 1 - 1 - x
+expressmatch\124_leo	\sum k i = 1 - x a i 1 - x b i = 1 - 1 - x
+expressmatch\124_maira	\sum k i = 1 x a i - 1 - x b i = 1 - 1 - x
+expressmatch\124_miguel	\sum i = 1 k x a i - 1 - x b i = 1 - 1 - x
+expressmatch\124_Nina	\sum i = 1 k x a i - 1 - x b i = 1 - 1 - x
+expressmatch\124_rosario	\sum i = 1 k x a i - 1 - x b i = 1 - 1 - x
+expressmatch\124_silas	k 1 - = 1 - 1 - x x a i 1 - x b i i = \sum
+expressmatch\124_user0	\sum k i = 1 x a i - 1 - x b i = - 1 1 - x
+expressmatch\126_alfonso	| x - p n - q n | \leq - 1 q n q n + 1 \lt q n 2 1 -
+expressmatch\126_carlos	| x - p n - n | \leq 1 - q n q n + 1 \lt 1 - q n 2 q
+expressmatch\126_caue	| x - p n - q n | \leq q n q n + 1 - 1 \lt 1 - q 2 n
+expressmatch\126_danilo	| x - p n - q n | \leq 1 - q n q n + 1 \lt 1 - q 2 n
+expressmatch\126_david	| x - p n - q n | \leq 1 - q n q n + 1 \lt 1 - q n 2
+expressmatch\126_edwin	x - p n - q n | | \leq 1 - q n q n + 1 \lt 1 - n 2 q
+expressmatch\126_Fabricio	| x - p n - q n | \leq 1 - q n q n + 1 \lt 1 - q 2 n
+expressmatch\126_Frank	x - p n - q n | | \leq - 1 q n q n + 1 \lt 1 - q n 2
+expressmatch\126_fujita	| x - p n - q n | \leq 1 - q n q n + 1 \lt 1 - q n 2
+expressmatch\126_herbert	| x - p n - q n | \leq 1 - q n q n + 1 \lt 1 - q n 2
+expressmatch\126_jorge	| x - p n - q n | \leq 1 - q n q n + 1 \lt 1 - q n 2
+expressmatch\126_leissi	| x - p n - q n | \leq - 1 q n q n + 1 \lt 1 - q n 2
+expressmatch\126_leo	| | x - p n - q n \leq 1 - q n q n + 1 \lt 1 - q n 2
+expressmatch\126_miguel	x - p n - q n | | \leq 1 - q n q n + 1 \lt 1 - q 2 n
+expressmatch\126_Nina	| x - p n - q n | \leq 1 - q n q n + 1 \lt 1 - q n 2
+expressmatch\126_rosario	| x - p n - q n | \leq 1 - q n q n + 1 \lt 1 - q n 2
+expressmatch\126_user0	x - p n - q n | | \leq q n q n + 1 - 1 \lt 1 - q n 2
+expressmatch\127_alfonso	n ! - 1
+expressmatch\127_caue	n ! - 1
+expressmatch\127_danilo	n ! - 1
+expressmatch\127_david	n ! - 1
+expressmatch\127_edwin	n ! - 1
+expressmatch\127_Fabricio	n ! - 1
+expressmatch\127_Frank	n ! - 1
+expressmatch\127_fujita	n ! - 1
+expressmatch\127_herbert	n ! - 1
+expressmatch\127_hirata	n ! - 1
+expressmatch\127_jorge	n ! - 1
+expressmatch\127_leissi	n ! - 1
+expressmatch\127_leo	n ! - 1
+expressmatch\127_miguel	n ! - 1
+expressmatch\127_Nina	n ! - 1
+expressmatch\127_rosario	n ! - 1
+expressmatch\127_user0	n ! - 1
+expressmatch\129_alfonso	1 + 2 + \ldots + n = n + 1 ) ( n - 2
+expressmatch\129_carlos	1 + 2 + \ldots + n = n ( n + - 2 1 )
+expressmatch\129_caue	1 + 2 + \ldots + n = n ( n + 1 ) - 2
+expressmatch\129_david	1 + 2 + \ldots + n = n ( n + 1 ) - 2
+expressmatch\129_edwin	1 + 2 + \ldots + n = n ( n + 1 ) - 2
+expressmatch\129_Fabricio	1 + 2 + \ldots + n = n ( n + 1 ) - 2
+expressmatch\129_Frank	1 + 2 + \ldots + n = - n ( n + 1 ) 2
+expressmatch\129_jorge	1 + 2 + \ldots + n = n ( n + 1 ) - 2
+expressmatch\129_leissi	1 + 2 + \ldots + n = n ( n + 1 ) - 2
+expressmatch\129_leo	1 + 2 + + n = n ( n + 1 ) - 2 \ldots
+expressmatch\129_miguel	1 + 2 + \ldots + n = n ( n + 1 ) - 2
+expressmatch\129_Nina	1 + 2 + \ldots + n = n ( n + 1 ) - 2
+expressmatch\129_rosario	1 + 2 + \ldots + n = n ( n + 1 ) - 2
+expressmatch\129_silas	2 + \ldots + n = - n 2 ( n + 1 ) + 1
+expressmatch\129_user0	1 + 2 + + n = n ( n + - 2 1 ) \ldots
+expressmatch\130_alfonso	4 1 - + ( 1 - 4 ) 2 + ( 1 - 4 ) 3 + \ldots = 1 - 3
+expressmatch\130_bruno	1 - 4 + ( 1 - 4 ) 2 + ( 1 - 4 ) 3 + \ldots = 3 1 -
+expressmatch\130_carlos	1 - 4 + 1 - 4 ) ( 2 + ( 1 - 4 ) 3 + = 1 - 3 \ldots
+expressmatch\130_caue	1 - 4 + ( 1 - 4 ) 2 + ( 1 - 4 ) 3 + = 1 - 3 \ldots
+expressmatch\130_danilo	1 - 4 + ( 1 - 4 ) 2 + ( 1 - 4 ) 3 + \ldots = 1 - 3
+expressmatch\130_david	1 - 4 + ( 1 - 4 ) 2 + ( 1 - 4 ) 3 + = 1 - 3 \ldots
+expressmatch\130_edwin	1 - 4 + ( 1 - 4 ) 2 + 1 - 4 ) ( 3 + \ldots = 1 - 3
+expressmatch\130_Fabricio	4 + ( 1 - 4 ) 2 + ( 1 - 4 ) 3 + \ldots = 1 - 3 1 -
+expressmatch\130_Frank	1 - 4 + ( - 1 4 ) 2 + ( 1 - 4 ) 3 + \ldots = - 1 3
+expressmatch\130_hirata	1 - 4 + ( 4 1 - ) 2 + ( 1 - 4 ) 3 + \ldots = 1 - 3
+expressmatch\130_jorge	1 - 4 + ( 1 - 4 ) 2 + ( 1 - 4 ) 3 + \ldots = 1 - 3
+expressmatch\130_leissi	1 - 4 + ( 1 - 4 ) 2 + ( 1 - 4 ) 3 + = 1 - 3 \ldots
+expressmatch\130_leo	4 + ( 2 - 4 ) 3 + \ldots = 1 - 3 + ( 1 1 - 1 - 4 )
+expressmatch\130_miguel	1 - 4 + ( 1 - 4 ) 2 + ( 1 - 4 ) 3 + \ldots = 1 - 3
+expressmatch\130_Nina	1 - 4 + ( 1 - 4 ) 2 + ( 1 - 4 ) 3 + \ldots = 1 - 3
+expressmatch\130_rosario	4 1 - + ( 1 - 4 ) 2 + ( 1 - 4 ) 3 + \ldots = 1 - 3
+expressmatch\130_user0	1 - 4 + ( 1 - 4 ) 2 + ( 1 - 4 ) 3 + = 1 - 3 \ldots
+expressmatch\131_alfonso	f ( x ) = a n x n + a n - 1 x n - 1 + \ldots + a 1 x + a 0
+expressmatch\131_carlos	f ( x ) = a n x n + a n - 1 x n - 1 + \ldots + a 1 x + a 0
+expressmatch\131_caue	f ( x ) = a n x n + a n - 1 x n - 1 + \ldots + a 1 x + a 0
+expressmatch\131_david	f ( x ) = a n x n + a n - 1 x n - 1 + \ldots + a 1 x + a 0
+expressmatch\131_edwin	f ( x ) = a n x n + a n - 1 x n - 1 + \ldots + a 1 x + a 0
+expressmatch\131_Fabricio	f ( x ) = a n x n + a n - 1 x n - 1 + \ldots + a 1 x + a 0
+expressmatch\131_Frank	f ( x ) = a n x n + a n - 1 x n - 1 + \ldots + a 1 x + a 0
+expressmatch\131_jorge	f ( x ) = a n x n + a n - 1 x n - 1 + \ldots + a 1 x + a 0
+expressmatch\131_leissi	f ( = a n x n + a n - 1 x n - 1 + \ldots + a 1 x + a 0 x )
+expressmatch\131_leo	f ( x ) = a n x n + a n - 1 x n - 1 + \ldots + a 1 x + a 0
+expressmatch\131_maira	a n f ( x ) = x n + a n - 1 x n - 1 + \ldots + a 1 x + a 0
+expressmatch\131_miguel	f ( x ) = a n x n + a n - 1 x n - 1 + a 1 x + a 0 \ldots +
+expressmatch\131_mijail	f ( x ) = a n x n + a n - 1 x n - 1 + \ldots a 1 x + a 0 +
+expressmatch\131_Nina	f ( x ) = a n x n + a n - 1 x n - 1 + \ldots + a 1 x + a 0
+expressmatch\131_rosario	f ( x ) = a n x n + a n - 1 x n - 1 + \ldots + a 1 x a 0 +
+expressmatch\131_user0	f ( x ) = a n x n + a n - 1 x n - 1 + + a 1 x + a 0 \ldots
+expressmatch\65_alfonso	x = r \cos \theta
+expressmatch\65_carlos	x = r \cos \theta
+expressmatch\65_caue	x = r \cos \theta
+expressmatch\65_daniel	x = r \cos \theta
+expressmatch\65_david	x = r \cos \theta
+expressmatch\65_edwin	x = r \cos \theta
+expressmatch\65_Fabricio	x = r \cos \theta
+expressmatch\65_Frank	x = r \cos \theta
+expressmatch\65_herbert	x = r \cos \theta
+expressmatch\65_jorge	x = r \cos \theta
+expressmatch\65_leissi	x = r \cos \theta
+expressmatch\65_leo	x = r \cos \theta
+expressmatch\65_maira	x = r \cos \theta
+expressmatch\65_miguel	x = r \cos \theta
+expressmatch\65_mijail	x = r \cos \theta
+expressmatch\65_Nina	x = r \cos \theta
+expressmatch\65_rosario	x = r \cos \theta
+expressmatch\65_user0	= r \cos \theta x
+expressmatch\70_alfonso	\cos \theta = x - x 2 + y 2 \sqrt
+expressmatch\70_carlos	\cos \theta = x - x 2 + y 2 \sqrt
+expressmatch\70_caue	\cos \theta = x - x 2 + y 2 \sqrt
+expressmatch\70_daniel	\cos \theta = - x \sqrt x 2 + y 2
+expressmatch\70_david	\cos = x - \sqrt x 2 + y 2 \theta
+expressmatch\70_edwin	\cos \theta = - x \sqrt x 2 + y 2
+expressmatch\70_Fabricio	\cos \theta = x - \sqrt x 2 + y 2
+expressmatch\70_Frank	\cos \theta = - x \sqrt x 2 + y 2
+expressmatch\70_hirata	\cos \theta = x \sqrt x 2 + y 2 -
+expressmatch\70_jorge	\cos \theta = x - \sqrt x 2 + y 2
+expressmatch\70_leissi	\cos \theta = x - x 2 + y 2 \sqrt
+expressmatch\70_leo	\cos \theta = - x \sqrt x 2 + y 2
+expressmatch\70_maira	\cos \theta = x - \sqrt x 2 + y 2
+expressmatch\70_miguel	\cos \theta = x - \sqrt x 2 + y 2
+expressmatch\70_Nina	\cos \theta = x - \sqrt x 2 + y 2
+expressmatch\70_rosario	\cos \theta = x - \sqrt x 2 + y 2
+expressmatch\70_user0	\cos \theta = - 2 + y 2 \sqrt x x
+expressmatch\73_alfonso	- a x 0 + b y 0 + c a 2 + b 2 \sqrt | |
+expressmatch\73_carlos	a x 0 + b y 0 + c \sqrt a 2 + b 2 - | |
+expressmatch\73_caue	a x 0 + b y 0 + c - a 2 + b 2 \sqrt | |
+expressmatch\73_david	| a x 0 + b y 0 + c - \sqrt a 2 + b 2 |
+expressmatch\73_edwin	| a x 0 + b y 0 + c - \sqrt a 2 + b 2 |
+expressmatch\73_Fabricio	| a x 0 + b y 0 + c - \sqrt a 2 + b 2 |
+expressmatch\73_Frank	| a x 0 - + b y 0 + c | \sqrt a 2 + b 2
+expressmatch\73_fujita	| a x 0 + b y 0 + c - \sqrt a 2 + b 2 |
+expressmatch\73_herbert	| a x 0 + b y 0 + c - a 2 + b 2 \sqrt |
+expressmatch\73_hirata	| a x 0 + b y 0 + c - \sqrt a 2 + b 2 |
+expressmatch\73_jorge	| a x 0 + b y 0 + c - \sqrt a 2 + b 2 |
+expressmatch\73_leissi	| a x 0 + b y 0 + c - \sqrt a 2 + b 2 |
+expressmatch\73_leo	| a x 0 + b y 0 + c - \sqrt a 2 + b 2 |
+expressmatch\73_maira	| a x 0 + b y 0 + c - \sqrt a 2 + b 2 |
+expressmatch\73_miguel	| a x 0 + b y 0 + c - \sqrt a 2 + b 2 |
+expressmatch\73_Nina	| a x 0 + b y 0 + c - \sqrt a 2 + b 2 |
+expressmatch\73_rosario	| a 0 + b y 0 + c x - \sqrt a 2 + b 2 |
+expressmatch\73_user0	a 0 + b 0 y + c - a 2 + b 2 \sqrt | | x
+expressmatch\75_alfonso	c 2 = a 2 + b 2 - 2 a b \cos C
+expressmatch\75_carlos	c 2 = a 2 + b 2 - 2 a b C \cos
+expressmatch\75_caue	c 2 = a 2 + b 2 - 2 a b \cos C
+expressmatch\75_danilo	c 2 = a 2 + b 2 - 2 a b \cos C
+expressmatch\75_david	c 2 = a 2 + b 2 - 2 a b \cos C
+expressmatch\75_edwin	c 2 = a 2 + b 2 - 2 a b \cos C
+expressmatch\75_Fabricio	c 2 = a 2 + b 2 - 2 a b \cos C
+expressmatch\75_Frank	c 2 = a 2 + b 2 - 2 a b \cos C
+expressmatch\75_herbert	c 2 = a 2 + b 2 - 2 a b \cos C
+expressmatch\75_jorge	c 2 = a 2 + b 2 - 2 a b \cos C
+expressmatch\75_leissi	c 2 = a 2 + b 2 - 2 a b \cos C
+expressmatch\75_leo	c 2 = a 2 + b 2 - 2 a b \cos C
+expressmatch\75_miguel	c 2 = a 2 + b 2 - 2 a b \cos C
+expressmatch\75_Nina	c 2 = a 2 + b 2 - 2 a b \cos C
+expressmatch\75_rosario	c 2 = a 2 + b 2 - 2 a b \cos C
+expressmatch\75_user0	c 2 = a 2 + b 2 - 2 a b \cos C
+expressmatch\76_alfonso	a = b C + c \cos B \cos
+expressmatch\76_carlos	a = b \cos C + c \cos B
+expressmatch\76_caue	a = b \cos C + c \cos B
+expressmatch\76_danilo	a = b \cos C + c \cos B
+expressmatch\76_david	a = b \cos C + c \cos B
+expressmatch\76_edwin	a = b \cos C + c \cos B
+expressmatch\76_Fabricio	a = b \cos C + c \cos B
+expressmatch\76_Frank	a = b \cos C + c \cos B
+expressmatch\76_fujita	a = b \cos C + c \cos B
+expressmatch\76_jorge	a = b \cos C + c \cos B
+expressmatch\76_leissi	a = b \cos C + c \cos B
+expressmatch\76_leo	a = b \cos C + c \cos B
+expressmatch\76_maira	a = b \cos C + c \cos B
+expressmatch\76_miguel	a = b \cos C + c \cos B
+expressmatch\76_Nina	a = b \cos C + c \cos B
+expressmatch\76_rosario	a = b \cos C + c \cos B
+expressmatch\76_user0	a = b \cos C + c \cos B
+expressmatch\79_alfonso	p = \sqrt a 2 + b 2 - 2 \cos A a b
+expressmatch\79_bruno	p = a 2 + b 2 - 2 a b \cos A \sqrt
+expressmatch\79_carlos	p = a 2 + b 2 - 2 a b \cos A \sqrt
+expressmatch\79_caue	p = a 2 + b 2 - 2 a b \cos A \sqrt
+expressmatch\79_daniel	p = \sqrt a 2 + b 2 - 2 a b \cos A
+expressmatch\79_david	= \sqrt + b 2 - A 2 a b p a 2 \cos
+expressmatch\79_edwin	p = a 2 + b 2 - 2 a b \cos A \sqrt
+expressmatch\79_Fabricio	p = \sqrt a 2 + b 2 - 2 a b \cos A
+expressmatch\79_Frank	p = \sqrt a 2 + b 2 - 2 a b \cos A
+expressmatch\79_fujita	p = \sqrt a 2 + b 2 - 2 a b \cos A
+expressmatch\79_herbert	= a 2 + b 2 - 2 a b \cos A \sqrt p
+expressmatch\79_hirata	p = \sqrt a 2 + b 2 - 2 a b \cos A
+expressmatch\79_jorge	p = \sqrt a 2 + - 2 a b \cos A b 2
+expressmatch\79_leissi	p = \sqrt a 2 + b 2 - 2 a b \cos A
+expressmatch\79_leo	p = \sqrt a 2 + b 2 - 2 a b \cos A
+expressmatch\79_lucelia	p = \sqrt a 2 + b 2 - 2 a b \cos A
+expressmatch\79_maira	p = \sqrt a 2 + b 2 - 2 a b \cos A
+expressmatch\79_miguel	p = a 2 + b 2 - 2 a b \cos A \sqrt
+expressmatch\79_Nina	p = \sqrt a 2 + b 2 - 2 a b \cos A
+expressmatch\79_rosario	p = \sqrt a 2 + b 2 - 2 a b \cos A
+expressmatch\79_silas	p = \sqrt a 2 + b 2 - 2 a b \cos A
+expressmatch\79_user0	= a 2 + b 2 - 2 a b \cos A \sqrt p
+expressmatch\80_alfonso	1 - r 2 = - + - 1 1 R - m ) ( 2 R + m ) 2 (
+expressmatch\80_carlos	1 - r 2 = 1 - ( R - m ) 2 + 1 - ( R + m ) 2
+expressmatch\80_caue	1 - r 2 = 1 - ( R - m ) 2 + 1 - + m ) 2 ( R
+expressmatch\80_daniel	1 - r 2 = 1 - ( R - m ) 2 + ( R + m ) 2 - 1
+expressmatch\80_david	1 - r 2 = - - ( R 1 m ) 2 + 1 - ( R + m ) 2
+expressmatch\80_edwin	1 - r 2 = 1 - R - m ( ) 2 + 1 - ( R + m ) 2
+expressmatch\80_Fabricio	1 - r 2 = 1 - ( R - m ) 2 + 1 - ( R + m ) 2
+expressmatch\80_Frank	1 - r 2 = - 1 ( R - m ) 2 + - 1 ( R + m ) 2
+expressmatch\80_hirata	1 - r 2 = 1 - R - m ( ) 2 + 1 - R + m ) ( 2
+expressmatch\80_jorge	1 - r 2 = 1 - ( R - m ) 2 + 1 - ( R + m ) 2
+expressmatch\80_leissi	1 - r 2 = - 1 ( R - m ) 2 + - 1 ( R + m ) 2
+expressmatch\80_leo	1 - r 2 - + - 1 1 ( ) ( ) 2 2 R R m = - m +
+expressmatch\80_miguel	1 - r 2 = 1 - ( R - m ) 2 + 1 - ( R + m ) 2
+expressmatch\80_Nina	1 - r 2 = 1 - ( R - m ) 2 + 1 - ( R + m ) 2
+expressmatch\80_rosario	1 - r 2 = 1 - ( R - m ) 2 + 1 - ( R + m ) 2
+expressmatch\80_user0	1 - r 2 = ( R - m ( R + m ) 2 - + - 1 1 ) 2
+expressmatch\81_alfonso	A 2 k = - 2 R A k + \sqrt 4 R 2 + A 2 k 2 R
+expressmatch\81_carlos	A 2 k = 2 R A k - 2 R + \sqrt 4 R 2 + A 2 k
+expressmatch\81_caue	A 2 k = 2 R A k - 2 R + 4 R 2 + A 2 k \sqrt
+expressmatch\81_daniel	A 2 k = - 2 R + \sqrt 4 R 2 + A 2 k 2 R A k
+expressmatch\81_danilo	A 2 k = 2 R A k - 2 R + 4 R 2 + A 2 k \sqrt
+expressmatch\81_david	A 2 k = 2 R A k - 2 R + \sqrt 4 R 2 + A 2 k
+expressmatch\81_edwin	A 2 k = 2 R A k 2 R + 4 R 2 + A k 2 \sqrt -
+expressmatch\81_Fabricio	A 2 k = 2 R A k - 2 R + \sqrt 4 R 2 + A 2 k
+expressmatch\81_Frank	A 2 k = - 2 R A k 2 R + \sqrt 4 R 2 + A k 2
+expressmatch\81_herbert	A 2 k = 2 R A k - 2 R + 4 R 2 + A k 2 \sqrt
+expressmatch\81_hirata	A 2 k = 2 R A k - 2 R + \sqrt 4 R 2 + A k 2
+expressmatch\81_jorge	A 2 k 2 R A k - 2 R + \sqrt 4 R 2 + A 2 k =
+expressmatch\81_leissi	A 2 k = - 2 R A k 2 R + \sqrt 4 R 2 + A k 2
+expressmatch\81_leo	A 2 k = - 2 R A k 2 R + \sqrt 4 R 2 + A k 2
+expressmatch\81_miguel	A 2 k = 2 R A k - 2 R + \sqrt 4 R 2 + A 2 k
+expressmatch\81_mijail	A 2 k = 2 R A k - 2 R + \sqrt 4 R 2 + A 2 k
+expressmatch\81_Nina	A 2 k = 2 R A k - 2 R + \sqrt 4 R 2 + A 2 k
+expressmatch\81_rosario	A 2 k = 2 R A k - 2 R + \sqrt 4 R 2 + A k 2
+expressmatch\81_silas	A 2 = - 2 R A k 2 R + \sqrt 4 R 2 + A 2 k k
+expressmatch\81_user0	A 2 k = 2 R A k 2 R + 4 R 2 + A 2 k \sqrt -
+expressmatch\82_alfonso	q = ( B - A - C ) 2 + 1 \sqrt + B - A - C
+expressmatch\82_bruno	q = B - A - C ) ( 2 + 1 + B - A - \sqrt C
+expressmatch\82_carlos	= \sqrt ( B - A - C ) 2 + 1 + B - A - C q
+expressmatch\82_caue	q = ( B - A - C ) 2 + 1 + B - A - C \sqrt
+expressmatch\82_daniel	= \sqrt ( B - A - C ) 2 + 1 + B - A - C q
+expressmatch\82_david	q = \sqrt ( B - A - C ) 2 + 1 + B - A - C
+expressmatch\82_edwin	q = \sqrt B - A - C ) ( 2 + 1 + B - A - C
+expressmatch\82_Fabricio	q = \sqrt ( B - A - C ) 2 + 1 + B - A - C
+expressmatch\82_Frank	q = ( B - A - C ) 2 + 1 \sqrt + - B - A C
+expressmatch\82_herbert	q = B - A - C ( ) 2 + 1 + B - A - C \sqrt
+expressmatch\82_hirata	q = \sqrt ( B - A - C ) 2 + 1 + B - A - C
+expressmatch\82_jorge	q = \sqrt ( B - A - C ) 2 + 1 + B - A - C
+expressmatch\82_leissi	q = \sqrt ( B - A - ) C 2 + 1 + B - A - C
+expressmatch\82_leo	q = \sqrt + - B - A C + 1 ( B - A ) 2 - C
+expressmatch\82_miguel	q = ( B - A - C ) 2 + 1 \sqrt + B - A - C
+expressmatch\82_Nina	q = B - A - C ( ) 2 + 1 \sqrt + B - A - C
+expressmatch\82_rosario	q = \sqrt ( B - C ) 2 + 1 + B - A - A - C
+expressmatch\82_user0	q = ( B - A - C ) 2 + 1 + B - A - C \sqrt
+expressmatch\85_alfonso	a 1 - t 2 - 1 + t 2 , 2 b t - 1 + t 2 ) (
+expressmatch\85_carlos	a 1 - t 2 - 1 + t 2 , 2 b t - 1 + t 2 ) (
+expressmatch\85_david	( a 1 - t 2 - 1 + t 2 , 2 b t - 1 + t 2 )
+expressmatch\85_edwin	( a 1 - t 2 - 1 + t 2 , 2 b t 1 + t 2 - )
+expressmatch\85_Fabricio	( a 1 - t 2 - 1 + t 2 , 2 b t - 1 + t 2 )
+expressmatch\85_Frank	( a 1 - t 2 - 1 + t 2 , 2 b t - 1 + t 2 )
+expressmatch\85_fujita	( a 1 - t 2 - 1 + , 2 b t - 1 + t 2 ) t 2
+expressmatch\85_herbert	( a - 1 - t 2 1 + t 2 , - 2 b t 1 + t 2 )
+expressmatch\85_jorge	( a 1 - t 2 - 1 + t 2 , 2 b t - 1 + t 2 )
+expressmatch\85_leissi	( a 1 - t 2 - 1 + t 2 , 2 b t - 1 + t 2 )
+expressmatch\85_leo	( ) a - , - 2 b t 1 + t 2 1 + t 2 1 - t 2
+expressmatch\85_maira	a 1 - t 2 - 1 + t 2 , 2 b t - 1 + 2 ) ( t
+expressmatch\85_miguel	a 1 - t 2 - 1 + t 2 ( , 2 b t - 1 + t 2 )
+expressmatch\85_Nina	( a 1 - t 2 - 1 + t 2 , 2 b t - 1 + t 2 )
+expressmatch\85_rosario	( a 1 - t 2 - 1 + t 2 2 b t - 1 + t 2 ) ,
+expressmatch\85_user0	( a 1 - t 2 - 1 + t 2 2 b t - 1 + ) t 2 ,
+expressmatch\89_alfonso	x \prime = x \cos + y \sin \theta \theta
+expressmatch\89_bruno	x \prime = x \cos + y \sin \theta \theta
+expressmatch\89_carlos	x \prime = x \cos \theta + y \sin \theta
+expressmatch\89_caue	x \prime = x \cos \theta + y \sin \theta
+expressmatch\89_daniel	x \prime = x \cos \theta + y \sin \theta
+expressmatch\89_danilo	x \prime = x \cos \theta + y \sin \theta
+expressmatch\89_david	x \prime = x \cos \theta + y \sin \theta
+expressmatch\89_edwin	x \prime = x \cos \theta + y \sin \theta
+expressmatch\89_Fabricio	x \prime = x \cos \theta + y \sin \theta
+expressmatch\89_Frank	x \prime = x \cos \theta + y \sin \theta
+expressmatch\89_herbert	x \prime = x \cos \theta + y \sin \theta
+expressmatch\89_hirata	x \prime = x \cos + y \sin \theta \theta
+expressmatch\89_jorge	x \prime = x \cos \theta + y \sin \theta
+expressmatch\89_leissi	x \prime = x \cos \theta + y \sin \theta
+expressmatch\89_leo	= x \cos \theta + y \sin \theta x \prime
+expressmatch\89_miguel	x \prime = x \cos \theta + y \sin \theta
+expressmatch\89_Nina	x \prime = x \cos \theta + y \sin \theta
+expressmatch\89_rosario	x \prime = x \cos \theta + y \sin \theta
+expressmatch\89_user0	= \cos \theta + \sin \theta \prime x x y
+expressmatch\90_alfonso	y = r \sin \theta
+expressmatch\90_carlos	y = r \sin \theta
+expressmatch\90_caue	y = r \sin \theta
+expressmatch\90_daniel	y = r \sin \theta
+expressmatch\90_david	y = r \sin \theta
+expressmatch\90_edwin	y = r \sin \theta
+expressmatch\90_Fabricio	y = r \sin \theta
+expressmatch\90_Frank	y = r \sin \theta
+expressmatch\90_herbert	y = r \sin \theta
+expressmatch\90_jorge	y = r \sin \theta
+expressmatch\90_leissi	y = r \sin \theta
+expressmatch\90_leo	y = r \sin \theta
+expressmatch\90_lucelia	y = r \sin \theta
+expressmatch\90_miguel	y = r \sin \theta
+expressmatch\90_mijail	y = r \sin \theta
+expressmatch\90_Nina	y = r \sin \theta
+expressmatch\90_rosario	y = r \sin \theta
+expressmatch\90_user0	y = r \sin \theta
+expressmatch\91_alfonso	\sin \theta = - y \sqrt x 2 + y 2
+expressmatch\91_carlos	\sin \theta = y - \sqrt x 2 + y 2
+expressmatch\91_caue	\sin \theta = y - x 2 + y 2 \sqrt
+expressmatch\91_daniel	\sin \theta = - y \sqrt x 2 + y 2
+expressmatch\91_david	\sin \theta = y - \sqrt x 2 + y 2
+expressmatch\91_edwin	\sin \theta = y - \sqrt x 2 + y 2
+expressmatch\91_Fabricio	\sin \theta = y - \sqrt x 2 + y 2
+expressmatch\91_Frank	\sin \theta = - y \sqrt x 2 + y 2
+expressmatch\91_fujita	\sin \theta = y - \sqrt x 2 + y 2
+expressmatch\91_jorge	\sin \theta = y - \sqrt x 2 + y 2
+expressmatch\91_leissi	\sin \theta = y - x 2 + y 2 \sqrt
+expressmatch\91_leo	\sin \theta = - y \sqrt x 2 + y 2
+expressmatch\91_miguel	\sin \theta = y - \sqrt x 2 + y 2
+expressmatch\91_Nina	\sin \theta = y - \sqrt x 2 + y 2
+expressmatch\91_rosario	\sin \theta = y - \sqrt x 2 + y 2
+expressmatch\91_user0	\sin \theta = 2 + y 2 \sqrt - y x
+expressmatch\92_alfonso	x y = - \prime \sin \theta + y \prime \sin ( w \prime + \theta ) \sin w
+expressmatch\92_carlos	y = x \prime \sin \theta + y \prime \sin ( w \prime + - \sin w \theta )
+expressmatch\92_caue	y = x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) - \sin w
+expressmatch\92_david	y = x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) - \sin w
+expressmatch\92_edwin	y = x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) - \sin w
+expressmatch\92_Frank	y = - x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) \sin w
+expressmatch\92_herbert	y = x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) - \sin w
+expressmatch\92_jorge	y = x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) - \sin w
+expressmatch\92_leissi	y = x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) - \sin w
+expressmatch\92_leo	y = x \prime \sin \theta + \sin ( w \prime + \theta ) - \sin w y \prime
+expressmatch\92_lucelia	y = - x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) \sin w
+expressmatch\92_miguel	y = x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) - \sin w
+expressmatch\92_Nina	y = x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) - \sin w
+expressmatch\92_rosario	y = x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) - \sin w
+expressmatch\92_user0	y = \sin \theta + \sin ( + \theta ) - \sin w \prime \prime w \prime x y
+expressmatch\93_alfonso	r ( r 0 \sin ( \theta 0 ) - r 1 \sin ( \theta - \theta 1 ) ) = r 0 r 1 \sin ( \theta 1 - \theta 0 ) - \theta
+expressmatch\93_carlos	r ( r 0 \sin ( \theta - \theta 0 ) - r 1 \sin ( \theta - \theta 1 ) ) = r 0 r 1 \sin ( \theta 1 - \theta 0 )
+expressmatch\93_caue	r ( r 0 \sin ( \theta - \theta 0 ) - r 1 \sin ( \theta - \theta 1 ) ) = r 0 r 1 \sin ( \theta 1 - \theta 0 )
+expressmatch\93_daniel	r ( r 0 \sin ( \theta - \theta 0 ) - r 1 \sin ( \theta - \theta 1 = r 0 r 1 \sin ( \theta 1 - \theta 0 ) ) )
+expressmatch\93_david	r ( r 0 \sin ( \theta - 0 ) - r 1 \sin ( \theta - 1 ) ) = r 0 r 1 \sin ( \theta 1 - \theta 0 ) \theta \theta
+expressmatch\93_edwin	r ( r 0 \sin ( \theta - \theta 0 ) - r 1 \sin ( \theta - \theta 1 ) ) = r 0 r 1 \sin ( \theta 1 - \theta 0 )
+expressmatch\93_Fabricio	r ( r 0 \sin ( \theta - \theta 0 ) - r 1 \sin ( \theta - \theta 1 ) ) = r 0 r 1 \sin ( \theta 1 - \theta 0 )
+expressmatch\93_Frank	r ( r 0 \sin ( \theta - \theta 0 ) - r 1 \sin ( \theta - \theta 1 ) ) = r 0 r 1 \sin ( \theta 1 - \theta 0 )
+expressmatch\93_herbert	r ( r 0 \sin ( \theta - \theta 0 ) - r 1 \sin ( \theta - \theta 1 ) ) = r 0 r 1 \sin ( \theta 1 - \theta 0 )
+expressmatch\93_leissi	r ( r 0 \sin ( \theta - \theta 0 ) - r 1 \sin ( \theta - \theta 1 ) ) = r 0 r 1 \sin ( \theta 1 - \theta 0 )
+expressmatch\93_leo	r ( r 0 \sin ( \theta \theta 0 - ) - r 1 \sin ( \theta - \theta 1 ) ) = r 0 r 1 \sin ( \theta 1 - \theta 0 )
+expressmatch\93_miguel	r ( r 0 \sin ( \theta - \theta 0 ) - r 1 \sin ( \theta - \theta 1 ) ) = r 0 r 1 \sin ( \theta 1 - 0 ) \theta
+expressmatch\93_Nina	r ( r 0 \sin ( \theta - \theta 0 ) - r 1 \sin ( \theta - \theta 1 ) ) = r 0 r 1 \sin ( \theta 1 - \theta 0 )
+expressmatch\93_rosario	r ( r 0 \sin ( \theta - \theta 0 ) - r 1 \sin ( \theta - \theta 1 ) ) = r 0 r 1 \sin ( \theta 1 - \theta 0 )
+expressmatch\93_user0	r ( r 0 \sin ( \theta - \theta 0 ) - r 1 \sin ( \theta - \theta 1 ) ) = r 0 r 1 \sin ( \theta 1 - \theta 0 )
+expressmatch\94_alfonso	a - \sin A = - b \sin B = c - \sin C
+expressmatch\94_bruno	a - \sin A = b - \sin B = c - \sin C
+expressmatch\94_carlos	a - \sin A b = - \sin B = c - \sin C
+expressmatch\94_caue	a - \sin A = b - \sin B = c - \sin C
+expressmatch\94_danilo	\sin A = b - \sin B = c - \sin C a -
+expressmatch\94_david	a - \sin A = b - \sin B = c - \sin C
+expressmatch\94_edwin	a - \sin A = b - \sin B c - \sin C =
+expressmatch\94_Fabricio	a - \sin A = b - \sin B = c - \sin C
+expressmatch\94_Frank	a - \sin A = b - \sin B = c - \sin C
+expressmatch\94_fujita	a - \sin A = b - \sin B = c - \sin C
+expressmatch\94_herbert	a - \sin A = - b \sin B = c - \sin C
+expressmatch\94_jorge	a - \sin A = b - \sin B = c - \sin C
+expressmatch\94_leissi	a - \sin A = b - \sin B = c - \sin C
+expressmatch\94_leo	a - = - b = - c \sin A \sin \sin B C
+expressmatch\94_miguel	a - \sin A = b - \sin B = c - \sin C
+expressmatch\94_Nina	a - \sin A = b - \sin B = c - \sin C
+expressmatch\94_rosario	a - \sin A = b - \sin B = c - \sin C
+expressmatch\94_user0	a - \sin A = b - \sin B = c - \sin C
+expressmatch\95_alfonso	b = c \sin B = c \cos A
+expressmatch\95_carlos	b = c \sin B = c \cos A
+expressmatch\95_caue	b = c \sin B = c \cos A
+expressmatch\95_david	b = c \sin B = c \cos A
+expressmatch\95_edwin	b = c \sin B = \cos A c
+expressmatch\95_Fabricio	b = c \sin B = c \cos A
+expressmatch\95_Frank	b = c \sin B = c \cos A
+expressmatch\95_herbert	b = c \sin B = c \cos A
+expressmatch\95_jorge	b = c \sin B = c \cos A
+expressmatch\95_leissi	b = c \sin B = c \cos A
+expressmatch\95_leo	b = c \sin B = c \cos A
+expressmatch\95_miguel	b = c \sin B = c \cos A
+expressmatch\95_Nina	b = c \sin B = c \cos A
+expressmatch\95_rosario	b = c \sin B = c \cos A
+expressmatch\95_user0	b = c \sin B = c \cos A
+expressmatch\96_alfonso	y = a S ( t ) = a \int t 0 \sin ( 1 - 2 \pi s 2 ) d s
+expressmatch\96_bruno	y = a S ( t ) = a \int t 0 \sin ( 1 - 2 \pi s 2 ) d s
+expressmatch\96_carlos	y = a S ( t ) = a \int t 0 \sin ( 1 - 2 \pi s 2 ) d s
+expressmatch\96_caue	y = a S ( t ) = a \int t 0 \sin ( 1 - 2 \pi s 2 ) d s
+expressmatch\96_david	y = a S ( t ) = a \int t 0 \sin ( 1 - 2 \pi s 2 ) d s
+expressmatch\96_edwin	y = a S ( t ) = a \int 0 t \sin ( 1 - 2 \pi s 2 ) d s
+expressmatch\96_Fabricio	y = a S ( t ) = a \int t 0 \sin ( 1 - 2 \pi s 2 ) d s
+expressmatch\96_Frank	y = a S ( t ) = a \int 0 t \sin ( 1 - 2 \pi s 2 ) d s
+expressmatch\96_leissi	y = a S ( t ) = a \int t 0 \sin ( 1 \pi s 2 ) d s - 2
+expressmatch\96_leo	y = a S ( t ) = a \int t 0 \sin ( 1 - 2 \pi s d s 2 )
+expressmatch\96_miguel	y = a S ( t = ) a \int 0 t \sin ( 1 - 2 \pi s 2 ) d s
+expressmatch\96_mijail	y = a S ( t ) = a \int t 0 \sin ( 1 - 2 \pi s 2 ) d s
+expressmatch\96_Nina	y = a S ( t ) = a \int 0 t \sin ( 1 - 2 \pi s 2 ) d s
+expressmatch\96_rosario	y = a S ( t ) = a t 0 \sin 1 - 2 \pi s 2 ) d s \int (
+expressmatch\96_user0	y = a S ( t ) = a \int t 0 \sin ( 1 - 2 \pi s 2 ) d s
+expressmatch\98_alfonso	\cos \alpha = - a a 2 + b 2 + c 2 \sqrt
+expressmatch\98_carlos	\cos \alpha = a - \sqrt a 2 + b 2 + c 2
+expressmatch\98_caue	\cos \alpha = a 2 + b 2 + c 2 \sqrt - a
+expressmatch\98_daniel	\cos \alpha = - a \sqrt a 2 + b 2 + c 2
+expressmatch\98_david	\cos \alpha = a - \sqrt a 2 + b 2 + c 2
+expressmatch\98_edwin	\cos \alpha = - a \sqrt a 2 + b 2 + c 2
+expressmatch\98_Fabricio	\cos \alpha = a - \sqrt a 2 + b 2 + c 2
+expressmatch\98_Frank	\cos \alpha = - a \sqrt a 2 + b 2 + c 2
+expressmatch\98_fujita	\cos \alpha = a - \sqrt a 2 + b 2 + c 2
+expressmatch\98_herbert	\cos \alpha = a - a 2 + b 2 + c 2 \sqrt
+expressmatch\98_jorge	\cos \alpha = \sqrt a 2 + b 2 + c 2 a -
+expressmatch\98_leissi	\cos \alpha = - a a 2 + b 2 + c 2 \sqrt
+expressmatch\98_leo	\cos \alpha = - \sqrt a 2 + b 2 + c 2 a
+expressmatch\98_maira	\cos \alpha = a - \sqrt a 2 + b 2 + c 2
+expressmatch\98_miguel	\cos \alpha = a - \sqrt a 2 + b 2 + c 2
+expressmatch\98_Nina	\cos \alpha = a - a 2 + b 2 + c 2 \sqrt
+expressmatch\98_rosario	\cos \alpha = a - \sqrt a 2 + b 2 + c 2
+expressmatch\98_silas	\cos \alpha = - a \sqrt a 2 + b 2 c 2 +
+expressmatch\98_user0	\cos \alpha = - a 2 + b 2 + c 2 \sqrt a

@@ -1,0 +1,620 @@
+expressmatch\101_alfonso	( ) - 1 2 = S \pi \sum \theta i n r
+expressmatch\101_carlos	( ) - 1 2 = S \pi \sum \theta i n r
+expressmatch\101_caue	( ) - 1 2 = S \pi \sum \theta i n r
+expressmatch\101_danilo	( ) - 1 2 = S \pi \sum \theta i n r
+expressmatch\101_david	( ) - 1 2 = S \pi \sum \theta i n r
+expressmatch\101_edwin	( ) - 1 2 = S \pi \sum \theta i n r
+expressmatch\101_Fabricio	( ) - 1 2 = S \pi \sum \theta i n r
+expressmatch\101_Frank	( ) - 1 2 = S \pi \sum \theta i n r
+expressmatch\101_fujita	( ) - 1 2 = S \pi \sum \theta i n r
+expressmatch\101_herbert	( ) - 1 2 = S \pi \sum \theta i n r
+expressmatch\101_hirata	( ) - 1 2 = S \pi \sum \theta i n r
+expressmatch\101_jorge	( ) - 1 2 = S \pi \sum \theta i n r
+expressmatch\101_leissi	( ) - 1 2 = S \pi \sum \theta i n r
+expressmatch\101_leo	( ) - 1 2 = S \pi \sum \theta i n r
+expressmatch\101_miguel	( ) - 1 2 = S \pi \sum \theta i n r
+expressmatch\101_mijail	( ) - 1 2 = S \pi \sum \theta i n r
+expressmatch\101_Nina	( ) - 1 2 = S \pi \sum \theta i n r
+expressmatch\101_rosario	( ) - 1 2 = S \pi \sum \theta i n r
+expressmatch\101_user0	( ) - 1 2 = S \pi \sum \theta i n r
+expressmatch\105_alfonso	+ - 1 2 3 4 7 8 a b c d
+expressmatch\105_carlos	+ - 1 2 3 4 7 8 a b c d
+expressmatch\105_caue	+ - 1 2 3 4 7 8 a b c d
+expressmatch\105_danilo	+ - 1 2 3 4 7 8 a b c d
+expressmatch\105_david	+ - 1 2 3 4 7 8 a b c d
+expressmatch\105_edwin	+ - 1 2 3 4 7 8 a b c d
+expressmatch\105_Fabricio	+ - 1 2 3 4 7 8 a b c d
+expressmatch\105_Frank	+ - 1 2 3 4 7 8 a b c d
+expressmatch\105_fujita	+ - 1 2 3 4 7 8 a b c d
+expressmatch\105_herbert	+ - 1 2 3 4 7 8 a b c d
+expressmatch\105_hirata	+ - 1 2 3 4 7 8 a b c d
+expressmatch\105_leissi	+ - 1 2 3 4 7 8 a b c d
+expressmatch\105_leo	+ - 1 2 3 4 7 8 a b c d
+expressmatch\105_lucelia	+ - 1 2 3 4 7 8 a b c d
+expressmatch\105_miguel	+ - 1 2 3 4 7 8 a b c d
+expressmatch\105_mijail	+ - 1 2 3 4 7 8 a b c d
+expressmatch\105_Nina	+ - 1 2 3 4 7 8 a b c d
+expressmatch\105_rosario	+ - 1 2 3 4 7 8 a b c d
+expressmatch\105_user0	+ - 1 2 3 4 7 8 a b c d
+expressmatch\106_alfonso	+ 0 1 4 = y
+expressmatch\106_carlos	+ 0 1 4 = y
+expressmatch\106_caue	+ 0 1 4 = y
+expressmatch\106_daniel	+ 0 1 4 = y
+expressmatch\106_david	+ 0 1 4 = y
+expressmatch\106_edwin	+ 0 1 4 = y
+expressmatch\106_fabio	+ 0 1 4 = y
+expressmatch\106_Fabricio	+ 0 1 4 = y
+expressmatch\106_Frank	+ 0 1 4 = y
+expressmatch\106_fujita	+ 0 1 4 = y
+expressmatch\106_herbert	+ 0 1 4 = y
+expressmatch\106_jorge	+ 0 1 4 = y
+expressmatch\106_leissi	+ 0 1 4 = y
+expressmatch\106_leo	+ 0 1 4 = y
+expressmatch\106_miguel	+ 0 1 4 = y
+expressmatch\106_Nina	+ 0 1 4 = y
+expressmatch\106_rosario	+ 0 1 4 = y
+expressmatch\106_user0	+ 0 1 4 = y
+expressmatch\107_alfonso	( ) + - 2 = a b i
+expressmatch\107_bruno	( ) + - 2 = a b i
+expressmatch\107_carlos	( ) + - 2 = a b i
+expressmatch\107_caue	( ) + - 2 = a b i
+expressmatch\107_daniel	( ) + - 2 = a b i
+expressmatch\107_david	( ) + - 2 = a b i
+expressmatch\107_edwin	( ) + - 2 = a b i
+expressmatch\107_Fabricio	( ) + - 2 = a b i
+expressmatch\107_Frank	( ) + - 2 = a b i
+expressmatch\107_herbert	( ) + - 2 = a b i
+expressmatch\107_hirata	( ) + - 2 = a b i
+expressmatch\107_jorge	( ) + - 2 = a b i
+expressmatch\107_leissi	( ) + - 2 = a b i
+expressmatch\107_leo	( ) + - 2 = a b i
+expressmatch\107_miguel	( ) + - 2 = a b i
+expressmatch\107_Nina	( ) + - 2 = a b i
+expressmatch\107_rosario	( ) + - 2 = a b i
+expressmatch\107_user0	( ) + - 2 = a b i
+expressmatch\108_alfonso	+ = a x y
+expressmatch\108_bruno	+ = a x y
+expressmatch\108_carlos	+ = a x y
+expressmatch\108_caue	+ = a x y
+expressmatch\108_danilo	+ = a x y
+expressmatch\108_david	+ = a x y
+expressmatch\108_edwin	+ = a x y
+expressmatch\108_Fabricio	+ = a x y
+expressmatch\108_Frank	+ = a x y
+expressmatch\108_herbert	+ = a x y
+expressmatch\108_jorge	+ = a x y
+expressmatch\108_leissi	+ = a x y
+expressmatch\108_leo	+ = a x y
+expressmatch\108_maira	+ = a x y
+expressmatch\108_miguel	+ = a x y
+expressmatch\108_Nina	+ = a x y
+expressmatch\108_rosario	+ = a x y
+expressmatch\108_user0	+ = a x y
+expressmatch\108_Willian	+ = a x y
+expressmatch\109_alfonso	- = \sqrt a b x
+expressmatch\109_carlos	- = \sqrt a b x
+expressmatch\109_caue	- = \sqrt a b x
+expressmatch\109_daniel	- = \sqrt a b x
+expressmatch\109_edwin	- = \sqrt a b x
+expressmatch\109_Fabricio	- = \sqrt a b x
+expressmatch\109_Frank	- = \sqrt a b x
+expressmatch\109_herbert	- = \sqrt a b x
+expressmatch\109_jorge	- = \sqrt a b x
+expressmatch\109_leissi	- = \sqrt a b x
+expressmatch\109_leo	- = \sqrt a b x
+expressmatch\109_lucelia	- = \sqrt a b x
+expressmatch\109_miguel	- = \sqrt a b x
+expressmatch\109_Nina	- = \sqrt a b x
+expressmatch\109_rosario	- = \sqrt a b x
+expressmatch\109_silas	- = \sqrt a b x
+expressmatch\109_user0	- = \sqrt a b x
+expressmatch\110_alfonso	( ) + - 1 2 = a b
+expressmatch\110_carlos	( ) + - 1 2 = a b
+expressmatch\110_caue	( ) + - 1 2 = a b
+expressmatch\110_danilo	( ) + - 1 2 = a b
+expressmatch\110_david	( ) + - 1 2 = a b
+expressmatch\110_edwin	( ) + - 1 2 = a b
+expressmatch\110_Fabricio	( ) + - 1 2 = a b
+expressmatch\110_Frank	( ) + - 1 2 = a b
+expressmatch\110_fujita	( ) + - 1 2 = a b
+expressmatch\110_herbert	( ) + - 1 2 = a b
+expressmatch\110_jorge	( ) + - 1 2 = a b
+expressmatch\110_leissi	( ) + - 1 2 = a b
+expressmatch\110_leo	( ) + - 1 2 = a b
+expressmatch\110_miguel	( ) + - 1 2 = a b
+expressmatch\110_Nina	( ) + - 1 2 = a b
+expressmatch\110_rosario	( ) + - 1 2 = a b
+expressmatch\110_user0	( ) + - 1 2 = a b
+expressmatch\111_alfonso	+ - 1 2 = \cos \pi \sin \sqrt i k n
+expressmatch\111_carlos	+ - 1 2 = \cos \pi \sin \sqrt i k n
+expressmatch\111_caue	+ - 1 2 = \cos \pi \sin \sqrt i k n
+expressmatch\111_david	+ - 1 2 = \cos \pi \sin \sqrt i k n
+expressmatch\111_edwin	+ - 1 2 = \cos \pi \sin \sqrt i k n
+expressmatch\111_Fabricio	+ - 1 2 = \cos \pi \sin \sqrt i k n
+expressmatch\111_Frank	+ - 1 2 = \cos \pi \sin \sqrt i k n
+expressmatch\111_herbert	+ - 1 2 = \cos \pi \sin \sqrt i k n
+expressmatch\111_hirata	+ - 1 2 = \cos \pi \sin \sqrt i k n
+expressmatch\111_jorge	+ - 1 2 = \cos \pi \sin \sqrt i k n
+expressmatch\111_leissi	+ - 1 2 = \cos \pi \sin \sqrt i k n
+expressmatch\111_leo	+ - 1 2 = \cos \pi \sin \sqrt i k n
+expressmatch\111_miguel	+ - 1 2 = \cos \pi \sin \sqrt i k n
+expressmatch\111_miguel2	+ - 1 2 = \cos \pi \sin \sqrt i k n
+expressmatch\111_Nina	+ - 1 2 = \cos \pi \sin \sqrt i k n
+expressmatch\111_rosario	+ - 1 2 = \cos \pi \sin \sqrt i k n
+expressmatch\111_user0	+ - 1 2 = \cos \pi \sin \sqrt i k n
+expressmatch\116_alfonso	- 2 4 = \pm \sqrt a b c x
+expressmatch\116_carlos	- 2 4 = \pm \sqrt a b c x
+expressmatch\116_caue	- 2 4 = \pm \sqrt a b c x
+expressmatch\116_david	- 2 4 = \pm \sqrt a b c x
+expressmatch\116_edwin	- 2 4 = \pm \sqrt a b c x
+expressmatch\116_Fabricio	- 2 4 = \pm \sqrt a b c x
+expressmatch\116_Frank	- 2 4 = \pm \sqrt a b c x
+expressmatch\116_herbert	- 2 4 = \pm \sqrt a b c x
+expressmatch\116_hirata	- 2 4 = \pm \sqrt a b c x
+expressmatch\116_jorge	- 2 4 = \pm \sqrt a b c x
+expressmatch\116_leissi	- 2 4 = \pm \sqrt a b c x
+expressmatch\116_leo	- 2 4 = \pm \sqrt a b c x
+expressmatch\116_miguel	- 2 4 = \pm \sqrt a b c x
+expressmatch\116_Nina	- 2 4 = \pm \sqrt a b c x
+expressmatch\116_rosario	- 2 4 = \pm \sqrt a b c x
+expressmatch\116_user0	- 2 4 = \pm \sqrt a b c x
+expressmatch\117_alfonso	( ) + - 0 2 = \pm \sqrt p q u y
+expressmatch\117_carlos	( ) + - 0 2 = \pm \sqrt p q u y
+expressmatch\117_caue	( ) + - 0 2 = \pm \sqrt p q u y
+expressmatch\117_david	( ) + - 0 2 = \pm \sqrt p q u y
+expressmatch\117_edwin	( ) + - 0 2 = \pm \sqrt p q u y
+expressmatch\117_Fabricio	( ) + - 0 2 = \pm \sqrt p q u y
+expressmatch\117_Frank	( ) + - 0 2 = \pm \sqrt p q u y
+expressmatch\117_hirata	( ) + - 0 2 = \pm \sqrt p q u y
+expressmatch\117_jorge	( ) + - 0 2 = \pm \sqrt p q u y
+expressmatch\117_leissi	( ) + - 0 2 = \pm \sqrt p q u y
+expressmatch\117_leo	( ) + - 0 2 = \pm \sqrt p q u y
+expressmatch\117_lucelia	( ) + - 0 2 = \pm \sqrt p q u y
+expressmatch\117_Nina	( ) + - 0 2 = \pm \sqrt p q u y
+expressmatch\117_rosario	( ) + - 0 2 = \pm \sqrt p q u y
+expressmatch\117_user0	( ) + - 0 2 = \pm \sqrt p q u y
+expressmatch\118_alfonso	( ) 0 = P \sum a i j n x
+expressmatch\118_carlos	( ) 0 = P \sum a i j n x
+expressmatch\118_caue	( ) 0 = P \sum a i j n x
+expressmatch\118_david	( ) 0 = P \sum a i j n x
+expressmatch\118_edwin	( ) 0 = P \sum a i j n x
+expressmatch\118_Fabricio	( ) 0 = P \sum a i j n x
+expressmatch\118_Frank	( ) 0 = P \sum a i j n x
+expressmatch\118_fujita	( ) 0 = P \sum a i j n x
+expressmatch\118_herbert	( ) 0 = P \sum a i j n x
+expressmatch\118_hirata	( ) 0 = P \sum a i j n x
+expressmatch\118_jorge	( ) 0 = P \sum a i j n x
+expressmatch\118_leissi	( ) 0 = P \sum a i j n x
+expressmatch\118_leo	( ) 0 = P \sum a i j n x
+expressmatch\118_lucelia	( ) 0 = P \sum a i j n x
+expressmatch\118_miguel	( ) 0 = P \sum a i j n x
+expressmatch\118_Nina	( ) 0 = P \sum a i j n x
+expressmatch\118_rosario	( ) 0 = P \sum a i j n x
+expressmatch\118_user0	( ) 0 = P \sum a i j n x
+expressmatch\124_alfonso	- 1 = \sum a b i k x
+expressmatch\124_carlos	- 1 = \sum a b i k x
+expressmatch\124_caue	- 1 = \sum a b i k x
+expressmatch\124_daniel	- 1 = \sum a b i k x
+expressmatch\124_david	- 1 = \sum a b i k x
+expressmatch\124_edwin	- 1 = \sum a b i k x
+expressmatch\124_Fabricio	- 1 = \sum a b i k x
+expressmatch\124_Frank	- 1 = \sum a b i k x
+expressmatch\124_jorge	- 1 = \sum a b i k x
+expressmatch\124_leissi	- 1 = \sum a b i k x
+expressmatch\124_leo	- 1 = \sum a b i k x
+expressmatch\124_maira	- 1 = \sum a b i k x
+expressmatch\124_miguel	- 1 = \sum a b i k x
+expressmatch\124_Nina	- 1 = \sum a b i k x
+expressmatch\124_rosario	- 1 = \sum a b i k x
+expressmatch\124_silas	- 1 = \sum a b i k x
+expressmatch\124_user0	- 1 = \sum a b i k x
+expressmatch\126_alfonso	+ - 1 2 \leq \lt n p q x |
+expressmatch\126_carlos	+ - 1 2 \leq \lt n p q x |
+expressmatch\126_caue	+ - 1 2 \leq \lt n p q x |
+expressmatch\126_danilo	+ - 1 2 \leq \lt n p q x |
+expressmatch\126_david	+ - 1 2 \leq \lt n p q x |
+expressmatch\126_edwin	+ - 1 2 \leq \lt n p q x |
+expressmatch\126_Fabricio	+ - 1 2 \leq \lt n p q x |
+expressmatch\126_Frank	+ - 1 2 \leq \lt n p q x |
+expressmatch\126_fujita	+ - 1 2 \leq \lt n p q x |
+expressmatch\126_herbert	+ - 1 2 \leq \lt n p q x |
+expressmatch\126_jorge	+ - 1 2 \leq \lt n p q x |
+expressmatch\126_leissi	+ - 1 2 \leq \lt n p q x |
+expressmatch\126_leo	+ - 1 2 \leq \lt n p q x |
+expressmatch\126_miguel	+ - 1 2 \leq \lt n p q x |
+expressmatch\126_Nina	+ - 1 2 \leq \lt n p q x |
+expressmatch\126_rosario	+ - 1 2 \leq \lt n p q x |
+expressmatch\126_user0	+ - 1 2 \leq \lt n p q x |
+expressmatch\127_alfonso	! - 1 n
+expressmatch\127_caue	! - 1 n
+expressmatch\127_danilo	! - 1 n
+expressmatch\127_david	! - 1 n
+expressmatch\127_edwin	! - 1 n
+expressmatch\127_Fabricio	! - 1 n
+expressmatch\127_Frank	! - 1 n
+expressmatch\127_fujita	! - 1 n
+expressmatch\127_herbert	! - 1 n
+expressmatch\127_hirata	! - 1 n
+expressmatch\127_jorge	! - 1 n
+expressmatch\127_leissi	! - 1 n
+expressmatch\127_leo	! - 1 n
+expressmatch\127_miguel	! - 1 n
+expressmatch\127_Nina	! - 1 n
+expressmatch\127_rosario	! - 1 n
+expressmatch\127_user0	! - 1 n
+expressmatch\129_alfonso	( ) + - 1 2 = \ldots n
+expressmatch\129_carlos	( ) + - 1 2 = \ldots n
+expressmatch\129_caue	( ) + - 1 2 = \ldots n
+expressmatch\129_david	( ) + - 1 2 = \ldots n
+expressmatch\129_edwin	( ) + - 1 2 = \ldots n
+expressmatch\129_Fabricio	( ) + - 1 2 = \ldots n
+expressmatch\129_Frank	( ) + - 1 2 = \ldots n
+expressmatch\129_jorge	( ) + - 1 2 = \ldots n
+expressmatch\129_leissi	( ) + - 1 2 = \ldots n
+expressmatch\129_leo	( ) + - 1 2 = \ldots n
+expressmatch\129_miguel	( ) + - 1 2 = \ldots n
+expressmatch\129_Nina	( ) + - 1 2 = \ldots n
+expressmatch\129_rosario	( ) + - 1 2 = \ldots n
+expressmatch\129_silas	( ) + - 1 2 = \ldots n
+expressmatch\129_user0	( ) + - 1 2 = \ldots n
+expressmatch\130_alfonso	( ) + - 1 2 3 4 = \ldots
+expressmatch\130_bruno	( ) + - 1 2 3 4 = \ldots
+expressmatch\130_carlos	( ) + - 1 2 3 4 = \ldots
+expressmatch\130_caue	( ) + - 1 2 3 4 = \ldots
+expressmatch\130_danilo	( ) + - 1 2 3 4 = \ldots
+expressmatch\130_david	( ) + - 1 2 3 4 = \ldots
+expressmatch\130_edwin	( ) + - 1 2 3 4 = \ldots
+expressmatch\130_Fabricio	( ) + - 1 2 3 4 = \ldots
+expressmatch\130_Frank	( ) + - 1 2 3 4 = \ldots
+expressmatch\130_hirata	( ) + - 1 2 3 4 = \ldots
+expressmatch\130_jorge	( ) + - 1 2 3 4 = \ldots
+expressmatch\130_leissi	( ) + - 1 2 3 4 = \ldots
+expressmatch\130_leo	( ) + - 1 2 3 4 = \ldots
+expressmatch\130_miguel	( ) + - 1 2 3 4 = \ldots
+expressmatch\130_Nina	( ) + - 1 2 3 4 = \ldots
+expressmatch\130_rosario	( ) + - 1 2 3 4 = \ldots
+expressmatch\130_user0	( ) + - 1 2 3 4 = \ldots
+expressmatch\131_alfonso	( ) + - 0 1 = \ldots a f n x
+expressmatch\131_carlos	( ) + - 0 1 = \ldots a f n x
+expressmatch\131_caue	( ) + - 0 1 = \ldots a f n x
+expressmatch\131_david	( ) + - 0 1 = \ldots a f n x
+expressmatch\131_edwin	( ) + - 0 1 = \ldots a f n x
+expressmatch\131_Fabricio	( ) + - 0 1 = \ldots a f n x
+expressmatch\131_Frank	( ) + - 0 1 = \ldots a f n x
+expressmatch\131_jorge	( ) + - 0 1 = \ldots a f n x
+expressmatch\131_leissi	( ) + - 0 1 = \ldots a f n x
+expressmatch\131_leo	( ) + - 0 1 = \ldots a f n x
+expressmatch\131_maira	( ) + - 0 1 = \ldots a f n x
+expressmatch\131_miguel	( ) + - 0 1 = \ldots a f n x
+expressmatch\131_mijail	( ) + - 0 1 = \ldots a f n x
+expressmatch\131_Nina	( ) + - 0 1 = \ldots a f n x
+expressmatch\131_rosario	( ) + - 0 1 = \ldots a f n x
+expressmatch\131_user0	( ) + - 0 1 = \ldots a f n x
+expressmatch\65_alfonso	= \cos \theta r x
+expressmatch\65_carlos	= \cos \theta r x
+expressmatch\65_caue	= \cos \theta r x
+expressmatch\65_daniel	= \cos \theta r x
+expressmatch\65_david	= \cos \theta r x
+expressmatch\65_edwin	= \cos \theta r x
+expressmatch\65_Fabricio	= \cos \theta r x
+expressmatch\65_Frank	= \cos \theta r x
+expressmatch\65_herbert	= \cos \theta r x
+expressmatch\65_jorge	= \cos \theta r x
+expressmatch\65_leissi	= \cos \theta r x
+expressmatch\65_leo	= \cos \theta r x
+expressmatch\65_maira	= \cos \theta r x
+expressmatch\65_miguel	= \cos \theta r x
+expressmatch\65_mijail	= \cos \theta r x
+expressmatch\65_Nina	= \cos \theta r x
+expressmatch\65_rosario	= \cos \theta r x
+expressmatch\65_user0	= \cos \theta r x
+expressmatch\70_alfonso	+ - 2 = \cos \sqrt \theta x y
+expressmatch\70_carlos	+ - 2 = \cos \sqrt \theta x y
+expressmatch\70_caue	+ - 2 = \cos \sqrt \theta x y
+expressmatch\70_daniel	+ - 2 = \cos \sqrt \theta x y
+expressmatch\70_david	+ - 2 = \cos \sqrt \theta x y
+expressmatch\70_edwin	+ - 2 = \cos \sqrt \theta x y
+expressmatch\70_Fabricio	+ - 2 = \cos \sqrt \theta x y
+expressmatch\70_Frank	+ - 2 = \cos \sqrt \theta x y
+expressmatch\70_hirata	+ - 2 = \cos \sqrt \theta x y
+expressmatch\70_jorge	+ - 2 = \cos \sqrt \theta x y
+expressmatch\70_leissi	+ - 2 = \cos \sqrt \theta x y
+expressmatch\70_leo	+ - 2 = \cos \sqrt \theta x y
+expressmatch\70_maira	+ - 2 = \cos \sqrt \theta x y
+expressmatch\70_miguel	+ - 2 = \cos \sqrt \theta x y
+expressmatch\70_Nina	+ - 2 = \cos \sqrt \theta x y
+expressmatch\70_rosario	+ - 2 = \cos \sqrt \theta x y
+expressmatch\70_user0	+ - 2 = \cos \sqrt \theta x y
+expressmatch\73_alfonso	+ - 0 2 \sqrt a b c x y |
+expressmatch\73_carlos	+ - 0 2 \sqrt a b c x y |
+expressmatch\73_caue	+ - 0 2 \sqrt a b c x y |
+expressmatch\73_david	+ - 0 2 \sqrt a b c x y |
+expressmatch\73_edwin	+ - 0 2 \sqrt a b c x y |
+expressmatch\73_Fabricio	+ - 0 2 \sqrt a b c x y |
+expressmatch\73_Frank	+ - 0 2 \sqrt a b c x y |
+expressmatch\73_fujita	+ - 0 2 \sqrt a b c x y |
+expressmatch\73_herbert	+ - 0 2 \sqrt a b c x y |
+expressmatch\73_hirata	+ - 0 2 \sqrt a b c x y |
+expressmatch\73_jorge	+ - 0 2 \sqrt a b c x y |
+expressmatch\73_leissi	+ - 0 2 \sqrt a b c x y |
+expressmatch\73_leo	+ - 0 2 \sqrt a b c x y |
+expressmatch\73_maira	+ - 0 2 \sqrt a b c x y |
+expressmatch\73_miguel	+ - 0 2 \sqrt a b c x y |
+expressmatch\73_Nina	+ - 0 2 \sqrt a b c x y |
+expressmatch\73_rosario	+ - 0 2 \sqrt a b c x y |
+expressmatch\73_user0	+ - 0 2 \sqrt a b c x y |
+expressmatch\75_alfonso	+ - 2 = C \cos a b c
+expressmatch\75_carlos	+ - 2 = C \cos a b c
+expressmatch\75_caue	+ - 2 = C \cos a b c
+expressmatch\75_danilo	+ - 2 = C \cos a b c
+expressmatch\75_david	+ - 2 = C \cos a b c
+expressmatch\75_edwin	+ - 2 = C \cos a b c
+expressmatch\75_Fabricio	+ - 2 = C \cos a b c
+expressmatch\75_Frank	+ - 2 = C \cos a b c
+expressmatch\75_herbert	+ - 2 = C \cos a b c
+expressmatch\75_jorge	+ - 2 = C \cos a b c
+expressmatch\75_leissi	+ - 2 = C \cos a b c
+expressmatch\75_leo	+ - 2 = C \cos a b c
+expressmatch\75_miguel	+ - 2 = C \cos a b c
+expressmatch\75_Nina	+ - 2 = C \cos a b c
+expressmatch\75_rosario	+ - 2 = C \cos a b c
+expressmatch\75_user0	+ - 2 = C \cos a b c
+expressmatch\76_alfonso	+ = B C \cos a b c
+expressmatch\76_carlos	+ = B C \cos a b c
+expressmatch\76_caue	+ = B C \cos a b c
+expressmatch\76_danilo	+ = B C \cos a b c
+expressmatch\76_david	+ = B C \cos a b c
+expressmatch\76_edwin	+ = B C \cos a b c
+expressmatch\76_Fabricio	+ = B C \cos a b c
+expressmatch\76_Frank	+ = B C \cos a b c
+expressmatch\76_fujita	+ = B C \cos a b c
+expressmatch\76_jorge	+ = B C \cos a b c
+expressmatch\76_leissi	+ = B C \cos a b c
+expressmatch\76_leo	+ = B C \cos a b c
+expressmatch\76_maira	+ = B C \cos a b c
+expressmatch\76_miguel	+ = B C \cos a b c
+expressmatch\76_Nina	+ = B C \cos a b c
+expressmatch\76_rosario	+ = B C \cos a b c
+expressmatch\76_user0	+ = B C \cos a b c
+expressmatch\79_alfonso	+ - 2 = A \cos \sqrt a b p
+expressmatch\79_bruno	+ - 2 = A \cos \sqrt a b p
+expressmatch\79_carlos	+ - 2 = A \cos \sqrt a b p
+expressmatch\79_caue	+ - 2 = A \cos \sqrt a b p
+expressmatch\79_daniel	+ - 2 = A \cos \sqrt a b p
+expressmatch\79_david	+ - 2 = A \cos \sqrt a b p
+expressmatch\79_edwin	+ - 2 = A \cos \sqrt a b p
+expressmatch\79_Fabricio	+ - 2 = A \cos \sqrt a b p
+expressmatch\79_Frank	+ - 2 = A \cos \sqrt a b p
+expressmatch\79_fujita	+ - 2 = A \cos \sqrt a b p
+expressmatch\79_herbert	+ - 2 = A \cos \sqrt a b p
+expressmatch\79_hirata	+ - 2 = A \cos \sqrt a b p
+expressmatch\79_jorge	+ - 2 = A \cos \sqrt a b p
+expressmatch\79_leissi	+ - 2 = A \cos \sqrt a b p
+expressmatch\79_leo	+ - 2 = A \cos \sqrt a b p
+expressmatch\79_lucelia	+ - 2 = A \cos \sqrt a b p
+expressmatch\79_maira	+ - 2 = A \cos \sqrt a b p
+expressmatch\79_miguel	+ - 2 = A \cos \sqrt a b p
+expressmatch\79_Nina	+ - 2 = A \cos \sqrt a b p
+expressmatch\79_rosario	+ - 2 = A \cos \sqrt a b p
+expressmatch\79_silas	+ - 2 = A \cos \sqrt a b p
+expressmatch\79_user0	+ - 2 = A \cos \sqrt a b p
+expressmatch\80_alfonso	( ) + - 1 2 = R m r
+expressmatch\80_carlos	( ) + - 1 2 = R m r
+expressmatch\80_caue	( ) + - 1 2 = R m r
+expressmatch\80_daniel	( ) + - 1 2 = R m r
+expressmatch\80_david	( ) + - 1 2 = R m r
+expressmatch\80_edwin	( ) + - 1 2 = R m r
+expressmatch\80_Fabricio	( ) + - 1 2 = R m r
+expressmatch\80_Frank	( ) + - 1 2 = R m r
+expressmatch\80_hirata	( ) + - 1 2 = R m r
+expressmatch\80_jorge	( ) + - 1 2 = R m r
+expressmatch\80_leissi	( ) + - 1 2 = R m r
+expressmatch\80_leo	( ) + - 1 2 = R m r
+expressmatch\80_miguel	( ) + - 1 2 = R m r
+expressmatch\80_Nina	( ) + - 1 2 = R m r
+expressmatch\80_rosario	( ) + - 1 2 = R m r
+expressmatch\80_user0	( ) + - 1 2 = R m r
+expressmatch\81_alfonso	+ - 2 4 = A R \sqrt k
+expressmatch\81_carlos	+ - 2 4 = A R \sqrt k
+expressmatch\81_caue	+ - 2 4 = A R \sqrt k
+expressmatch\81_daniel	+ - 2 4 = A R \sqrt k
+expressmatch\81_danilo	+ - 2 4 = A R \sqrt k
+expressmatch\81_david	+ - 2 4 = A R \sqrt k
+expressmatch\81_edwin	+ - 2 4 = A R \sqrt k
+expressmatch\81_Fabricio	+ - 2 4 = A R \sqrt k
+expressmatch\81_Frank	+ - 2 4 = A R \sqrt k
+expressmatch\81_herbert	+ - 2 4 = A R \sqrt k
+expressmatch\81_hirata	+ - 2 4 = A R \sqrt k
+expressmatch\81_jorge	+ - 2 4 = A R \sqrt k
+expressmatch\81_leissi	+ - 2 4 = A R \sqrt k
+expressmatch\81_leo	+ - 2 4 = A R \sqrt k
+expressmatch\81_miguel	+ - 2 4 = A R \sqrt k
+expressmatch\81_mijail	+ - 2 4 = A R \sqrt k
+expressmatch\81_Nina	+ - 2 4 = A R \sqrt k
+expressmatch\81_rosario	+ - 2 4 = A R \sqrt k
+expressmatch\81_silas	+ - 2 4 = A R \sqrt k
+expressmatch\81_user0	+ - 2 4 = A R \sqrt k
+expressmatch\82_alfonso	( ) + - 1 2 = A B C \sqrt q
+expressmatch\82_bruno	( ) + - 1 2 = A B C \sqrt q
+expressmatch\82_carlos	( ) + - 1 2 = A B C \sqrt q
+expressmatch\82_caue	( ) + - 1 2 = A B C \sqrt q
+expressmatch\82_daniel	( ) + - 1 2 = A B C \sqrt q
+expressmatch\82_david	( ) + - 1 2 = A B C \sqrt q
+expressmatch\82_edwin	( ) + - 1 2 = A B C \sqrt q
+expressmatch\82_Fabricio	( ) + - 1 2 = A B C \sqrt q
+expressmatch\82_Frank	( ) + - 1 2 = A B C \sqrt q
+expressmatch\82_herbert	( ) + - 1 2 = A B C \sqrt q
+expressmatch\82_hirata	( ) + - 1 2 = A B C \sqrt q
+expressmatch\82_jorge	( ) + - 1 2 = A B C \sqrt q
+expressmatch\82_leissi	( ) + - 1 2 = A B C \sqrt q
+expressmatch\82_leo	( ) + - 1 2 = A B C \sqrt q
+expressmatch\82_miguel	( ) + - 1 2 = A B C \sqrt q
+expressmatch\82_Nina	( ) + - 1 2 = A B C \sqrt q
+expressmatch\82_rosario	( ) + - 1 2 = A B C \sqrt q
+expressmatch\82_user0	( ) + - 1 2 = A B C \sqrt q
+expressmatch\85_alfonso	( ) + , - 1 2 a b t
+expressmatch\85_carlos	( ) + , - 1 2 a b t
+expressmatch\85_david	( ) + , - 1 2 a b t
+expressmatch\85_edwin	( ) + , - 1 2 a b t
+expressmatch\85_Fabricio	( ) + , - 1 2 a b t
+expressmatch\85_Frank	( ) + , - 1 2 a b t
+expressmatch\85_fujita	( ) + , - 1 2 a b t
+expressmatch\85_herbert	( ) + , - 1 2 a b t
+expressmatch\85_jorge	( ) + , - 1 2 a b t
+expressmatch\85_leissi	( ) + , - 1 2 a b t
+expressmatch\85_leo	( ) + , - 1 2 a b t
+expressmatch\85_maira	( ) + , - 1 2 a b t
+expressmatch\85_miguel	( ) + , - 1 2 a b t
+expressmatch\85_Nina	( ) + , - 1 2 a b t
+expressmatch\85_rosario	( ) + , - 1 2 a b t
+expressmatch\85_user0	( ) + , - 1 2 a b t
+expressmatch\89_alfonso	+ = \cos \prime \sin \theta x y
+expressmatch\89_bruno	+ = \cos \prime \sin \theta x y
+expressmatch\89_carlos	+ = \cos \prime \sin \theta x y
+expressmatch\89_caue	+ = \cos \prime \sin \theta x y
+expressmatch\89_daniel	+ = \cos \prime \sin \theta x y
+expressmatch\89_danilo	+ = \cos \prime \sin \theta x y
+expressmatch\89_david	+ = \cos \prime \sin \theta x y
+expressmatch\89_edwin	+ = \cos \prime \sin \theta x y
+expressmatch\89_Fabricio	+ = \cos \prime \sin \theta x y
+expressmatch\89_Frank	+ = \cos \prime \sin \theta x y
+expressmatch\89_herbert	+ = \cos \prime \sin \theta x y
+expressmatch\89_hirata	+ = \cos \prime \sin \theta x y
+expressmatch\89_jorge	+ = \cos \prime \sin \theta x y
+expressmatch\89_leissi	+ = \cos \prime \sin \theta x y
+expressmatch\89_leo	+ = \cos \prime \sin \theta x y
+expressmatch\89_miguel	+ = \cos \prime \sin \theta x y
+expressmatch\89_Nina	+ = \cos \prime \sin \theta x y
+expressmatch\89_rosario	+ = \cos \prime \sin \theta x y
+expressmatch\89_user0	+ = \cos \prime \sin \theta x y
+expressmatch\90_alfonso	= \sin \theta r y
+expressmatch\90_carlos	= \sin \theta r y
+expressmatch\90_caue	= \sin \theta r y
+expressmatch\90_daniel	= \sin \theta r y
+expressmatch\90_david	= \sin \theta r y
+expressmatch\90_edwin	= \sin \theta r y
+expressmatch\90_Fabricio	= \sin \theta r y
+expressmatch\90_Frank	= \sin \theta r y
+expressmatch\90_herbert	= \sin \theta r y
+expressmatch\90_jorge	= \sin \theta r y
+expressmatch\90_leissi	= \sin \theta r y
+expressmatch\90_leo	= \sin \theta r y
+expressmatch\90_lucelia	= \sin \theta r y
+expressmatch\90_miguel	= \sin \theta r y
+expressmatch\90_mijail	= \sin \theta r y
+expressmatch\90_Nina	= \sin \theta r y
+expressmatch\90_rosario	= \sin \theta r y
+expressmatch\90_user0	= \sin \theta r y
+expressmatch\91_alfonso	+ - 2 = \sin \sqrt \theta x y
+expressmatch\91_carlos	+ - 2 = \sin \sqrt \theta x y
+expressmatch\91_caue	+ - 2 = \sin \sqrt \theta x y
+expressmatch\91_daniel	+ - 2 = \sin \sqrt \theta x y
+expressmatch\91_david	+ - 2 = \sin \sqrt \theta x y
+expressmatch\91_edwin	+ - 2 = \sin \sqrt \theta x y
+expressmatch\91_Fabricio	+ - 2 = \sin \sqrt \theta x y
+expressmatch\91_Frank	+ - 2 = \sin \sqrt \theta x y
+expressmatch\91_fujita	+ - 2 = \sin \sqrt \theta x y
+expressmatch\91_jorge	+ - 2 = \sin \sqrt \theta x y
+expressmatch\91_leissi	+ - 2 = \sin \sqrt \theta x y
+expressmatch\91_leo	+ - 2 = \sin \sqrt \theta x y
+expressmatch\91_miguel	+ - 2 = \sin \sqrt \theta x y
+expressmatch\91_Nina	+ - 2 = \sin \sqrt \theta x y
+expressmatch\91_rosario	+ - 2 = \sin \sqrt \theta x y
+expressmatch\91_user0	+ - 2 = \sin \sqrt \theta x y
+expressmatch\92_alfonso	( ) + - = \prime \sin \theta w x y
+expressmatch\92_carlos	( ) + - = \prime \sin \theta w x y
+expressmatch\92_caue	( ) + - = \prime \sin \theta w x y
+expressmatch\92_david	( ) + - = \prime \sin \theta w x y
+expressmatch\92_edwin	( ) + - = \prime \sin \theta w x y
+expressmatch\92_Frank	( ) + - = \prime \sin \theta w x y
+expressmatch\92_herbert	( ) + - = \prime \sin \theta w x y
+expressmatch\92_jorge	( ) + - = \prime \sin \theta w x y
+expressmatch\92_leissi	( ) + - = \prime \sin \theta w x y
+expressmatch\92_leo	( ) + - = \prime \sin \theta w x y
+expressmatch\92_lucelia	( ) + - = \prime \sin \theta w x y
+expressmatch\92_miguel	( ) + - = \prime \sin \theta w x y
+expressmatch\92_Nina	( ) + - = \prime \sin \theta w x y
+expressmatch\92_rosario	( ) + - = \prime \sin \theta w x y
+expressmatch\92_user0	( ) + - = \prime \sin \theta w x y
+expressmatch\93_alfonso	( ) - 0 1 = \sin \theta r
+expressmatch\93_carlos	( ) - 0 1 = \sin \theta r
+expressmatch\93_caue	( ) - 0 1 = \sin \theta r
+expressmatch\93_daniel	( ) - 0 1 = \sin \theta r
+expressmatch\93_david	( ) - 0 1 = \sin \theta r
+expressmatch\93_edwin	( ) - 0 1 = \sin \theta r
+expressmatch\93_Fabricio	( ) - 0 1 = \sin \theta r
+expressmatch\93_Frank	( ) - 0 1 = \sin \theta r
+expressmatch\93_herbert	( ) - 0 1 = \sin \theta r
+expressmatch\93_leissi	( ) - 0 1 = \sin \theta r
+expressmatch\93_leo	( ) - 0 1 = \sin \theta r
+expressmatch\93_miguel	( ) - 0 1 = \sin \theta r
+expressmatch\93_Nina	( ) - 0 1 = \sin \theta r
+expressmatch\93_rosario	( ) - 0 1 = \sin \theta r
+expressmatch\93_user0	( ) - 0 1 = \sin \theta r
+expressmatch\94_alfonso	- = A B C \sin a b c
+expressmatch\94_bruno	- = A B C \sin a b c
+expressmatch\94_carlos	- = A B C \sin a b c
+expressmatch\94_caue	- = A B C \sin a b c
+expressmatch\94_danilo	- = A B C \sin a b c
+expressmatch\94_david	- = A B C \sin a b c
+expressmatch\94_edwin	- = A B C \sin a b c
+expressmatch\94_Fabricio	- = A B C \sin a b c
+expressmatch\94_Frank	- = A B C \sin a b c
+expressmatch\94_fujita	- = A B C \sin a b c
+expressmatch\94_herbert	- = A B C \sin a b c
+expressmatch\94_jorge	- = A B C \sin a b c
+expressmatch\94_leissi	- = A B C \sin a b c
+expressmatch\94_leo	- = A B C \sin a b c
+expressmatch\94_miguel	- = A B C \sin a b c
+expressmatch\94_Nina	- = A B C \sin a b c
+expressmatch\94_rosario	- = A B C \sin a b c
+expressmatch\94_user0	- = A B C \sin a b c
+expressmatch\95_alfonso	= A B \cos \sin b c
+expressmatch\95_carlos	= A B \cos \sin b c
+expressmatch\95_caue	= A B \cos \sin b c
+expressmatch\95_david	= A B \cos \sin b c
+expressmatch\95_edwin	= A B \cos \sin b c
+expressmatch\95_Fabricio	= A B \cos \sin b c
+expressmatch\95_Frank	= A B \cos \sin b c
+expressmatch\95_herbert	= A B \cos \sin b c
+expressmatch\95_jorge	= A B \cos \sin b c
+expressmatch\95_leissi	= A B \cos \sin b c
+expressmatch\95_leo	= A B \cos \sin b c
+expressmatch\95_miguel	= A B \cos \sin b c
+expressmatch\95_Nina	= A B \cos \sin b c
+expressmatch\95_rosario	= A B \cos \sin b c
+expressmatch\95_user0	= A B \cos \sin b c
+expressmatch\96_alfonso	( ) - 0 1 2 = S \int \pi \sin a d s t y
+expressmatch\96_bruno	( ) - 0 1 2 = S \int \pi \sin a d s t y
+expressmatch\96_carlos	( ) - 0 1 2 = S \int \pi \sin a d s t y
+expressmatch\96_caue	( ) - 0 1 2 = S \int \pi \sin a d s t y
+expressmatch\96_david	( ) - 0 1 2 = S \int \pi \sin a d s t y
+expressmatch\96_edwin	( ) - 0 1 2 = S \int \pi \sin a d s t y
+expressmatch\96_Fabricio	( ) - 0 1 2 = S \int \pi \sin a d s t y
+expressmatch\96_Frank	( ) - 0 1 2 = S \int \pi \sin a d s t y
+expressmatch\96_leissi	( ) - 0 1 2 = S \int \pi \sin a d s t y
+expressmatch\96_leo	( ) - 0 1 2 = S \int \pi \sin a d s t y
+expressmatch\96_miguel	( ) - 0 1 2 = S \int \pi \sin a d s t y
+expressmatch\96_mijail	( ) - 0 1 2 = S \int \pi \sin a d s t y
+expressmatch\96_Nina	( ) - 0 1 2 = S \int \pi \sin a d s t y
+expressmatch\96_rosario	( ) - 0 1 2 = S \int \pi \sin a d s t y
+expressmatch\96_user0	( ) - 0 1 2 = S \int \pi \sin a d s t y
+expressmatch\98_alfonso	+ - 2 = \alpha \cos \sqrt a b c
+expressmatch\98_carlos	+ - 2 = \alpha \cos \sqrt a b c
+expressmatch\98_caue	+ - 2 = \alpha \cos \sqrt a b c
+expressmatch\98_daniel	+ - 2 = \alpha \cos \sqrt a b c
+expressmatch\98_david	+ - 2 = \alpha \cos \sqrt a b c
+expressmatch\98_edwin	+ - 2 = \alpha \cos \sqrt a b c
+expressmatch\98_Fabricio	+ - 2 = \alpha \cos \sqrt a b c
+expressmatch\98_Frank	+ - 2 = \alpha \cos \sqrt a b c
+expressmatch\98_fujita	+ - 2 = \alpha \cos \sqrt a b c
+expressmatch\98_herbert	+ - 2 = \alpha \cos \sqrt a b c
+expressmatch\98_jorge	+ - 2 = \alpha \cos \sqrt a b c
+expressmatch\98_leissi	+ - 2 = \alpha \cos \sqrt a b c
+expressmatch\98_leo	+ - 2 = \alpha \cos \sqrt a b c
+expressmatch\98_maira	+ - 2 = \alpha \cos \sqrt a b c
+expressmatch\98_miguel	+ - 2 = \alpha \cos \sqrt a b c
+expressmatch\98_Nina	+ - 2 = \alpha \cos \sqrt a b c
+expressmatch\98_rosario	+ - 2 = \alpha \cos \sqrt a b c
+expressmatch\98_silas	+ - 2 = \alpha \cos \sqrt a b c
+expressmatch\98_user0	+ - 2 = \alpha \cos \sqrt a b c
