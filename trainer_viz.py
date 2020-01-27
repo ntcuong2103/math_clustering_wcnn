@@ -11,15 +11,17 @@ from keras.callbacks import EarlyStopping, ModelCheckpoint, CSVLogger
 from datetime import datetime
 from CNN_multiscale_3lvl_2ft_pretrain_diag_viz_multiloss import buildVisualizeModel2 as buildModel
 from CNN_multiscale_3lvl_2ft_pretrain_diag_viz_multiloss import buildVisualizeModelAll2 as buildModel
-from CNN_multiscale_3lvl_2ft_pretrain_diag_viz_multiloss import buildSpatialFeatureModel as buildModel
+# from CNN_multiscale_3lvl_2ft_pretrain_diag_viz_multiloss import buildSpatialFeatureModel as buildModel
 
 from prepare_data_synthesis import prepare_data_train, prepare_data_valid, prepare_data_test
-from prepare_data_synthesis import prepare_data_train_cross, prepare_data_valid_cross, prepare_data_test_cross
+# from prepare_data_synthesis import prepare_data_train_cross, prepare_data_valid_cross, prepare_data_test_cross
 
-MODEL_PATH = './models/'
-LOG_PATH = './logs/'
+from config import CONFIGURATION, DATASET
 
-os.environ['CUDA_VISIBLE_DEVICES'] = '1'
+MODEL_PATH = CONFIGURATION["MODEL_PATH"]
+LOG_PATH = CONFIGURATION["LOG_PATH"]
+
+os.environ['CUDA_VISIBLE_DEVICES'] = CONFIGURATION["CUDA_DEVICE"]
 
 def gpu_config():
     from keras.backend.tensorflow_backend import set_session
@@ -123,7 +125,7 @@ def visualize_all(image, out_image, sorted_index, vocab):
 
         cv2.waitKey()
 
-def visualize(prefix, image, out_image, sorted_index, vocab):
+def visualize(prefix, image, out_image, sorted_index, vocab, visualize_class = False):
     heatmap = get_heatmap(np.max(out_image, axis=2), (image.shape[1], image.shape[0]))
 
     input_img = image
@@ -143,6 +145,8 @@ def visualize(prefix, image, out_image, sorted_index, vocab):
     heatmap_fn = os.path.join(out_image_path, prefix + '.png')
     cv2.imwrite(heatmap_fn, heatmap)
 
+    if not visualize_class:
+        return
     # heat map
     for class_id in sorted_index:
         print(vocab[class_id])
@@ -160,11 +164,9 @@ def visualize(prefix, image, out_image, sorted_index, vocab):
 
 
 if __name__ == '__main__':
-
-    initial_epoch = 137 # Khuong 73  #Sasaki4 76 #Sasaki3 76 #Sasaki2 78 #Sasaki1 78 #Sasaki0 76 #CROHME: 67 # attn 69
-    # 311 # 320
-    mini_batch_size = 1 # 30
-    train = False
+    initial_epoch = CONFIGURATION["INITIAL_EPOCH"]
+    mini_batch_size = CONFIGURATION["BATCH_SIZE"] #5 # 30
+    train = CONFIGURATION["IS_TRAINED"]
 
     cross_idx = 4
 
@@ -172,26 +174,18 @@ if __name__ == '__main__':
     cnn = CNN_build_model()
 
     # load weights
-    load_prefix = cnn.model.name + '_CROHME_fine_phoclvl1'
-    # load_prefix = cnn.model.name + '_CROHME_pretrain_phoclvl1'
-    load_prefix = cnn.model.name + '_CROHME_phoclvl1'
-    load_prefix = cnn.model.name + '_CROHME_pretrain_finetune'
-    load_prefix = cnn.model.name + '_CROHME_2019'
-    # load_prefix = cnn.model.name + '_CROHME_2016_Khuong_{}'.format(cross_idx)
-    # load_prefix = cnn.model.name + '_CROHME_2016_Sasaki_{}'.format(cross_idx)
+    load_prefix = CONFIGURATION["MODEL_NAME"] + '_CROHME_' + DATASET
 
     if initial_epoch > 0:
         cnn.model.load_weights(MODEL_PATH + load_prefix + '.ep{:03d}.h5'.format(initial_epoch), by_name=True)
-        print ('Model loaded')
+        print ('Model loaded:{}'.format(MODEL_PATH + load_prefix + '.ep{:03d}.h5'.format(initial_epoch)))
 
     ## training
     if train:
         pass
     ## evaluation
     else:
-        mini_batch_size = 1
-
-        train_gen, train_len = prepare_data_train(batch_size=mini_batch_size)
+        # train_gen, train_len = prepare_data_train(batch_size=mini_batch_size)
         test_gen, test_len, test_data = prepare_data_test(batch_size=mini_batch_size)
         # print(test_data[:10])
 
@@ -201,22 +195,22 @@ if __name__ == '__main__':
 
         # ---------------------------- feature extraction
 
-        output_path = 'clustering_experiment/crohme2019/attn_new'
-        os.makedirs(output_path, exist_ok=True)
-
-        size_file, file, _ = list(zip(*test_data))
-
-        with open(os.path.join(output_path, "testdata_file_list.txt"), 'w') as f:
-            f.write('\n'.join(file))
-
-        predict = cnn.model.predict_generator(test_gen, test_steps, verbose=1)
-        print (predict.shape)
-        np.savetxt(os.path.join(output_path, "predict.csv"), predict, delimiter=",")
-
-        # target = np.concatenate([label for _, label in test_gen], axis=0)
-        # print (target.shape)
-        # np.savetxt(os.path.join(output_path, "target.csv"), target, delimiter=",")
-        exit(0)
+        # output_path = 'clustering_experiment/khuong_dmix/attn'
+        # os.makedirs(output_path, exist_ok=True)
+        #
+        # size_file, file, _ = list(zip(*test_data))
+        #
+        # with open(os.path.join(output_path, "testdata_file_list.txt"), 'w') as f:
+        #     f.write('\n'.join(file))
+        #
+        # predict = cnn.model.predict_generator(test_gen, test_steps, verbose=1)
+        # print (predict.shape)
+        # np.savetxt(os.path.join(output_path, "predict.csv"), predict, delimiter=",")
+        #
+        # # target = np.concatenate([label for _, label in test_gen], axis=0)
+        # # print (target.shape)
+        # # np.savetxt(os.path.join(output_path, "target.csv"), target, delimiter=",")
+        # exit(0)
 
 
         # ---------------------------- testing
@@ -224,31 +218,31 @@ if __name__ == '__main__':
 
         # ---------------------------- visualize
 
-        # vocab_path = 'vocab_syms.txt'
-        # vocab = [line.strip() for line in open(vocab_path).readlines()]
-        #
-        # labels = []
-        # index = 0
-        # for images, labels in test_gen:
-        #     # print(label[0])
-        #     # cv2.imshow('input_img', np.squeeze(image, axis=0))
-        #     # cv2.imwrite('input_img.png', np.squeeze(image, axis=0))
-        #     out_images_multi = cnn.model.predict(images)
-        #
-        #     for lvl, out_images in enumerate(out_images_multi):
-        #         # print(out_image[0].shape)
-        #         index_in = index
-        #         for image, out_image, label in zip(images, out_images, labels):
-        #             print(image.shape, out_image.shape)
-        #             # out_image = np.squeeze(out_image, axis=0)
-        #             sorted_index = np.argsort(label)[::-1][:12]
-        #             print(sorted_index)
-        #             prefix = os.path.basename(test_data[index_in][1]).split('.')[0]
-        #
-        #             visualize(prefix + '_l{}'.format(lvl), image, out_image, sorted_index, vocab)
-        #             index_in += 1
-        #
-        #     index = index_in
+        vocab_path = 'vocab_syms.txt'
+        vocab = [line.strip() for line in open(vocab_path).readlines()]
+
+        labels = []
+        index = 0
+        for images, labels in test_gen:
+            # print(label[0])
+            # cv2.imshow('input_img', np.squeeze(image, axis=0))
+            # cv2.imwrite('input_img.png', np.squeeze(image, axis=0))
+            out_images_multi = cnn.model.predict(images)
+
+            for lvl, out_images in enumerate(out_images_multi):
+                # print(out_image[0].shape)
+                index_in = index
+                for image, out_image, label in zip(images, out_images, labels):
+                    print('image.shape, out_image.shape: ', image.shape, out_image.shape)
+                    # out_image = np.squeeze(out_image, axis=0)
+                    sorted_index = np.argsort(label)[::-1][:12]
+                    print(sorted_index)
+                    prefix = os.path.basename(test_data[index_in][1]).split('.')[0]
+
+                    visualize(prefix + '_l{}'.format(lvl), image, out_image, sorted_index, vocab)
+                    index_in += 1
+
+            index = index_in
 
         # ---------------------------- classification check
 

@@ -4,123 +4,53 @@
 """
 import os
 import cv2
-import numpy as np
-import tensorflow as tf
 from keras.optimizers import Adam, SGD
-from keras import backend as K
 from keras.callbacks import EarlyStopping, ModelCheckpoint, CSVLogger
 from keras.applications.imagenet_utils import preprocess_input
 from keras.utils import multi_gpu_model
 
 from datetime import datetime
-from CNN_multiscale_3lvl_2ft_pretrain_diag_viz_multiloss import buildVisualizeModel2 as buildModel
-from CNN_multiscale_3lvl_2ft_pretrain_diag_viz_multiloss import buildLocalAttentiveModel as buildModel
-
+# from CNN_multiscale_3lvl_2ft_pretrain_diag_viz_multiloss import buildLocalAttentiveModel as buildModel
+from CNN_multiscale_3lvl_2ft_pretrain_diag_viz_multiloss import buildSpatialFeatureModel as buildModel
 from prepare_data_synthesis import prepare_data_train, prepare_data_valid, prepare_data_test
-from prepare_data_synthesis import prepare_data_train_cross, prepare_data_valid_cross, prepare_data_test_cross
+# from prepare_data_synthesis import prepare_data_train_cross, prepare_data_valid_cross
 
-MODEL_PATH = './models/'
-LOG_PATH = './logs/'
+from metrics import *
+from losses import *
+from config import CONFIGURATION, DATASET
 
+MODEL_PATH = CONFIGURATION["MODEL_PATH"]
+LOG_PATH = CONFIGURATION["LOG_PATH"]
 
-# train_data_file = './data_v/npz/img-PHOC_CROHME_train_lv1_nopad.npz'
-# test_data_file = './data_v/npz/img-PHOC_CROHME_test_lv1_nopad.npz'
+os.environ['CUDA_VISIBLE_DEVICES'] = CONFIGURATION["CUDA_DEVICE"]
 
-os.environ['CUDA_VISIBLE_DEVICES'] = '1'
-
-from keras.backend.tensorflow_backend import set_session
-config = tf.ConfigProto()
-config.gpu_options.allow_growth = True  # dynamically grow the memory used on the GPU
-sess = tf.Session(config=config)
-set_session(sess)  # set this TensorFlow session as the default session for Keras
-
-
-def recall(y_true, y_pred):
-    a = y_true >= 0.5
-    b = y_pred >= 0.5
-    a = K.cast(a, K.floatx())
-    b = K.cast(b, K.floatx())
-    c = a * b
-    return K.sum(c) / K.sum(a)
-
-# def recall_diag(y_true, y_pred):
-#     a = y_true >= 0.5
-#     b = y_pred >= 0.5
-#     a = K.cast(a, K.floatx())
-#     b = K.cast(b, K.floatx())
-#     c = a * b
-#     return K.sum(c) / K.sum(a)
-
-def precision(y_true, y_pred):
-    a = y_true >= 0.5
-    b = y_pred >= 0.5
-    a = K.cast(a, K.floatx())
-    b = K.cast(b, K.floatx())
-    c = a * b
-    return K.sum(c) / (K.sum(b) + 0.0001)
-
-def fmeasure(y_true, y_pred):
-    r = recall(y_true, y_pred)
-    p = precision(y_true, y_pred)
-
-    f = 2.0 * r * p / (r + p + 0.0001)
-    return f
-
-def precision_diag(y_true, y_pred):
-    a = y_true >= 0.5
-    b = y_pred >= 0.5
-    a = K.cast(a, K.floatx())
-    b = K.cast(b, K.floatx())
-    mask = tf.expand_dims(tf.reduce_max(y_true, axis=-1), -1)
-
-    c = a * b
-    return K.sum(c) / (K.sum(b * mask) + 0.01)
-
-def recall_np(y_true, y_pred):
-    a = np.array(y_true >= 0.5).astype(float)
-    b = np.array(y_pred >= 0.5).astype(float)
-
-    c = a * b
-    return np.sum(c) / np.sum(a)
-
-def precision_np(y_true, y_pred):
-    a = np.array(y_true >= 0.5).astype(float)
-    b = np.array(y_pred >= 0.5).astype(float)
-
-    c = a * b
-    return np.sum(c) / (np.sum(b) + 1.0)
-
-def binary_entropy_drop(y_true, y_pred):
-    drop_rate = 0.0
-
-    return K.sum(K.dropout(K.binary_crossentropy(y_true, y_pred), drop_rate), axis=-1) #/ (1 - drop_rate + K.epsilon())
-
-def binary_entropy_class_drop(y_true, y_pred):
-    drop_rate = 0.0
-    # mask_loss = tf.stack(tf.reduce_max(y_true, axis=-1) * y_true.shape[-1], axis=-1)
-    mask_loss = tf.expand_dims(tf.reduce_max(y_true, axis=-1), -1)
-    return K.sum(K.mean(mask_loss * K.binary_crossentropy(y_true, y_pred), axis=-1), axis=-1) #/ (1 - drop_rate + K.epsilon())
+def gpu_config():
+    from keras.backend.tensorflow_backend import set_session
+    config = tf.ConfigProto()
+    config.gpu_options.allow_growth = True  # dynamically grow the memory used on the GPU
+    sess = tf.Session(config=config)
+    set_session(sess)  # set this TensorFlow session as the default session for Keras
 
 class CNN_build_model():
 
     def __init__(self):
         # パラメータの設定
-        self.num_epoch = 400
-        channels = 1
-        # n_out = 97
-        n_out = 101
+        self.num_epoch = CONFIGURATION["NUM_EPOCH"]
+        channels = CONFIGURATION["NUM_CHANNEL"]
+        n_out = CONFIGURATION["NUM_OUT"]
 
         self.model = buildModel(input_shape=[None, None, channels], n_out=n_out)
         self.model.summary()
 
-        # self.model = multi_gpu_model(model=self.model)
+        if CONFIGURATION["IS_MULTI_GPU"]:
+            self.model = multi_gpu_model(model=self.model)
 
-        self.model.compile(loss=binary_entropy_drop, optimizer=Adam(lr=0.001),
+        self.model.compile(loss=binary_entropy_drop, optimizer=Adam(lr=CONFIGURATION["LRATE"]),
                            metrics=[recall, precision, fmeasure])
 
     # 形式に合わせて学習する
     def fit(self, features, likelihoods, batch_size = 1, initial_epoch=0):
-        save_prefix = self.model.name + '_CROHME_small_phoclvl1'
+        save_prefix = self.model.name + '_CROHME_' + DATASET + '_small_phoclvl1'
 
         callbacks = [EarlyStopping('val_recall', patience=50, mode='max'),
                      ModelCheckpoint(filepath=MODEL_PATH + save_prefix + '.ep{epoch:03d}.h5',
@@ -129,13 +59,13 @@ class CNN_build_model():
                      CSVLogger(LOG_PATH + save_prefix + "@" + datetime.now().strftime('%Y.%m.%d-%H.%M.%S') + '.csv')]
         return self.model.fit(features, likelihoods, validation_split=0.1, epochs=self.num_epoch,
                               batch_size=batch_size, callbacks=callbacks,
-                              verbose=2, initial_epoch=initial_epoch)
+                              verbose=1, initial_epoch=initial_epoch)
 
     def fit_generator(self, train_generator, steps_per_epoch, validation_generator,
                       validation_steps, initial_epoch=0):
-        save_prefix = self.model.name + '_CROHME_2016'
+        save_prefix = self.model.name + '_CROHME_' + DATASET
 
-        callbacks = [EarlyStopping('val_fmeasure', patience=200, mode='max'),
+        callbacks = [EarlyStopping('val_fmeasure', patience=20, mode='max'),
                      ModelCheckpoint(filepath=MODEL_PATH + save_prefix + '.ep{epoch:03d}.h5',
                                      monitor='val_fmeasure',
                                      save_weights_only=True,
@@ -146,20 +76,8 @@ class CNN_build_model():
                                         verbose=1, callbacks=callbacks, validation_data=validation_generator,
                                         validation_steps=validation_steps, max_queue_size=1, shuffle=False, initial_epoch=initial_epoch)
 
-
-    def save_weights(self):
-        self.model.save_weights('PHOC_train.h5')
-
-    # 重さを初期化する関数
-    def weight_variable(self, shape):
-        return K.truncated_normal(shape, stddev=0.01)
-
-    # 検証用
-    def predict_proba(self, samples):
-        return self.model.predict(samples, batch_size=self.mini_batch_size)
-
     def evaluate(self, features, likelihoods):
-        return self.model.evaluate(features, likelihoods, batch_size=self.mini_batch_size, verbose=2)
+        return self.model.evaluate(features, likelihoods, batch_size=1, verbose=2)
 
     def evaluate_generator(self, test_generator, test_steps):
         return self.model.evaluate_generator(generator=test_generator, steps=test_steps, verbose=1)
@@ -281,8 +199,6 @@ def visualize(image, out_image, sorted_index, vocab):
     cv2.imshow('heat map all', heatmap)
     cv2.imwrite('heatmap_all.png', heatmap)
 
-    # cv2.waitKey()
-
     # heat map
     for class_id in sorted_index:
         print(vocab[class_id])
@@ -303,34 +219,27 @@ def visualize(image, out_image, sorted_index, vocab):
 
 if __name__ == '__main__':
 
-    initial_epoch = 0 # Khuong 73  #Sasaki4 76 #Sasaki3 76 #Sasaki2 78 #Sasaki1 78 #Sasaki0 76 #CROHME: 67 # attn 69
-    # 311 # 320
-    mini_batch_size = 1 # 1 # 30
-    train = True
+    initial_epoch = CONFIGURATION["INITIAL_EPOCH"]
+    mini_batch_size = CONFIGURATION["BATCH_SIZE"] #5 # 30
+    train = CONFIGURATION["IS_TRAINED"]
 
     cross_idx = 4
 
-    # prepare and save data
-    # prepare_data()
-
-    # load training data
-
+    gpu_config()
     cnn = CNN_build_model()
 
     # load weights
-    load_prefix = cnn.model.name + '_CROHME_fine_phoclvl1'
+    # load_prefix = cnn.model.name + '_CROHME_fine_phoclvl1'
     # load_prefix = cnn.model.name + '_CROHME_pretrain_phoclvl1'
-    load_prefix = cnn.model.name + '_CROHME_phoclvl1'
-    load_prefix = cnn.model.name + '_CROHME_pretrain_finetune'
-    load_prefix = cnn.model.name + '_CROHME_2016'
-    # load_prefix = cnn.model.name + '_CROHME_2016_Khuong_{}'.format(cross_idx)
-    # load_prefix = cnn.model.name + '_CROHME_2016_Sasaki_{}'.format(cross_idx)
-
+    # load_prefix = cnn.model.name + '_CROHME_phoclvl1'
+    # load_prefix = cnn.model.name + '_CROHME_pretrain_finetune'
+    # load_prefix = cnn.model.name + '_CROHME_pretrain_finetune'
+    load_prefix = cnn.model.name + '_CROHME_' + DATASET
 
 
     if initial_epoch > 0:
         cnn.model.load_weights(MODEL_PATH + load_prefix + '.ep{:03d}.h5'.format(initial_epoch), by_name=True)
-        print ('Model loaded')
+        print ('Model loaded:{}'.format(MODEL_PATH + load_prefix + '.ep{:03d}.h5'.format(initial_epoch)))
         # cnn.model.save_weights(MODEL_PATH + load_prefix + '.ep{:03d}.h5'.format(initial_epoch))
         # print ('Model saved')
 
@@ -341,10 +250,8 @@ if __name__ == '__main__':
 
         # train_gen, train_len = prepare_data_train_cross(batch_size=mini_batch_size, cross_id=cross_idx)
         # val_gen, val_len = prepare_data_valid_cross(batch_size=mini_batch_size, cross_id=cross_idx)
-        print (train_len, val_len)
 
-        # for input, target in val_gen:
-        #     print(input.shape, target.shape)
+        print (train_len, val_len)
 
         # cnn.fit(images, labels, initial_epoch)
         cnn.fit_generator(train_generator=train_gen, steps_per_epoch=train_len//mini_batch_size, validation_generator=val_gen,
@@ -354,22 +261,26 @@ if __name__ == '__main__':
     else:
         mini_batch_size = 1
 
-        train_gen, train_len = prepare_data_train(batch_size=mini_batch_size)
         test_gen, test_len, test_data = prepare_data_test(batch_size=mini_batch_size)
-
-        # test_gen, test_len, test_data = prepare_data_test_cross(batch_size=mini_batch_size, cross_id=cross_idx)
         print (test_len)
         test_steps = test_len // mini_batch_size
 
         # ---------------------------- feature extraction
-        # size_file, file, _ = list(zip(*test_data))
-        #
+        # file = list(zip(*test_data))[1]
+        # print (file)
         # with open("testdata_file_list.txt", 'w') as f:
         #     f.write('\n'.join(file))
-        #
-        # predict = cnn.model.predict_generator(test_gen, test_steps, verbose=1)
-        # print (predict.shape)
-        # np.savetxt("predict.csv", predict, delimiter=",")
+
+        from tqdm import tqdm
+        predict = []
+        for image, _ in tqdm(test_gen, total=len(test_data)):
+            predict.append(cnn.model.predict_on_batch(image))
+
+        # predict = np.concatenate([cnn.model.predict_on_batch(image) for image, _ in test_gen], axis=0)
+        predict = np.concatenate(predict, axis=0)
+
+        print (predict.shape)
+        np.savetxt("predict{}.csv".format(cross_idx), predict, delimiter=",")
 
         # target = np.concatenate([label for _, label in test_gen], axis=0)
         # print (target.shape)
@@ -380,44 +291,18 @@ if __name__ == '__main__':
         # print (cnn.model.evaluate_generator(generator=test_gen, steps=test_steps, verbose=1))
 
         # ---------------------------- visualize
-
-        vocab_path = 'vocab_syms.txt'
-        vocab = [line.strip() for line in open(vocab_path).readlines()]
-
-        labels = []
-        index = 0
-        for image, label in train_gen:
-            print(label[0])
-
-            cv2.imshow('input_img', np.squeeze(image, axis=0))
-            cv2.imwrite('input_img.png', np.squeeze(image, axis=0))
-            out_image = cnn.model.predict(image)
-            out_image = np.squeeze(out_image, axis=0)
-            sorted_index = np.argsort(label[0])[::-1][:12]
-
-            visualize(image, out_image, sorted_index, vocab)
-
-        # ---------------------------- classification check
-
-        # vocab_path = 'vocab_syms.txt'
+        # vocab_path = CONFIGURATION["VOCAB"]
         # vocab = [line.strip() for line in open(vocab_path).readlines()]
-        #
+
         # labels = []
         # index = 0
-        # for image, label in train_gen:
-        #
-        #     cv2.imshow('input_img', np.squeeze(image, axis=0))
-        #     # print (image.shape)
-        #     # cv2.imwrite('input_img.png', np.squeeze(image, axis=0))
-        #     pred = cnn.model.predict(image)
-        #     # print(pred.shape)
-        #     # out_image = np.squeeze(out_image, axis=0)
-        #     sorted_index = np.argsort(label[0])[::-1][:12]
-        #     print('\t'.join([vocab[index] for index in sorted_index]))
-        #     print(np.round(pred[0][0][sorted_index], 1))
-        #     print(np.round(pred[1][0][sorted_index], 1))
-        #
-        #     print(label[0][sorted_index])
-        #
-        #     cv2.waitKey()
+        # for image, label in test_gen:
+        #     print(image.shape, label.shape)
 
+            # cv2.imshow('input_img', np.squeeze(image, axis=0))
+            # cv2.imwrite('input_img.png', np.squeeze(image, axis=0))
+            # out_image = cnn.model.predict(image)
+            # out_image = np.squeeze(out_image, axis=0)
+            # sorted_index = np.argsort(label[0])[::-1][:12]
+            #
+            # visualize(image, out_image, sorted_index, vocab)

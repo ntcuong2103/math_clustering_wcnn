@@ -130,4 +130,5 @@ def count_formula():
 def main():
     count_formula()
     return
-main()
+if __name__ == '__main__':
+    main()

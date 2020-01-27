@@ -260,7 +260,7 @@ def buildVisualizeModel2(input_shape, n_out):
     outputs = Maximum()([out_1, out_2, out_3])
     # outputs = out_3
 
-    model = Model(inputs, outputs, name='cnn_multiscale_3lvl_ft2_gattp_pure_gmp')
+    model = Model(inputs, outputs)
     return model
 
 def buildVisualizeModelAll(input_shape, n_out):
@@ -284,7 +284,7 @@ def buildVisualizeModelAll(input_shape, n_out):
     outputs = Concatenate(axis=2)([out_max, out_1, out_2, out_3])
     # outputs = out_3
 
-    model = Model(inputs, outputs, name='cnn_multiscale_3lvl_ft2_diag_gp_multiloss')
+    model = Model(inputs, [outputs], name='cnn_multiscale_3lvl_ft2_gattp_gmp')
     return model
 
 def buildVisualizeModelAll2(input_shape, n_out):
@@ -297,7 +297,7 @@ def buildVisualizeModelAll2(input_shape, n_out):
     out_2 = classifier(out_2)
     out_3 = classifier(out_3)
 
-    model = Model(inputs, [out_1, out_2, out_3], name='cnn_multiscale_3lvl_ft2_gattp_pure_gmp')
+    model = Model(inputs, [out_1, out_2, out_3], name='cnn_multiscale_3lvl_ft2_gattp_gmp')
     return model
 
 # Clustering features
