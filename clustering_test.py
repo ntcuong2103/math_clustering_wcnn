@@ -404,7 +404,7 @@ def clustering_Khuong(cross_idx):
 
 def clustering_DsetMix():
     test_folder = 'clustering_experiment/khuong_dmix/attn'
-    cluster_num = 10
+    # cluster_num = 10
 
     # test_set_path = test_folder + "test_set.txt"
     predict_csv_file = os.path.join(test_folder, "predict.csv")
@@ -473,12 +473,12 @@ def clustering_DsetMix():
             major = total = 0
 
             purity_file = os.path.join(test_folder,
-                                       'kmeans/purity_f{}_{}.txt'.format(f_id, cluster_num))
+                                       'kmeans/purity_f{}.txt'.format(f_id))
 
             for cluster_question in list(set(questions)):
 
                 result_file = os.path.join(test_folder,
-                                           'kmeans/{}_kmeans_f{}_{}.txt'.format(cluster_question, f_id, cluster_num))
+                                           'kmeans/{}_kmeans_f{}.txt'.format(cluster_question, f_id))
 
                 answers = []
                 for question, answ, test_file, feature in zip(questions, test_groups, test_files, predictions[f_id]):
@@ -486,9 +486,12 @@ def clustering_DsetMix():
                     if question == cluster_question:
                         answers.append((answ, test_file, feature))
 
-                print(cluster_question, len(answers))
 
                 answer_ids, files, features = list(zip(*answers))
+                cluster_num = len(list(set(answer_ids)))
+                print(cluster_question, len(answers), cluster_num)
+
+
                 # clustering answers
                 features = 1 - cosine_similarity(features)
 
