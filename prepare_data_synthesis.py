@@ -31,9 +31,9 @@ def read_image(file_name, image_shape, dilation=2):
     image = cv2.imread(file_name, 0) # gray scale
 
     # processing for Khuong data
-    image = 255 - image # inverse
-    image = cv2.copyMakeBorder(image, 10, 10, 10, 10, cv2.BORDER_CONSTANT) # padding
-    image = cv2.dilate(image, kernel = np.ones((dilation,dilation),np.uint8), iterations=3)
+    # image = 255 - image # inverse
+    # image = cv2.copyMakeBorder(image, 10, 10, 10, 10, cv2.BORDER_CONSTANT) # padding
+    # image = cv2.dilate(image, kernel = np.ones((dilation,dilation),np.uint8), iterations=2)
 
     img = cv2.resize(image, image_shape)
     img = np.array(img).astype(float)

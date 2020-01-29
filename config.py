@@ -28,7 +28,7 @@ CONFIGURATION =  {
     "VAL_DATA_PATH": './CROHME' + DATASET + '/png/valid',
     "VAL_ANNOTATION": 'crohme' + DATASET + '_valid_annotation_sym_seq.txt',
 
-    "TEST_DATA_PATH": 'D:/database/Clustering/Dset_Mix',
+    "TEST_DATA_PATH": 'D:/database/Clustering/Dset_Mix/png',
     "TEST_ANNOTATION": 'annotations/dset_mix_filelist.txt',
 
     "TRAIN_CROSS_DATA_PATH": './math_collect/sasaki/imgs',

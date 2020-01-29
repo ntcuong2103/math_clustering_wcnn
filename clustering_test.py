@@ -403,39 +403,39 @@ def clustering_Khuong(cross_idx):
 
 
 def clustering_DsetMix():
-    test_folder = "clustering_experiment/khuong_dmix/attn"
+    test_folder = 'clustering_experiment/khuong_dmix/attn'
     cluster_num = 10
 
+    # test_set_path = test_folder + "test_set.txt"
     predict_csv_file = os.path.join(test_folder, "predict.csv")
     test_filelist = os.path.join(test_folder, "testdata_file_list.txt")
 
     os.makedirs(os.path.join(test_folder, "kmeans"), exist_ok=True)
 
     test_files = [line.strip() for line in open(test_filelist).readlines()]
-    # test_groups = [line.strip().split('\\')[-1].split('_')[0] for line in open(test_filelist).readlines()]
-
-    fn_to_group = {fn:fn.split('/')[-3] for fn in test_files}
-    print(fn_to_group)
-    test_groups = [fn_to_group[fn] for fn in test_files]
-
-    # print(test_groups)
 
 
-    print ((list(set(test_groups))))
+    questions, test_groups, test_files = list(zip(*[(fn.split('/')[-3],
+                                                     fn.split('/')[-2],
+                                                     fn) for fn in test_files]))
 
-    # print (test_groups, test_files)
+    print(questions, test_groups, test_files)
+
+    print (len(questions))
+    print (list(set(test_groups)))
 
     spatial_sizes = [(1,1),(3,5),(3,7),(5,7)]
     num_classes = 101
     y_pred = np.array(np.loadtxt(predict_csv_file, delimiter=",")).astype(float)
-    print(y_pred.shape)
+    # y_pred = y_pred[:, :97]
+    # print(y_pred.shape)
 
     predictions = []
     begin = 0
     for spatial_size in spatial_sizes:
         feature_len = spatial_size[0] * spatial_size[1] * num_classes
         predictions.append(y_pred[:, begin:begin+feature_len])
-        print(begin, feature_len)
+        # print(begin, feature_len)
         begin += feature_len
 
     combine_preds = []
@@ -450,56 +450,69 @@ def clustering_DsetMix():
 
     predictions += combine_preds
 
-    # compute pairwise features
-    from sklearn.metrics.pairwise import cosine_similarity, pairwise_distances
 
-    # - From scikit-learn: ['cityblock', 'cosine', 'euclidean', 'l1', 'l2',
-    #   'manhattan']. These metrics support sparse matrix inputs.
-    #
-    # - From scipy.spatial.distance: ['braycurtis', 'canberra', 'chebyshev',
-    #   'correlation', 'dice', 'hamming', 'jaccard', 'kulsinski', 'mahalanobis',
-    #   'minkowski', 'rogerstanimoto', 'russellrao', 'seuclidean',
-    #   'sokalmichener', 'sokalsneath', 'sqeuclidean', 'yule']
-    #   See the documentation for scipy.spatial.distance for details on these
-    #   metrics. These metrics do not support sparse matrix inputs.
+    print (predictions[0].shape, predictions[-1].shape)
+
+    # cosine dissimilarity
+    from sklearn.metrics.pairwise import cosine_similarity, pairwise_distances
 
     # cosine_features = []
     # for f_id in range(len(predictions)):
-    #     # cosine_features.append(pairwise_distances(predictions[f_id], metric=hierachical_distance)) #
     #     cosine_features.append(1 - cosine_similarity(predictions[f_id]))
     # predictions = cosine_features
+    #
+    # print('finished computed features')
 
 
     purity = []
     loop = 5
+
     for _ in range(loop):
-        print ('loop')
         for f_id in range(len(predictions)):
+            print(f_id, '----------------------')
+            major = total = 0
 
-            result_file = os.path.join(test_folder, 'kmeans', 'kmeans_f{}_{}.txt'.format(f_id, cluster_num))
-            purity_file = os.path.join(test_folder, 'kmeans', 'purity_f{}_{}.txt'.format(f_id, cluster_num))
+            purity_file = os.path.join(test_folder,
+                                       'kmeans/purity_f{}_{}.txt'.format(f_id, cluster_num))
 
-            answer_ids, files, features = test_groups, test_files, predictions[f_id]
-            # clustering answers
+            for cluster_question in list(set(questions)):
 
-            features = 1 - cosine_similarity(features)
-            # C = Agg_cluster(features, cluster_num)
-            C = Kmeans_cluster(features, cluster_num)
+                result_file = os.path.join(test_folder,
+                                           'kmeans/{}_kmeans_f{}_{}.txt'.format(cluster_question, f_id, cluster_num))
 
-            # C = Kmedoids_cluster(features, cluster_num)
+                answers = []
+                for question, answ, test_file, feature in zip(questions, test_groups, test_files, predictions[f_id]):
+                    # print (question, cluster_question)
+                    if question == cluster_question:
+                        answers.append((answ, test_file, feature))
 
-            with open(result_file, 'w') as f:
-                for cluster in C.keys():
-                    for i in C[cluster]:
-                        f.writelines('{}\t{}\t{}\t{}\n'.format(cluster, answer_ids[i], i, files[i]))
+                print(cluster_question, len(answers))
 
-            major, total = calc_purity(result_file, purity_file)
+                answer_ids, files, features = list(zip(*answers))
+                # clustering answers
+                features = 1 - cosine_similarity(features)
 
-            purity.append(float(major) / total)
+                C = Kmeans_cluster(features, cluster_num)
+                # C = Agg_cluster(features, cluster_num)
+
+                with open(result_file, 'w') as f:
+                    for cluster in C.keys():
+                        for i in C[cluster]:
+                            f.writelines('{}\t{}\t{}\t{}\n'.format(cluster, answer_ids[i], i, files[i]))
+
+                _major, _total = calc_purity(result_file, purity_file)
+                major += _major
+                total += _total
+
+            # print (float(major)/total)
+            purity.append(float(major)/total)
 
     purity = np.array(purity).reshape(loop, len(predictions))
+
     print(np.average(purity, axis=0), np.var(purity, axis=0))
+
     return np.average(purity, axis=0), np.var(purity, axis=0)
+
 
 
 if __name__ == '__main__':

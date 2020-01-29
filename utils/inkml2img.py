@@ -2,8 +2,10 @@
 import cv2
 import numpy as np
 import os
+import sys
+sys.path.append('..')
 
-from prepare_data import read_strokes_inkml
+from data_utils import read_strokes_inkml
 
 def mergeList(input_list):
     merge = []
@@ -63,11 +65,11 @@ def convertFile(zip_input):
     drawImage(img_path + '\\' + get_file_tag(inkFile, data_path) + '.png', traces)
 
 def convertInkml():
-    data_path = 'D:\\database\\CROHME\\CROHME_2016\\test\\TEST2016_INKML_GT'
-    img_path = 'D:\\database\\CROHME\\CROHME_2016\\test\\png'
+    data_path = 'D:\\database\\Clustering\\Dset_Mix\\Data_inkml'
+    img_path = 'D:\\database\\Clustering\\Dset_Mix\\png'
 
     import glob
-    files = glob.glob(data_path + '\\*.inkml', recursive=True)[:]
+    files = glob.glob(data_path + '\\**\\*.inkml', recursive=True)[:]
     print (len(files))
 
     from multiprocessing import Pool
