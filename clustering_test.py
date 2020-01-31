@@ -465,6 +465,9 @@ def clustering_DsetMix():
 
 
     purity = []
+    from collections import defaultdict
+
+    purity_set = defaultdict(list)
     loop = 5
 
     for _ in range(loop):
@@ -474,6 +477,7 @@ def clustering_DsetMix():
 
             purity_file = os.path.join(test_folder,
                                        'kmeans/purity_f{}.txt'.format(f_id))
+
 
             for cluster_question in list(set(questions)):
 
@@ -504,6 +508,7 @@ def clustering_DsetMix():
                             f.writelines('{}\t{}\t{}\t{}\n'.format(cluster, answer_ids[i], i, files[i]))
 
                 _major, _total = calc_purity(result_file, purity_file)
+                purity_set[(cluster_question, f_id)].append(_major/_total)
                 major += _major
                 total += _total
 
@@ -513,6 +518,9 @@ def clustering_DsetMix():
     purity = np.array(purity).reshape(loop, len(predictions))
 
     print(np.average(purity, axis=0), np.var(purity, axis=0))
+
+    for (cluster_question, f_id) in purity_set.keys():
+        print(cluster_question, f_id, np.average(np.array(purity_set[(cluster_question, f_id)])) )
 
     return np.average(purity, axis=0), np.var(purity, axis=0)
 

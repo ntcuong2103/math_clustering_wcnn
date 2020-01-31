@@ -11,7 +11,7 @@ from keras.callbacks import EarlyStopping, ModelCheckpoint, CSVLogger
 from datetime import datetime
 from CNN_multiscale_3lvl_2ft_pretrain_diag_viz_multiloss import buildVisualizeModel2 as buildModel
 from CNN_multiscale_3lvl_2ft_pretrain_diag_viz_multiloss import buildVisualizeModelAll2 as buildModel
-from CNN_multiscale_3lvl_2ft_pretrain_diag_viz_multiloss import buildSpatialFeatureModel as buildModel
+# from CNN_multiscale_3lvl_2ft_pretrain_diag_viz_multiloss import buildSpatialFeatureModel as buildModel
 
 from prepare_data_synthesis import prepare_data_train, prepare_data_valid, prepare_data_test
 # from prepare_data_synthesis import prepare_data_train_cross, prepare_data_valid_cross, prepare_data_test_cross
@@ -195,22 +195,22 @@ if __name__ == '__main__':
 
         # ---------------------------- feature extraction
 
-        output_path = 'clustering_experiment/khuong_dmix/attn'
-        os.makedirs(output_path, exist_ok=True)
-
-        size_file, file, _ = list(zip(*test_data))
-
-        with open(os.path.join(output_path, "testdata_file_list.txt"), 'w') as f:
-            f.write('\n'.join(file))
-
-        predict = cnn.model.predict_generator(test_gen, test_steps, verbose=1)
-        print (predict.shape)
-        np.savetxt(os.path.join(output_path, "predict.csv"), predict, delimiter=",")
-
-        # target = np.concatenate([label for _, label in test_gen], axis=0)
-        # print (target.shape)
-        # np.savetxt(os.path.join(output_path, "target.csv"), target, delimiter=",")
-        exit(0)
+        # output_path = 'clustering_experiment/khuong_dmix/attn'
+        # os.makedirs(output_path, exist_ok=True)
+        #
+        # size_file, file, _ = list(zip(*test_data))
+        #
+        # with open(os.path.join(output_path, "testdata_file_list.txt"), 'w') as f:
+        #     f.write('\n'.join(file))
+        #
+        # predict = cnn.model.predict_generator(test_gen, test_steps, verbose=1)
+        # print (predict.shape)
+        # np.savetxt(os.path.join(output_path, "predict.csv"), predict, delimiter=",")
+        #
+        # # target = np.concatenate([label for _, label in test_gen], axis=0)
+        # # print (target.shape)
+        # # np.savetxt(os.path.join(output_path, "target.csv"), target, delimiter=",")
+        # exit(0)
 
 
         # ---------------------------- testing
