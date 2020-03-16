@@ -524,11 +524,120 @@ def clustering_DsetMix():
 
     return np.average(purity, axis=0), np.var(purity, axis=0)
 
+def clustering_DsetMix_WAP():
+    import pickle as pkl
+    test_folder = 'clustering\\wap_weakly'
 
+    with open(os.path.join(test_folder, 'test_caption_khuong_decode_spp.pkl'), 'rb') as f:
+        features = pkl.load(f)
+    # print(features["Set2/1/47.png"].shape)
+    
+    os.makedirs(os.path.join(test_folder, "kmeans"), exist_ok=True)
+
+    test_files = features.keys()
+    print(len(test_files))
+
+    questions, test_groups, test_files = list(zip(*[(fn.split('/')[-3],
+                                                     fn.split('/')[-2],
+                                                     fn) for fn in test_files]))
+
+    # print(questions, test_groups, test_files)
+
+    print (len(questions))
+    print (list(set(test_groups)))
+
+    spatial_sizes = [(1,1),(3,5),(3,7),(5,7)]
+    num_classes = 101
+    y_pred = np.array([features[test_file] for test_file in test_files]).astype(float)
+    print(y_pred.shape)
+
+    predictions = []
+    begin = 0
+    for spatial_size in spatial_sizes:
+        feature_len = spatial_size[0] * spatial_size[1] * num_classes
+        predictions.append(y_pred[:, begin:begin+feature_len])
+        # print(begin, feature_len)
+        begin += feature_len
+
+    combine_preds = []
+    for i in range (1, len(predictions)):
+        combine_preds.append(np.concatenate((predictions[0], predictions[i]), axis=-1))
+
+    for i in range (2, len(predictions)):
+        combine_preds.append(np.concatenate((predictions[0], predictions[1], predictions[i]), axis=-1))
+
+    for i in range (3, len(predictions)):
+        combine_preds.append(np.concatenate((predictions[0], predictions[1], predictions[2], predictions[i]), axis=-1))
+
+    predictions += combine_preds
+
+
+    print (predictions[0].shape, predictions[-1].shape)
+
+    # cosine dissimilarity
+    from sklearn.metrics.pairwise import cosine_similarity, pairwise_distances
+
+    purity = []
+    from collections import defaultdict
+
+    purity_set = defaultdict(list)
+    loop = 5
+
+    for _ in range(loop):
+        for f_id in range(len(predictions)):
+            print(f_id, '----------------------')
+            major = total = 0
+
+            purity_file = os.path.join(test_folder,
+                                       'kmeans/purity_f{}.txt'.format(f_id))
+
+
+            for cluster_question in list(set(questions)):
+
+                result_file = os.path.join(test_folder,
+                                           'kmeans/{}_kmeans_f{}.txt'.format(cluster_question, f_id))
+
+                answers = []
+                for question, answ, test_file, feature in zip(questions, test_groups, test_files, predictions[f_id]):
+                    # print (question, cluster_question)
+                    if question == cluster_question:
+                        answers.append((answ, test_file, feature))
+
+                answer_ids, files, features = list(zip(*answers))
+                cluster_num = len(list(set(answer_ids)))
+                print(cluster_question, len(answers), cluster_num)
+
+                # clustering answers
+                features = 1 - cosine_similarity(features)
+
+                C = Kmeans_cluster(features, cluster_num)
+                # C = Agg_cluster(features, cluster_num)
+
+                with open(result_file, 'w') as f:
+                    for cluster in C.keys():
+                        for i in C[cluster]:
+                            f.writelines('{}\t{}\t{}\t{}\n'.format(cluster, answer_ids[i], i, files[i]))
+
+                _major, _total = calc_purity(result_file, purity_file)
+                purity_set[(cluster_question, f_id)].append(_major/_total)
+                major += _major
+                total += _total
+
+            # print (float(major)/total)
+            purity.append(float(major)/total)
+
+    purity = np.array(purity).reshape(loop, len(predictions))
+
+    print(np.average(purity, axis=0), np.var(purity, axis=0))
+
+    for (cluster_question, f_id) in purity_set.keys():
+        print(cluster_question, f_id, np.average(np.array(purity_set[(cluster_question, f_id)])) )
+
+    return np.average(purity, axis=0), np.var(purity, axis=0)
 
 if __name__ == '__main__':
-    avg, var = clustering_DsetMix()
-    np.savetxt('clustering_DsetMix.csv', np.array(avg), delimiter=',')
+    avg, var = clustering_DsetMix_WAP()
+    np.savetxt('clustering_DsetMix_WAP.csv', np.array(avg), delimiter=',')
 
     # avg, var = clustering_Sasaki(0)
     # np.savetxt('clustering_Sasaki_attn.csv', np.array(avg), delimiter=',')
